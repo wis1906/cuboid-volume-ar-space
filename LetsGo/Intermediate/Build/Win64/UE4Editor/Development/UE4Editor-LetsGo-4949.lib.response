@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-LetsGo-4949.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.RTTI.h.obj"
+"E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\LetsGo\BoundingBoxMgr.cpp.obj"
+"E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\LetsGo\CubemapMgr.cpp.obj"
+"E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\LetsGo\CubemapProjector.cpp.obj"
+"E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\LetsGo\LetsGo.cpp.obj"
+"E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\LetsGo\LetsGoGameModeBase.cpp.obj"
+"E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\LetsGo\mainST.cpp.obj"
+"E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\LetsGo\SlamDatabase.cpp.obj"
+"E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\LetsGo\SlamMgr.cpp.obj"
+"E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\LetsGo\BoundingBoxMgr.gen.cpp.obj"
+"E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\LetsGo\CubemapMgr.gen.cpp.obj"
+"E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\LetsGo\LetsGo.init.gen.cpp.obj"
+"E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\LetsGo\LetsGoGameModeBase.gen.cpp.obj"
+"E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\LetsGo\SlamMgr.gen.cpp.obj"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\LetsGo\PCLaunch.rc.res"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LetsGo-4949.lib"

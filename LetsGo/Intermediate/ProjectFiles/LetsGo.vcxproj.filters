@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LetsGo.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E17434F7-D500-4FE1-A972-C34B93B1E243}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LetsGo.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LetsGoEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{237377DF-0F7B-4D8A-89A3-D88EA5B58010}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{0D33CFA3-68D0-484F-9FD1-249233720902}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ApproxMVBB">
+      <UniqueIdentifier>{77C49D86-7051-4212-A6A5-86D10501F065}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ApproxMVBB\Source">
+      <UniqueIdentifier>{650D9450-EB23-40E0-A14B-55A8BE9BBF30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ApproxMVBB\Source\ApproxMVBB">
+      <UniqueIdentifier>{61E7B437-BACF-45C7-8E6B-15D6A8AA6298}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ApproxMVBB\Source\ApproxMVBB\ApproxMVBB.Build.cs">
+      <Filter>Plugins\ApproxMVBB\Source\ApproxMVBB</Filter>
+    </None>
+    <Filter Include="Plugins\ApproxMVBB\Source\ApproxMVBB\Private">
+      <UniqueIdentifier>{843B0406-8963-4513-AC51-12C5D70AC100}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\ApproxMVBB\Source\ApproxMVBB\Private\ApproxMVBB.cpp">
+      <Filter>Plugins\ApproxMVBB\Source\ApproxMVBB\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\ApproxMVBB\Source\ApproxMVBB\Public">
+      <UniqueIdentifier>{04FE7D0F-00A7-477E-B839-DFCD7F65EFC3}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\ApproxMVBB\Source\ApproxMVBB\Public\ApproxMVBB.h">
+      <Filter>Plugins\ApproxMVBB\Source\ApproxMVBB\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\ApproxMVBB\ApproxMVBB.uplugin">
+      <Filter>Plugins\ApproxMVBB</Filter>
+    </None>
+    <Filter Include="Plugins\ApproxMVBB\Resources">
+      <UniqueIdentifier>{51EB9B64-4156-41AE-86D5-B87FC0D6272F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ApproxMVBB\Resources\Icon128.png">
+      <Filter>Plugins\ApproxMVBB\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\ObjectBuilder">
+      <UniqueIdentifier>{A4A95E5A-9312-4E85-919A-60DF4AA7380D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ObjectBuilder\ObjectBuilder.uplugin">
+      <Filter>Plugins\ObjectBuilder</Filter>
+    </None>
+    <Filter Include="Plugins\ObjectBuilder\Resources">
+      <UniqueIdentifier>{3A61BDB5-7935-4D6E-BFDA-4319AA6E4EDA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ObjectBuilder\Resources\Icon128.png">
+      <Filter>Plugins\ObjectBuilder\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\OpenCV410">
+      <UniqueIdentifier>{BAB5C400-4243-4843-957E-B22DBC651236}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OpenCV410\OpenCV410.uplugin">
+      <Filter>Plugins\OpenCV410</Filter>
+    </None>
+    <Filter Include="Plugins\OpenCV410\Resources">
+      <UniqueIdentifier>{0A7EE159-36C0-448C-AA20-54ACC3F94A8C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OpenCV410\Resources\Icon128.png">
+      <Filter>Plugins\OpenCV410\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\ObjectBuilder\Source">
+      <UniqueIdentifier>{75822E47-C631-4F45-92A1-351EBB968F39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\ObjectBuilder\Source\ObjectBuilder">
+      <UniqueIdentifier>{F7377BF4-2C19-4916-A008-FA4ABC61F065}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\ObjectBuilder\Source\ObjectBuilder\ObjectBuilder.Build.cs">
+      <Filter>Plugins\ObjectBuilder\Source\ObjectBuilder</Filter>
+    </None>
+    <Filter Include="Plugins\ObjectBuilder\Source\ObjectBuilder\Private">
+      <UniqueIdentifier>{3E64E093-3F1B-4DE0-8C93-0893D22DDB1D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\ObjectBuilder\Source\ObjectBuilder\Private\ObjectBuilder.cpp">
+      <Filter>Plugins\ObjectBuilder\Source\ObjectBuilder\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\ObjectBuilder\Source\ObjectBuilder\Public">
+      <UniqueIdentifier>{C944A19E-6703-4661-9052-E14FE72788FF}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\ObjectBuilder\Source\ObjectBuilder\Public\ObjectBuilder.h">
+      <Filter>Plugins\ObjectBuilder\Source\ObjectBuilder\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\OpenCV410\Source">
+      <UniqueIdentifier>{600FB78E-82A3-4AEC-823D-9FA21C83A103}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\OpenCV410\Source\OpenCV410">
+      <UniqueIdentifier>{908FB07A-7C90-43AA-A630-0BA874DFB46A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OpenCV410\Source\OpenCV410\OpenCV410.Build.cs">
+      <Filter>Plugins\OpenCV410\Source\OpenCV410</Filter>
+    </None>
+    <Filter Include="Plugins\OpenCV410\Source\OpenCV410\Private">
+      <UniqueIdentifier>{2E00F973-F6E7-420B-BB49-F797B447A64A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\OpenCV410\Source\OpenCV410\Private\OpenCV410.cpp">
+      <Filter>Plugins\OpenCV410\Source\OpenCV410\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\OpenCV410\Source\OpenCV410\Public">
+      <UniqueIdentifier>{4D0A53DA-ABFE-448C-9C5F-E3435BDA13E1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\OpenCV410\Source\OpenCV410\Public\OpenCV410.h">
+      <Filter>Plugins\OpenCV410\Source\OpenCV410\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\LetsGo">
+      <UniqueIdentifier>{EAAD5EC2-8821-4AAA-B2CD-33DA180D2351}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\LetsGo\BoundingBoxMgr.cpp">
+      <Filter>Source\LetsGo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LetsGo\BoundingBoxMgr.h">
+      <Filter>Source\LetsGo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LetsGo\CubemapMgr.cpp">
+      <Filter>Source\LetsGo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LetsGo\CubemapMgr.h">
+      <Filter>Source\LetsGo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LetsGo\CubemapProjector.cpp">
+      <Filter>Source\LetsGo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LetsGo\CubemapProjector.h">
+      <Filter>Source\LetsGo</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\LetsGo\LetsGo.Build.cs">
+      <Filter>Source\LetsGo</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LetsGo\LetsGo.cpp">
+      <Filter>Source\LetsGo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LetsGo\LetsGo.h">
+      <Filter>Source\LetsGo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LetsGo\LetsGoGameModeBase.cpp">
+      <Filter>Source\LetsGo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LetsGo\LetsGoGameModeBase.h">
+      <Filter>Source\LetsGo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LetsGo\mainST.cpp">
+      <Filter>Source\LetsGo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LetsGo\mainST.h">
+      <Filter>Source\LetsGo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LetsGo\SlamDatabase.cpp">
+      <Filter>Source\LetsGo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LetsGo\SlamDatabase.h">
+      <Filter>Source\LetsGo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LetsGo\SlamMgr.cpp">
+      <Filter>Source\LetsGo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LetsGo\SlamMgr.h">
+      <Filter>Source\LetsGo</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\LetsGo\FPSCharacter.h">
+      <Filter>Source\LetsGo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\LetsGo\FPSProjectile.h">
+      <Filter>Source\LetsGo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\LetsGo\FPSHUD.h">
+      <Filter>Source\LetsGo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\LetsGo\MonsterSpawnMgr.h">
+      <Filter>Source\LetsGo</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\LetsGo\FPSCharacter.cpp">
+      <Filter>Source\LetsGo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\LetsGo\FPSProjectile.cpp">
+      <Filter>Source\LetsGo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\LetsGo\FPSHUD.cpp">
+      <Filter>Source\LetsGo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\LetsGo\MonsterSpawnMgr.cpp">
+      <Filter>Source\LetsGo</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

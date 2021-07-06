@@ -1,0 +1,91 @@
+/MANIFEST:NO
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:5000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/LIBPATH:"E:\Unreal_Project\4.19.2\LetsGo\ThirdParty\ObjectBuilder\Libraries\Win64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Unreal_Project\4.19.2\LetsGo\Plugins\ObjectBuilder\Intermediate\Build\Win64\UE4Editor\Development\ObjectBuilder\Module.ObjectBuilder.cpp.obj"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ObjectBuilder\PCLaunch.rc.res"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+"object_builders_lib.lib"
+"qhullstatic.lib"
+"qhull_p.lib"
+"pcl_common_release.lib"
+"pcl_features_release.lib"
+"pcl_filters_release.lib"
+"pcl_io_ply_release.lib"
+"pcl_io_release.lib"
+"pcl_kdtree_release.lib"
+"pcl_keypoints_release.lib"
+"pcl_ml_release.lib"
+"pcl_octree_release.lib"
+"pcl_outofcore_release.lib"
+"pcl_people_release.lib"
+"pcl_recognition_release.lib"
+"pcl_registration_release.lib"
+"pcl_sample_consensus_release.lib"
+"pcl_search_release.lib"
+"pcl_segmentation_release.lib"
+"pcl_stereo_release.lib"
+"pcl_surface_release.lib"
+"pcl_tracking_release.lib"
+"pcl_visualization_release.lib"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CoreUObject.lib"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Engine.lib"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Slate.lib"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SlateCore.lib"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Core.lib"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RHI.lib"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-RenderCore.lib"
+/OUT:"E:\Unreal_Project\4.19.2\LetsGo\Plugins\ObjectBuilder\Binaries\Win64\UE4Editor-ObjectBuilder-1178.dll"
+/IMPLIB:"E:\Unreal_Project\4.19.2\LetsGo\Plugins\ObjectBuilder\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ObjectBuilder-1178.suppressed.lib"
+/PDB:"E:\Unreal_Project\4.19.2\LetsGo\Plugins\ObjectBuilder\Binaries\Win64\UE4Editor-ObjectBuilder-1178.pdb"
+/ignore:4078

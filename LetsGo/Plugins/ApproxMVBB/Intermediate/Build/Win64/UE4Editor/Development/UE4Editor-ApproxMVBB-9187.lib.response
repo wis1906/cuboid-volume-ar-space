@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ApproxMVBB-9187.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Unreal_Project\4.19.2\LetsGo\Plugins\ApproxMVBB\Intermediate\Build\Win64\UE4Editor\Development\ApproxMVBB\Module.ApproxMVBB.cpp.obj"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ApproxMVBB\PCLaunch.rc.res"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\Unreal_Project\4.19.2\LetsGo\Plugins\ApproxMVBB\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ApproxMVBB-9187.lib"
