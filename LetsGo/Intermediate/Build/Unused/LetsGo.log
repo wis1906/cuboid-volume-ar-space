@@ -1,0 +1,28 @@
+﻿  Compiling game modules for hot reload
+  Performing 3 actions (4 in parallel)
+  mainST.cpp
+E:\Unreal_Project\4.19.2\LetsGo\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(2419): warning C4946: 관련 클래스 'cv::Matx<double,4,1>'과(와) 'cv::Scalar_<double>' 사이에 reinterpret_cast가 사용되었습니다.
+  E:\Unreal_Project\4.19.2\LetsGo\ThirdParty\OpenCV\Includes\opencv2/core/matx.hpp(226): note: 'cv::Matx<double,4,1>' 선언을 참조하십시오.
+  E:\Unreal_Project\4.19.2\LetsGo\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(669): note: 'cv::Scalar_<double>' 선언을 참조하십시오.
+e:\unreal_project\4.19.2\letsgo\thirdparty\opencv\includes\opencv2\flann\dist.h(444): warning C4668: '__GNUC__'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+E:\Unreal_Project\4.19.2\LetsGo\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(176): warning C4263: 'void cv::detail::BlocksCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 멤버 함수가 기본 클래스 가상 멤버 함수를 재정의하지 않습니다.
+          with
+          [
+              _Ty=cv::Point
+          ]
+E:\Unreal_Project\4.19.2\LetsGo\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(187): warning C4264: 'void cv::detail::ExposureCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 기본 'cv::detail::ExposureCompensator'의 가상 멤버 함수에 대해 재정의를 사용할 수 없습니다. 함수가 숨겨집니다.
+          with
+          [
+              _Ty=cv::Point
+          ]
+  E:\Unreal_Project\4.19.2\LetsGo\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(78): note: 'cv::detail::ExposureCompensator::feed' 선언을 참조하십시오.
+  E:\Unreal_Project\4.19.2\LetsGo\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(60): note: 'cv::detail::ExposureCompensator' 선언을 참조하십시오.
+  [2/3] Link UE4Editor-LetsGo-8112.dll
+  [3/3] Link UE4Editor-LetsGo-8112.lib
+     E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LetsGo-8112.lib 라이브러리 및 E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LetsGo-8112.exp 개체를 생성하고 있습니다.
+  object_builders_lib.lib(min_box_object_builder.obj) : /GL로 컴파일한 MSIL .netmodule 또는 모듈이 있습니다. /LTCG를 지정하여 링크를 다시 시작하십시오. /LTCG를 링크 명령줄에 추가하면 링커 성능이 향상됩니다.
+     E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LetsGo-8112.suppressed.lib 라이브러리 및 E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LetsGo-8112.suppressed.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  코드를 생성했습니다.
+  Deploying LetsGoEditor Win64 Development...
+  Total build time: 20.26 seconds (Local executor: 17.43 seconds)
