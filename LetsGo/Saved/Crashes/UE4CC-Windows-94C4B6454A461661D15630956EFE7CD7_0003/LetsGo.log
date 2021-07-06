@@ -1,0 +1,1427 @@
+﻿Log file open, 01/30/21 03:50:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: LetsGo
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(98832975) SRandInit(98832976).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.294571
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin OpenCV410
+LogStreaming: Display: Took  0.186s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Unreal_Project/4.19.2/LetsGo/Binaries/Win64/UE4Editor-LetsGo.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Unreal_Project/4.19.2/LetsGo/Plugins/OpenCV410/Binaries/Win64/UE4Editor-OpenCV410.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-5SHH7PE (192.168.136.1:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: E:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2021.01.29-18.50.56:491][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.29-18.50.56:491][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.29-18.50.56:508][  0]LogInit: Computer: DESKTOP-5SHH7PE
+[2021.01.29-18.50.56:508][  0]LogInit: User: KISIK
+[2021.01.29-18.50.56:508][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.01.29-18.50.56:508][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.29-18.50.56:508][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.01.29-18.50.56:508][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.29-18.50.56:508][  0]LogMemory: Process Physical Memory: 275.89 MB used, 275.90 MB peak
+[2021.01.29-18.50.56:508][  0]LogMemory: Process Virtual Memory: 264.69 MB used, 264.69 MB peak
+[2021.01.29-18.50.56:508][  0]LogMemory: Physical Memory: 7981.80 MB used,  24722.57 MB free, 32704.37 MB total
+[2021.01.29-18.50.56:508][  0]LogMemory: Virtual Memory: 4778.93 MB used,  24722.57 MB free, 134217728.00 MB total
+[2021.01.29-18.50.56:697][  0]LogInit: Using OS detected language (ko-KR).
+[2021.01.29-18.50.56:697][  0]LogInit: Using OS detected locale (ko-KR).
+[2021.01.29-18.50.56:703][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2021.01.29-18.50.57:107][  0]LogStreaming: Display: Took  0.409s to EndInitTextLocalization.
+[2021.01.29-18.50.57:107][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.29-18.50.57:214][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.29-18.50.57:214][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.29-18.50.57:688][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.29-18.50.58:210][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2021.01.29-18.50.58:210][  0]LogD3D11RHI:       4043/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2021.01.29-18.50.58:292][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.29-18.50.58:292][  0]LogD3D11RHI:       0/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.29-18.50.58:292][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.29-18.50.58:300][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.29-18.50.58:300][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.29-18.50.58:300][  0]LogWindows: EnumDisplayDevices:
+[2021.01.29-18.50.58:301][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2021.01.29-18.50.58:302][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2021.01.29-18.50.58:303][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2021.01.29-18.50.58:303][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2021.01.29-18.50.58:304][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.01.29-18.50.58:304][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2021.01.29-18.50.58:304][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.01.29-18.50.58:304][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.01.29-18.50.58:304][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2021.01.29-18.50.58:366][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2021.01.29-18.50.58:366][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2021.01.29-18.50.58:366][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.29-18.50.58:380][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.29-18.50.58:398][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../Unreal_Project/4.19.2/LetsGo/Intermediate/Shaders/WorkingDirectory/24020/).
+[2021.01.29-18.50.58:399][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/KISIK/AppData/Local/Temp/UnrealShaderWorkingDir/DC9B664B4173A2458CEB4FB4C0B8E25B/'.
+[2021.01.29-18.50.58:700][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2021.01.29-18.50.58:715][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2021.01.29-18.50.58:732][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2021.01.29-18.50.58:747][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2021.01.29-18.50.58:764][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2021.01.29-18.50.58:779][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2021.01.29-18.50.58:795][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2021.01.29-18.50.58:810][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2021.01.29-18.50.58:818][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2021.01.29-18.50.58:837][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2021.01.29-18.50.58:849][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2021.01.29-18.50.58:863][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2021.01.29-18.50.58:881][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2021.01.29-18.50.58:898][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2021.01.29-18.50.58:915][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2021.01.29-18.50.58:944][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2021.01.29-18.50.58:944][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2021.01.29-18.50.58:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.29-18.50.58:964][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2021.01.29-18.50.59:005][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.01.29-18.50.59:018][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.01.29-18.50.59:033][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2021.01.29-18.50.59:049][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2021.01.29-18.50.59:063][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2021.01.29-18.50.59:079][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2021.01.29-18.50.59:079][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.29-18.50.59:275][  0]LogXGEController: Cleaning working directory: C:/Users/KISIK/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.01.29-18.50.59:275][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.29-18.50.59:276][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.29-18.50.59:276][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.29-18.51.00:102][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.29-18.51.00:181][  0]LogDerivedDataCache: Loaded boot cache 0.08s 84MB C:/Users/KISIK/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2021.01.29-18.51.00:181][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/KISIK/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2021.01.29-18.51.00:182][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal_Project/4.19.2/LetsGo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.29-18.51.00:182][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.29-18.51.00:182][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal_Project/4.19.2/LetsGo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.29-18.51.00:182][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.29-18.51.00:198][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.29-18.51.00:212][  0]LogDerivedDataCache: Using Local data cache path C:/Users/KISIK/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.29-18.51.00:212][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.29-18.51.00:212][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.29-18.51.00:222][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.01.29-18.51.00:222][  0]LogSlate: Using Freetype 2.6.0
+[2021.01.29-18.51.00:224][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.29-18.51.00:224][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.29-18.51.00:503][  0]LogAssetRegistry: FAssetRegistry took 0.0282 seconds to start up
+[2021.01.29-18.51.00:841][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.29-18.51.01:229][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2021.01.29-18.51.01:231][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2021.01.29-18.51.01:231][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.29-18.51.01:231][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2021.01.29-18.51.01:231][  0]LogMeshReduction: No automatic mesh merging module available
+[2021.01.29-18.51.01:231][  0]LogMeshMerging: No automatic mesh merging module available
+[2021.01.29-18.51.01:287][  0]LogNetVersion: LetsGo , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1751961038)
+[2021.01.29-18.51.01:830][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.124510 seconds
+[2021.01.29-18.51.01:836][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2021.01.29-18.51.01:836][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2021.01.29-18.51.01:836][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.29-18.51.04:293][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.29-18.51.04:333][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.29-18.51.06:592][  0]LetsGo: Warning: Input file not found.
+[2021.01.29-18.51.06:823][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2021.01.29-18.51.06:823][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2021.01.29-18.51.06:853][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2021.01.29-18.51.06:880][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2021.01.29-18.51.07:582][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.29-18.51.08:258][  0]LogOcInput: OculusInput pre-init called
+[2021.01.29-18.51.08:429][  0]LogEngine: Initializing Engine...
+[2021.01.29-18.51.08:433][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.29-18.51.08:433][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.01.29-18.51.08:433][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.01.29-18.51.08:678][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.29-18.51.09:009][  0]LogInit: XAudio2 using '헤드폰(4- BOUNCE Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.29-18.51.09:107][  0]LogInit: FAudioDevice initialized.
+[2021.01.29-18.51.09:193][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/KISIK/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2021.01.29-18.51.09:207][  0]LogInit: Texture streaming: Enabled
+[2021.01.29-18.51.09:227][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.29-18.51.09:241][  0]LogInit: Transaction tracking system initialized
+[2021.01.29-18.51.09:271][  0]BlueprintLog: New page: 에디터 로드
+[2021.01.29-18.51.09:353][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2021.01.29-18.51.09:495][  0]LogConsoleResponse: Display: 
+[2021.01.29-18.51.09:675][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.29-18.51.09:675][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.29-18.51.09:675][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2021.01.29-18.51.09:675][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.01.29-18.51.09:675][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.01.29-18.51.10:284][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/4.19.2/LetsGo/Content/' took 0.01s
+[2021.01.29-18.51.10:293][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2021.01.29-18.51.10:294][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.29-18.51.10:296][  0]LightingResults: New page: 라이팅 빌드
+[2021.01.29-18.51.10:299][  0]MapCheck: New page: 맵 체크
+[2021.01.29-18.51.10:299][  0]LightingResults: New page: 라이팅 빌드
+[2021.01.29-18.51.10:455][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C
+[2021.01.29-18.51.10:455][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C
+[2021.01.29-18.51.10:455][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C
+[2021.01.29-18.51.10:455][  0]LogLinker: Warning: Unable to load Default__BP_SystemMgr_C with outer Package /Game/Blueprint/BP_SystemMgr because its class does not exist
+[2021.01.29-18.51.10:455][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C
+[2021.01.29-18.51.10:456][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C
+[2021.01.29-18.51.10:456][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C
+[2021.01.29-18.51.10:456][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C
+[2021.01.29-18.51.10:456][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C
+[2021.01.29-18.51.10:456][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C
+[2021.01.29-18.51.10:456][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C
+[2021.01.29-18.51.10:457][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C
+[2021.01.29-18.51.10:458][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C
+[2021.01.29-18.51.10:458][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C
+[2021.01.29-18.51.10:458][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C
+[2021.01.29-18.51.10:476][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C
+[2021.01.29-18.51.10:480][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C
+[2021.01.29-18.51.10:481][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C
+[2021.01.29-18.51.10:616][  0]LogAIModule: Creating AISystem for world Stage
+[2021.01.29-18.51.10:622][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.29-18.51.10:636][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.29-18.51.10:732][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 95.765ms.
+[2021.01.29-18.51.10:732][  0]LogFileHelpers: Loading map 'Stage' took 0.439
+[2021.01.29-18.51.10:955][  0]LogCollectionManager: Loaded 0 collections in 0.001225 seconds
+[2021.01.29-18.51.11:009][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/4.19.2/LetsGo/Saved/Collections/' took 0.01s
+[2021.01.29-18.51.11:009][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/4.19.2/LetsGo/Content/Developers/KISIK/Collections/' took 0.01s
+[2021.01.29-18.51.11:009][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/4.19.2/LetsGo/Content/Collections/' took 0.01s
+[2021.01.29-18.51.11:009][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.01.29-18.51.11:020][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2455 classes and 560 folders.
+[2021.01.29-18.51.11:027][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2021.01.29-18.51.11:118][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2021.01.29-18.51.11:125][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2021.01.29-18.51.11:136][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0010 seconds. Added 2 classes and 3 folders.
+[2021.01.29-18.51.11:216][  0]LogSlate: Took 0.000882 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.29-18.51.11:221][  0]LogSlate: Took 0.003847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.01.29-18.51.11:226][  0]LogSlate: Took 0.003380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.01.29-18.51.11:227][  0]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.29-18.51.11:233][  0]LogSlate: Took 0.000410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.29-18.51.11:340][  0]LogRenderer: Reallocating scene render targets to support 1144x548 Format 10 NumSamples 1 (Frame:1).
+[2021.01.29-18.51.11:398][  0]LogSlate: Took 0.000450 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.29-18.51.11:515][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.01.29-18.51.11:515][  0]LogLoad: (Engine Initialization) Total time: 19.39 seconds
+[2021.01.29-18.51.11:515][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'UberGraphFrame' 리소스에 대한 BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'ExecuteUbergraph_BP_SystemMgr' 리소스에 대한 BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'K2Node_Event_pos' 리소스에 대한 Function /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C:ExecuteUbergraph_BP_SystemMgr Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'drawFrameCamera' 리소스에 대한 BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'pos' 리소스에 대한 Function /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C:drawFrameCamera Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'K2Node_Event_pos1' 리소스에 대한 Function /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C:ExecuteUbergraph_BP_SystemMgr Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'drawKeyframeCamera' 리소스에 대한 BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'pos' 리소스에 대한 Function /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C:drawKeyframeCamera Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'K2Node_Event_pos2' 리소스에 대한 Function /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C:ExecuteUbergraph_BP_SystemMgr Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'drawLandmark' 리소스에 대한 BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'pos' 리소스에 대한 Function /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C:drawLandmark Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'CallFunc_FinishSpawningActor_ReturnValue2' 리소스에 대한 Function /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C:ExecuteUbergraph_BP_SystemMgr Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'CallFunc_BeginDeferredActorSpawnFromClass_ReturnValue2' 리소스에 대한 Function /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C:ExecuteUbergraph_BP_SystemMgr Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'CallFunc_MakeTransform_ReturnValue2' 리소스에 대한 Function /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C:ExecuteUbergraph_BP_SystemMgr Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'CallFunc_FinishSpawningActor_ReturnValue1' 리소스에 대한 Function /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C:ExecuteUbergraph_BP_SystemMgr Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'CallFunc_BeginDeferredActorSpawnFromClass_ReturnValue1' 리소스에 대한 Function /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C:ExecuteUbergraph_BP_SystemMgr Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'CallFunc_FinishSpawningActor_ReturnValue' 리소스에 대한 Function /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C:ExecuteUbergraph_BP_SystemMgr Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'CallFunc_MakeTransform_ReturnValue1' 리소스에 대한 Function /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C:ExecuteUbergraph_BP_SystemMgr Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'CallFunc_BeginDeferredActorSpawnFromClass_ReturnValue' 리소스에 대한 Function /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C:ExecuteUbergraph_BP_SystemMgr Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'CallFunc_MakeTransform_ReturnValue' 리소스에 대한 Function /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C:ExecuteUbergraph_BP_SystemMgr Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'EntryPoint' 리소스에 대한 Function /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C:ExecuteUbergraph_BP_SystemMgr Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'UserConstructionScript' 리소스에 대한 BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'DefaultSceneRoot' 리소스에 대한 BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'DefaultSceneRoot_GEN_VARIABLE' 리소스에 대한 BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'SimpleConstructionScript_0' 리소스에 대한 BlueprintGeneratedClass /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'SCS_Node_0' 리소스에 대한 SimpleConstructionScript /Game/Blueprint/BP_SystemMgr.BP_SystemMgr_C:SimpleConstructionScript_0 Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:859][  0]LoadErrors: Warning: CreateExport: 'DefaultSceneRoot' 리소스에 대한 BP_SystemMgr_C /Game/Map/Stage.Stage:PersistentLevel.BP_SystemMgr_46 Outer 로드에 실패했습니다.
+[2021.01.29-18.51.11:879][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.29-18.51.11:897][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.29-18.51.12:203][  1]LogAssetRegistry: Asset discovery search completed in 11.7228 seconds
+[2021.01.29-18.51.12:206][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.01.29-18.51.12:206][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000097 seconds (updated 0 objects)
+[2021.01.29-18.51.12:858][  3]LogSlate: Took 0.000395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.29-18.51.25:580][656]LogSlate: Window '메시지' being destroyed
+[2021.01.29-18.51.25:905][656]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 116 classes and 0 folders.
+[2021.01.29-18.51.26:245][656]LogUObjectGlobals: Created PersistentFrame Addr=0x000002001ba302d0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2021.01.29-18.51.26:245][656]LogUObjectGlobals: Created PersistentFrame Addr=0x000002001ba30298, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2021.01.29-18.51.28:103][656]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.853 s
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: === Handled ensure: ===
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: 
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: Ensure condition failed: BpClass != nullptr [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionFilter.cpp] [Line: 632]
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: Unable to resolve IsEventUnimplementable() - Blueprint (BP_SystemMgr) missing an authoratative class (skel: [NULL], generated: [NULL], parent: [NULL])
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: Stack: 
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: [Callstack] 0x0000000044E5B706 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: [Callstack] 0x0000000044BBAE3A UE4Editor-Core.dll!UnknownFunction []
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: [Callstack] 0x0000000044BCECD6 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: [Callstack] 0x000000003E750C5D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: [Callstack] 0x000000003E751A6D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: [Callstack] 0x000000003E751749 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: [Callstack] 0x000000003F3D6875 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: [Callstack] 0x000000003F415934 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: [Callstack] 0x000000003F3D71DA UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: [Callstack] 0x000000003F5FD8E7 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: [Callstack] 0x000000003F628D0C UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: [Callstack] 0x000000003F62B51C UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: [Callstack] 0x000000003DB37898 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: [Callstack] 0x000000003DA6B77B UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: [Callstack] 0x000000003F5EC2EB UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: [Callstack] 0x000000003F60CF22 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: [Callstack] 0x000000003F608EC9 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.28:103][656]LogOutputDevice: Error: [Callstack] 0x000000003F5EB89F UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x000000003F6094A9 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x000000003F32886F UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x000000003F36109C UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x000000003F34FBE9 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x000000003F3CB2C4 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x000000003F4F02CD UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x00000000262FBDEB UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x000000004136A064 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x0000000026297FA5 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x0000000024746008 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x0000000024708047 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x00000000247100E7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x0000000024750881 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x00000000247064F1 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x000000002470EE4F UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x000000002470CAB8 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x000000002475D760 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x0000000024750AEA UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x0000000048C364EE UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x0000000048C079DE UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x0000000048C9D8A4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x0000000048C87066 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x0000000048C7A993 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x000000006B28E649 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x000000006B281B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x000000006B29052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x000000006B27D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x00000000932F5C1D USER32.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x00000000932F5612 USER32.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x000000006B291666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x00000000D8F85475 UE4Editor.exe!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x00000000D8F96BD0 UE4Editor.exe!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x00000000D8F96C4A UE4Editor.exe!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x00000000D8FA4177 UE4Editor.exe!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x00000000D8FA5B87 UE4Editor.exe!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x0000000091E77C24 KERNEL32.DLL!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: [Callstack] 0x0000000093CCD4D1 ntdll.dll!UnknownFunction []
+[2021.01.29-18.51.28:104][656]LogOutputDevice: Error: 
+[2021.01.29-18.51.28:115][656]LogStats:                SubmitErrorReport -  0.000 s
+[2021.01.29-18.51.29:118][656]LogStats:                    SendNewReport -  1.004 s
+[2021.01.29-18.51.29:118][656]LogStats:             FDebug::EnsureFailed -  2.869 s
+[2021.01.29-18.51.29:132][656]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.002 s
+[2021.01.29-18.51.29:132][656]LogOutputDevice: Error: === Handled ensure: ===
+[2021.01.29-18.51.29:132][656]LogOutputDevice: Error: 
+[2021.01.29-18.51.29:132][656]LogOutputDevice: Error: Ensure condition failed: BpClass != nullptr [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionFilter.cpp] [Line: 731]
+[2021.01.29-18.51.29:132][656]LogOutputDevice: Error: Unable to resolve IsFieldInaccessible() - Blueprint (BP_SystemMgr) missing an authoratative class (skel: [NULL], generated: [NULL], parent: [NULL])
+[2021.01.29-18.51.29:132][656]LogOutputDevice: Error: Stack: 
+[2021.01.29-18.51.29:132][656]LogOutputDevice: Error: [Callstack] 0x0000000044E5B706 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.29-18.51.29:132][656]LogOutputDevice: Error: [Callstack] 0x0000000044BBAE3A UE4Editor-Core.dll!UnknownFunction []
+[2021.01.29-18.51.29:132][656]LogOutputDevice: Error: [Callstack] 0x0000000044BCECD6 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.29-18.51.29:132][656]LogOutputDevice: Error: [Callstack] 0x000000003E7515DC UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.01.29-18.51.29:132][656]LogOutputDevice: Error: [Callstack] 0x000000003E751A6D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.01.29-18.51.29:132][656]LogOutputDevice: Error: [Callstack] 0x000000003E751749 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.01.29-18.51.29:132][656]LogOutputDevice: Error: [Callstack] 0x000000003F3D6875 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x000000003F415934 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x000000003F3D71DA UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x000000003F5FD8E7 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x000000003F628D0C UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x000000003F62B51C UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x000000003DB37898 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x000000003DA6B77B UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x000000003F5EC2EB UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x000000003F60CF22 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x000000003F608EC9 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x000000003F5EB89F UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x000000003F6094A9 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x000000003F32886F UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x000000003F36109C UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x000000003F34FBE9 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x000000003F3CB2C4 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x000000003F4F02CD UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x00000000262FBDEB UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x000000004136A064 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x0000000026297FA5 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x0000000024746008 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x0000000024708047 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x00000000247100E7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.29:133][656]LogOutputDevice: Error: [Callstack] 0x0000000024750881 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x00000000247064F1 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x000000002470EE4F UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x000000002470CAB8 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x000000002475D760 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x0000000024750AEA UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x0000000048C364EE UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x0000000048C079DE UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x0000000048C9D8A4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x0000000048C87066 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x0000000048C7A993 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x000000006B28E649 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x000000006B281B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x000000006B29052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x000000006B27D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x00000000932F5C1D USER32.dll!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x00000000932F5612 USER32.dll!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x000000006B291666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x00000000D8F85475 UE4Editor.exe!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x00000000D8F96BD0 UE4Editor.exe!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x00000000D8F96C4A UE4Editor.exe!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x00000000D8FA4177 UE4Editor.exe!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x00000000D8FA5B87 UE4Editor.exe!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x0000000091E77C24 KERNEL32.DLL!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: [Callstack] 0x0000000093CCD4D1 ntdll.dll!UnknownFunction []
+[2021.01.29-18.51.29:134][656]LogOutputDevice: Error: 
+[2021.01.29-18.51.29:145][656]LogStats:                SubmitErrorReport -  0.000 s
+[2021.01.29-18.51.29:910][656]LogStats:                    SendNewReport -  0.764 s
+[2021.01.29-18.51.29:910][656]LogStats:             FDebug::EnsureFailed -  0.780 s
+[2021.01.29-18.51.30:259][656]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.002 s
+[2021.01.29-18.51.30:259][656]LogOutputDevice: Error: === Handled ensure: ===
+[2021.01.29-18.51.30:259][656]LogOutputDevice: Error: 
+[2021.01.29-18.51.30:259][656]LogOutputDevice: Error: Ensure condition failed: Blueprint != nullptr && Blueprint->ParentClass != nullptr [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionFilter.cpp] [Line: 1695]
+[2021.01.29-18.51.30:259][656]LogOutputDevice: Error: 
+[2021.01.29-18.51.30:259][656]LogOutputDevice: Error: Stack: 
+[2021.01.29-18.51.30:259][656]LogOutputDevice: Error: [Callstack] 0x0000000044E5B706 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.29-18.51.30:259][656]LogOutputDevice: Error: [Callstack] 0x0000000044BBAE3A UE4Editor-Core.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x0000000044BCECD6 UE4Editor-Core.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x000000003E752A97 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x000000003E751A6D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x000000003E751749 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x000000003F3D6875 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x000000003F415934 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x000000003F3D71DA UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x000000003F5FD8E7 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x000000003F628D0C UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x000000003F62B51C UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x000000003DB37898 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x000000003DA6B77B UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x000000003F5EC2EB UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x000000003F60CF22 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x000000003F608EC9 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x000000003F5EB89F UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x000000003F6094A9 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x000000003F32886F UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x000000003F36109C UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.30:260][656]LogOutputDevice: Error: [Callstack] 0x000000003F34FBE9 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x000000003F3CB2C4 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x000000003F4F02CD UE4Editor-Kismet.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x00000000262FBDEB UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x000000004136A064 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x0000000026297FA5 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x0000000024746008 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x0000000024708047 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x00000000247100E7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x0000000024750881 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x00000000247064F1 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x000000002470EE4F UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x000000002470CAB8 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x000000002475D760 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x0000000024750AEA UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x0000000048C364EE UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x0000000048C079DE UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x0000000048C9D8A4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x0000000048C87066 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x0000000048C7A993 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x000000006B28E649 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x000000006B281B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x000000006B29052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x000000006B27D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x00000000932F5C1D USER32.dll!UnknownFunction []
+[2021.01.29-18.51.30:261][656]LogOutputDevice: Error: [Callstack] 0x00000000932F5612 USER32.dll!UnknownFunction []
+[2021.01.29-18.51.30:262][656]LogOutputDevice: Error: [Callstack] 0x000000006B291666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.29-18.51.30:262][656]LogOutputDevice: Error: [Callstack] 0x00000000D8F85475 UE4Editor.exe!UnknownFunction []
+[2021.01.29-18.51.30:262][656]LogOutputDevice: Error: [Callstack] 0x00000000D8F96BD0 UE4Editor.exe!UnknownFunction []
+[2021.01.29-18.51.30:262][656]LogOutputDevice: Error: [Callstack] 0x00000000D8F96C4A UE4Editor.exe!UnknownFunction []
+[2021.01.29-18.51.30:262][656]LogOutputDevice: Error: [Callstack] 0x00000000D8FA4177 UE4Editor.exe!UnknownFunction []
+[2021.01.29-18.51.30:262][656]LogOutputDevice: Error: [Callstack] 0x00000000D8FA5B87 UE4Editor.exe!UnknownFunction []
+[2021.01.29-18.51.30:262][656]LogOutputDevice: Error: [Callstack] 0x0000000091E77C24 KERNEL32.DLL!UnknownFunction []
+[2021.01.29-18.51.30:262][656]LogOutputDevice: Error: [Callstack] 0x0000000093CCD4D1 ntdll.dll!UnknownFunction []
+[2021.01.29-18.51.30:262][656]LogOutputDevice: Error: 
+[2021.01.29-18.51.30:273][656]LogStats:                SubmitErrorReport -  0.000 s
+[2021.01.29-18.51.31:125][656]LogStats:                    SendNewReport -  0.852 s
+[2021.01.29-18.51.31:126][656]LogStats:             FDebug::EnsureFailed -  0.868 s
+[2021.01.29-18.51.31:396][656]LogSlate: Took 0.000387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.29-18.51.36:589][913]LogSlate: Took 0.000404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.29-18.52.05:324][923]LogSlate: Window 'BP_SystemMgr' being destroyed
+[2021.01.29-18.52.22:484][769]BlueprintLog: New page: BP_SystemMgr 컴파일
+[2021.01.29-18.52.22:490][769]LogBlueprint: Error: [Compiler BP_SystemMgr] BP_SystemMgr  블루프린트에 부모 클래스가 없거나 NULL 입니다.
+[2021.01.29-18.52.22:512][769]LogBlueprint: Warning: [Compiler BP_SystemMgr] [0090.38] BP_SystemMgr 컴파일에 실패했습니다. 치명적 오류 1 회, 경고 0 회, [소요시간 27 ms] (/Game/Blueprint/BP_SystemMgr.BP_SystemMgr)
+[2021.01.29-18.52.25:043][ 35]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.29-18.52.39:988][251]LogSlate: Window '메시지' being destroyed
+[2021.01.29-18.52.52:918][420]LogSlate: Window '블루프린트 클래스 추가' being destroyed
+[2021.01.29-18.52.53:056][420]LogRenderer: Reallocating scene render targets to support 1144x712 Format 10 NumSamples 1 (Frame:1).
+[2021.01.29-18.52.55:017][534]LogSlate: Window 'BP_SlamMgr*' being destroyed
+[2021.01.29-18.52.58:502][751]LogSlate: Window '메시지' being destroyed
+[2021.01.29-18.53.05:379][495]LogUObjectGlobals: Created PersistentFrame Addr=0x00000200774dec08, Size=4, Default__SKEL_BP_SlamMgr_C Function /Game/BP_SlamMgr.SKEL_BP_SlamMgr_C:ExecuteUbergraph_BP_SlamMgr
+[2021.01.29-18.53.08:376][818]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000200774dec08, Size=4
+[2021.01.29-18.53.08:376][818]LogUObjectGlobals: Created PersistentFrame Addr=0x000002009483ea98, Size=4, Default__SKEL_BP_SlamMgr_C Function /Engine/Transient.REINST_SKEL_BP_SlamMgr_C_29:ExecuteUbergraph_BP_SlamMgr
+[2021.01.29-18.53.08:389][818]LogUObjectGlobals: Created PersistentFrame Addr=0x000002009483ea08, Size=4, Default__SKEL_BP_SlamMgr_C Function /Game/BP_SlamMgr.SKEL_BP_SlamMgr_C:ExecuteUbergraph_BP_SlamMgr
+[2021.01.29-18.53.13:884][446]BlueprintLog: New page: BP_SlamMgr 컴파일
+[2021.01.29-18.53.13:887][446]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002009483ea08, Size=4
+[2021.01.29-18.53.13:887][446]LogUObjectGlobals: Created PersistentFrame Addr=0x00000200774dcfb0, Size=4, Default__SKEL_BP_SlamMgr_C Function /Engine/Transient.REINST_SKEL_BP_SlamMgr_C_31:ExecuteUbergraph_BP_SlamMgr
+[2021.01.29-18.53.13:917][446]LogUObjectGlobals: Created PersistentFrame Addr=0x00000200946f7500, Size=256, Default__BP_SlamMgr_C Function /Game/BP_SlamMgr.BP_SlamMgr_C:ExecuteUbergraph_BP_SlamMgr
+[2021.01.29-18.53.14:068][446]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000200774dcfb0, Size=4
+[2021.01.29-18.53.14:068][446]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002009483ea98, Size=4
+[2021.01.29-18.53.14:812][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_SlamMgr" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/BP_SlamMgr.uasset" SILENT=true
+[2021.01.29-18.53.14:828][523]LogSavePackage: Save=14.51ms
+[2021.01.29-18.53.14:828][523]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/BP_SlamMgr6E9E77504CAA8BEDB5F1DFA8CC1319DE.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/BP_SlamMgr.uasset'
+[2021.01.29-18.53.14:832][523]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/BP_SlamMgr.uasset
+[2021.01.29-18.53.19:936][883]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.29-18.53.29:842][818]LogMetaData: Removing '/Game/Blueprint/BP_SlamMgr.BP_SlamMgr:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_SlamMgr.PackageMetaData'
+[2021.01.29-18.53.29:842][818]LogMetaData: Removing '/Game/Blueprint/BP_SlamMgr.SKEL_BP_SlamMgr_C' ref from Metadata '/Game/BP_SlamMgr.PackageMetaData'
+[2021.01.29-18.53.29:842][818]LogMetaData: Removing '/Game/Blueprint/BP_SlamMgr.BP_SlamMgr_C' ref from Metadata '/Game/BP_SlamMgr.PackageMetaData'
+[2021.01.29-18.53.29:842][818]LogMetaData: Removing '/Game/Blueprint/BP_SlamMgr.BP_SlamMgr:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_SlamMgr.PackageMetaData'
+[2021.01.29-18.53.29:842][818]LogMetaData: Removing '/Game/Blueprint/BP_SlamMgr.BP_SlamMgr:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP_SlamMgr.PackageMetaData'
+[2021.01.29-18.53.29:842][818]LogMetaData: Removing '/Game/Blueprint/BP_SlamMgr.BP_SlamMgr:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BP_SlamMgr.PackageMetaData'
+[2021.01.29-18.53.29:842][818]LogMetaData: Removing '/Game/Blueprint/BP_SlamMgr.BP_SlamMgr_C:DefaultSceneRoot' ref from Metadata '/Game/BP_SlamMgr.PackageMetaData'
+[2021.01.29-18.53.29:842][818]LogMetaData: Removing '/Game/Blueprint/BP_SlamMgr.SKEL_BP_SlamMgr_C:UserConstructionScript' ref from Metadata '/Game/BP_SlamMgr.PackageMetaData'
+[2021.01.29-18.53.29:842][818]LogMetaData: Removing '/Game/Blueprint/BP_SlamMgr.SKEL_BP_SlamMgr_C:DefaultSceneRoot' ref from Metadata '/Game/BP_SlamMgr.PackageMetaData'
+[2021.01.29-18.53.29:842][818]LogMetaData: Removing '/Game/Blueprint/BP_SlamMgr.BP_SlamMgr_C:UserConstructionScript' ref from Metadata '/Game/BP_SlamMgr.PackageMetaData'
+[2021.01.29-18.53.29:842][818]LogMetaData: Removing '/Game/Blueprint/BP_SlamMgr.BP_SlamMgr_C:ExecuteUbergraph_BP_SlamMgr' ref from Metadata '/Game/BP_SlamMgr.PackageMetaData'
+[2021.01.29-18.53.29:877][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_SlamMgr" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/BP_SlamMgr.uasset" SILENT=true
+[2021.01.29-18.53.29:893][818]LogSavePackage: Save=14.05ms
+[2021.01.29-18.53.29:894][818]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/BP_SlamMgr6CF6A02B4B207F98CC4320919DBD6D36.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/BP_SlamMgr.uasset'
+[2021.01.29-18.53.29:897][818]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/BP_SlamMgr.uasset
+[2021.01.29-18.53.33:059][ 35]LogSlate: Window 'BP_SlamMgr' being destroyed
+[2021.01.29-18.53.36:597][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-18.53.36:698][372]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.01.29-18.53.36:715][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-18.53.36:715][372]PIE: New page: PIE 세션: Stage (2021. 1. 30. 오후 12:53:36)
+[2021.01.29-18.53.36:715][372]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.01.29-18.53.36:729][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013733s)
+[2021.01.29-18.53.36:730][372]LogAIModule: Creating AISystem for world Stage
+[2021.01.29-18.53.36:730][372]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2021.01.29-18.53.36:730][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.014774s)
+[2021.01.29-18.53.37:018][372]LogInit: XAudio2 using '헤드폰(4- BOUNCE Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.29-18.53.37:066][372]LogInit: FAudioDevice initialized.
+[2021.01.29-18.53.37:111][372]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.29-18.53.37:113][372]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.01.30-03.53.37
+[2021.01.29-18.53.37:113][372]LogWorld: Bringing up level for play took: 0.000576
+[2021.01.29-18.53.37:117][372]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2021.01.29-18.53.37:118][372]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 1
+[2021.01.29-18.53.42:690][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-18.53.44:635][995]Candidate modules for hot reload:
+[2021.01.29-18.53.44:635][995]  LetsGo
+[2021.01.29-18.53.44:635][995]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe LetsGo -ModuleWithSuffix=LetsGo,2217 Win64 Development -editorrecompile -canskiplink "E:/Unreal_Project/4.19.2/LetsGo/LetsGo.uproject" ]
+[2021.01.29-18.53.44:638][995]Warning: Starting HotReload took  0.1s.
+[2021.01.29-18.53.53:502][894]CompilerResultsLog: New page: 컴파일 - 2021. 1. 30. 오후 12:53:53
+[2021.01.29-18.53.53:502][894]CompilerResultsLog: Creating makefile for hot reloading LetsGo (game project files are newer)
+[2021.01.29-18.53.53:502][894]CompilerResultsLog: Compiling game modules for hot reload
+[2021.01.29-18.53.53:502][894]CompilerResultsLog: Performing 1 actions (4 in parallel)
+[2021.01.29-18.53.53:502][894]CompilerResultsLog: [1/1] Link UE4Editor-LetsGo-2217.dll
+[2021.01.29-18.53.53:503][894]CompilerResultsLog:    E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LetsGo-2217.suppressed.lib ???̺귯?? ?? E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LetsGo-2217.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2021.01.29-18.53.53:503][894]CompilerResultsLog: Total build time: 8.58 seconds (Local executor: 1.63 seconds)
+[2021.01.29-18.53.53:503][894]LogMainFrame: MainFrame: Module compiling took 8.885 seconds
+[2021.01.29-18.53.54:253][894]LetsGo: Warning: Input file not found.
+[2021.01.29-18.53.54:256][894]LogHotReload: Re-instancing CubemapMgr after hot-reload.
+[2021.01.29-18.53.54:330][894]LogContentBrowser: Native class hierarchy updated for 'LetsGo' in 0.0008 seconds. Added 3 classes and 2 folders.
+[2021.01.29-18.53.54:333][894]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.01.29-18.53.54:695][894]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2458 classes and 565 folders.
+[2021.01.29-18.53.54:695][894]Display: HotReload took 10.2s.
+[2021.01.29-18.54.00:836][494]LogSlate: Window '메시지 로그' being destroyed
+[2021.01.29-18.54.00:846][494]LogSlate: Window '메시지 로그' being destroyed
+[2021.01.29-18.54.16:504][842]LogSlate: Window 'BP_SlamMgr' being destroyed
+[2021.01.29-18.54.37:601][823]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.01.29-18.54.37:613][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-18.54.37:613][823]PIE: New page: PIE 세션: Stage (2021. 1. 30. 오후 12:54:37)
+[2021.01.29-18.54.37:613][823]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.01.29-18.54.37:626][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013137s)
+[2021.01.29-18.54.37:627][823]LogAIModule: Creating AISystem for world Stage
+[2021.01.29-18.54.37:627][823]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2021.01.29-18.54.37:627][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.014200s)
+[2021.01.29-18.54.37:951][823]LogInit: XAudio2 using '헤드폰(4- BOUNCE Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.29-18.54.37:997][823]LogInit: FAudioDevice initialized.
+[2021.01.29-18.54.38:033][823]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.29-18.54.38:036][823]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.01.30-03.54.38
+[2021.01.29-18.54.38:036][823]LogWorld: Bringing up level for play took: 0.001007
+[2021.01.29-18.54.38:039][823]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: -0.079
+[2021.01.29-18.54.42:648][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-18.55.12:408][740]LogUObjectGlobals: Created PersistentFrame Addr=0x000002001af3cf80, Size=4, Default__SKEL_BP_SlamMgr_C Function /Game/Blueprint/BP_SlamMgr.SKEL_BP_SlamMgr_C:ExecuteUbergraph_BP_SlamMgr
+[2021.01.29-18.55.26:981][412]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002001af3cf80, Size=4
+[2021.01.29-18.55.26:981][412]LogUObjectGlobals: Created PersistentFrame Addr=0x000002006a1f8830, Size=4, Default__SKEL_BP_SlamMgr_C Function /Engine/Transient.REINST_SKEL_BP_SlamMgr_C_37:ExecuteUbergraph_BP_SlamMgr
+[2021.01.29-18.55.26:993][412]LogUObjectGlobals: Created PersistentFrame Addr=0x000002006a1f8180, Size=4, Default__SKEL_BP_SlamMgr_C Function /Game/Blueprint/BP_SlamMgr.SKEL_BP_SlamMgr_C:ExecuteUbergraph_BP_SlamMgr
+[2021.01.29-18.55.31:330][925]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002006a1f8180, Size=4
+[2021.01.29-18.55.31:330][925]LogUObjectGlobals: Created PersistentFrame Addr=0x000002001be287e0, Size=4, Default__SKEL_BP_SlamMgr_C Function /Engine/Transient.REINST_SKEL_BP_SlamMgr_C_39:ExecuteUbergraph_BP_SlamMgr
+[2021.01.29-18.55.31:342][925]LogUObjectGlobals: Created PersistentFrame Addr=0x000002001be287d8, Size=4, Default__SKEL_BP_SlamMgr_C Function /Game/Blueprint/BP_SlamMgr.SKEL_BP_SlamMgr_C:ExecuteUbergraph_BP_SlamMgr
+[2021.01.29-18.55.31:914][988]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002001be287d8, Size=4
+[2021.01.29-18.55.31:914][988]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020061aae708, Size=4, Default__SKEL_BP_SlamMgr_C Function /Engine/Transient.REINST_SKEL_BP_SlamMgr_C_41:ExecuteUbergraph_BP_SlamMgr
+[2021.01.29-18.55.31:926][988]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020061aaf9d8, Size=4, Default__SKEL_BP_SlamMgr_C Function /Game/Blueprint/BP_SlamMgr.SKEL_BP_SlamMgr_C:ExecuteUbergraph_BP_SlamMgr
+[2021.01.29-18.55.42:577][220]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020061aaf9d8, Size=4
+[2021.01.29-18.55.42:577][220]LogUObjectGlobals: Created PersistentFrame Addr=0x000002008dc73d48, Size=4, Default__SKEL_BP_SlamMgr_C Function /Engine/Transient.REINST_SKEL_BP_SlamMgr_C_43:ExecuteUbergraph_BP_SlamMgr
+[2021.01.29-18.55.42:591][220]LogUObjectGlobals: Created PersistentFrame Addr=0x000002008dc729f8, Size=4, Default__SKEL_BP_SlamMgr_C Function /Game/Blueprint/BP_SlamMgr.SKEL_BP_SlamMgr_C:ExecuteUbergraph_BP_SlamMgr
+[2021.01.29-18.55.55:043][664]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002008dc729f8, Size=4
+[2021.01.29-18.55.55:043][664]LogUObjectGlobals: Created PersistentFrame Addr=0x000002009f4df688, Size=4, Default__SKEL_BP_SlamMgr_C Function /Engine/Transient.REINST_SKEL_BP_SlamMgr_C_45:ExecuteUbergraph_BP_SlamMgr
+[2021.01.29-18.55.55:058][664]LogUObjectGlobals: Created PersistentFrame Addr=0x000002009f4dccb0, Size=4, Default__SKEL_BP_SlamMgr_C Function /Game/Blueprint/BP_SlamMgr.SKEL_BP_SlamMgr_C:ExecuteUbergraph_BP_SlamMgr
+[2021.01.29-18.56.01:284][389]BlueprintLog: New page: BP_SlamMgr 컴파일
+[2021.01.29-18.56.01:287][389]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002009f4dccb0, Size=4
+[2021.01.29-18.56.01:287][389]LogUObjectGlobals: Created PersistentFrame Addr=0x000002009f143580, Size=4, Default__SKEL_BP_SlamMgr_C Function /Engine/Transient.REINST_SKEL_BP_SlamMgr_C_47:ExecuteUbergraph_BP_SlamMgr
+[2021.01.29-18.56.01:302][389]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000200946f7500, Size=256
+[2021.01.29-18.56.01:302][389]LogUObjectGlobals: Created PersistentFrame Addr=0x000002009f513700, Size=256, Default__BP_SlamMgr_C Function /Engine/Transient.REINST_BP_SlamMgr_C_49:ExecuteUbergraph_BP_SlamMgr
+[2021.01.29-18.56.01:316][389]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020056cbe600, Size=256, Default__BP_SlamMgr_C Function /Game/Blueprint/BP_SlamMgr.BP_SlamMgr_C:ExecuteUbergraph_BP_SlamMgr
+[2021.01.29-18.56.01:560][389]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002009f143580, Size=4
+[2021.01.29-18.56.01:560][389]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002009f4df688, Size=4
+[2021.01.29-18.56.01:560][389]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002008dc73d48, Size=4
+[2021.01.29-18.56.01:560][389]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020061aae708, Size=4
+[2021.01.29-18.56.01:560][389]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002001be287e0, Size=4
+[2021.01.29-18.56.01:560][389]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002006a1f8830, Size=4
+[2021.01.29-18.56.01:766][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_SlamMgr" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/BP_SlamMgr.uasset" SILENT=true
+[2021.01.29-18.56.01:783][406]LogSavePackage: Save=12.68ms
+[2021.01.29-18.56.01:784][406]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/BP_SlamMgr077C517F423BEC7ABA1B979282076CC8.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/BP_SlamMgr.uasset'
+[2021.01.29-18.56.01:788][406]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/BP_SlamMgr.uasset
+[2021.01.29-18.56.03:013][533]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.01.29-18.56.03:029][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-18.56.03:030][533]PIE: New page: PIE 세션: Stage (2021. 1. 30. 오후 12:56:03)
+[2021.01.29-18.56.03:030][533]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.01.29-18.56.03:044][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013711s)
+[2021.01.29-18.56.03:044][533]LogAIModule: Creating AISystem for world Stage
+[2021.01.29-18.56.03:045][533]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2021.01.29-18.56.03:045][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.014816s)
+[2021.01.29-18.56.03:331][533]LogInit: XAudio2 using '헤드폰(4- BOUNCE Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.29-18.56.03:409][533]LogInit: FAudioDevice initialized.
+[2021.01.29-18.56.03:448][533]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.29-18.56.03:450][533]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.01.30-03.56.03
+[2021.01.29-18.56.03:451][533]LogWorld: Bringing up level for play took: 0.000935
+[2021.01.29-18.56.04:654][533]LogSpawn: Warning: SpawnActor failed because the given transform (-nan,-nan,-nan|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000) is invalid
+[2021.01.29-18.56.04:654][533]LogSpawn: Warning: SpawnActor failed because the given transform (-nan,-nan,-nan|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000) is invalid
+[2021.01.29-18.56.04:839][533]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 2.721
+[2021.01.29-18.56.08:696][758]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.29-18.56.08:704][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.29-18.56.08:751][758]LogSavePackage: Save=22.71ms
+[2021.01.29-18.56.08:751][758]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/Stage4CB5F3C5416328D6AAF4868EF38EF884.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage.umap'
+[2021.01.29-18.56.08:755][758]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage.umap
+[2021.01.29-18.56.08:774][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage_BuiltData" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage_BuiltData.uasset" SILENT=true
+[2021.01.29-18.56.08:790][758]LogSavePackage: Save=10.13ms
+[2021.01.29-18.56.08:790][758]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/Stage_BuiltDataDBFCF17745F00BA2C9A3DB8F67C8DAC5.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage_BuiltData.uasset'
+[2021.01.29-18.56.08:792][758]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage_BuiltData.uasset
+[2021.01.29-19.00.39:192][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_FrameCamera.BP_FrameCamera_C' ref from Metadata '/Game/Blueprint/BP_FrameCamera.PackageMetaData'
+[2021.01.29-19.00.39:192][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_FrameCamera.SKEL_BP_FrameCamera_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprint/BP_FrameCamera.PackageMetaData'
+[2021.01.29-19.00.39:192][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_FrameCamera.SKEL_BP_FrameCamera_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprint/BP_FrameCamera.PackageMetaData'
+[2021.01.29-19.00.39:192][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_FrameCamera.SKEL_BP_FrameCamera_C:ReceiveTick' ref from Metadata '/Game/Blueprint/BP_FrameCamera.PackageMetaData'
+[2021.01.29-19.00.39:192][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_FrameCamera.SKEL_BP_FrameCamera_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprint/BP_FrameCamera.PackageMetaData'
+[2021.01.29-19.00.39:192][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_FrameCamera.SKEL_BP_FrameCamera_C:Sphere' ref from Metadata '/Game/Blueprint/BP_FrameCamera.PackageMetaData'
+[2021.01.29-19.00.39:192][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_FrameCamera.SKEL_BP_FrameCamera_C:UserConstructionScript' ref from Metadata '/Game/Blueprint/BP_FrameCamera.PackageMetaData'
+[2021.01.29-19.00.39:192][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_FrameCamera.SKEL_BP_FrameCamera_C' ref from Metadata '/Game/Blueprint/BP_FrameCamera.PackageMetaData'
+[2021.01.29-19.00.39:192][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_FrameCamera.BP_FrameCamera_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprint/BP_FrameCamera.PackageMetaData'
+[2021.01.29-19.00.39:192][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_FrameCamera.BP_FrameCamera_C:Sphere' ref from Metadata '/Game/Blueprint/BP_FrameCamera.PackageMetaData'
+[2021.01.29-19.00.39:192][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_FrameCamera.BP_FrameCamera_C:UserConstructionScript' ref from Metadata '/Game/Blueprint/BP_FrameCamera.PackageMetaData'
+[2021.01.29-19.00.39:199][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_KeyframeCamera.BP_KeyframeCamera_C' ref from Metadata '/Game/Blueprint/BP_KeyframeCamera.PackageMetaData'
+[2021.01.29-19.00.39:199][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_KeyframeCamera.SKEL_BP_KeyframeCamera_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprint/BP_KeyframeCamera.PackageMetaData'
+[2021.01.29-19.00.39:199][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_KeyframeCamera.SKEL_BP_KeyframeCamera_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprint/BP_KeyframeCamera.PackageMetaData'
+[2021.01.29-19.00.39:199][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_KeyframeCamera.SKEL_BP_KeyframeCamera_C:ReceiveTick' ref from Metadata '/Game/Blueprint/BP_KeyframeCamera.PackageMetaData'
+[2021.01.29-19.00.39:199][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_KeyframeCamera.SKEL_BP_KeyframeCamera_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprint/BP_KeyframeCamera.PackageMetaData'
+[2021.01.29-19.00.39:199][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_KeyframeCamera.SKEL_BP_KeyframeCamera_C:Sphere' ref from Metadata '/Game/Blueprint/BP_KeyframeCamera.PackageMetaData'
+[2021.01.29-19.00.39:199][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_KeyframeCamera.SKEL_BP_KeyframeCamera_C:UserConstructionScript' ref from Metadata '/Game/Blueprint/BP_KeyframeCamera.PackageMetaData'
+[2021.01.29-19.00.39:199][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_KeyframeCamera.SKEL_BP_KeyframeCamera_C' ref from Metadata '/Game/Blueprint/BP_KeyframeCamera.PackageMetaData'
+[2021.01.29-19.00.39:199][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_KeyframeCamera.BP_KeyframeCamera_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprint/BP_KeyframeCamera.PackageMetaData'
+[2021.01.29-19.00.39:199][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_KeyframeCamera.BP_KeyframeCamera_C:Sphere' ref from Metadata '/Game/Blueprint/BP_KeyframeCamera.PackageMetaData'
+[2021.01.29-19.00.39:199][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_KeyframeCamera.BP_KeyframeCamera_C:UserConstructionScript' ref from Metadata '/Game/Blueprint/BP_KeyframeCamera.PackageMetaData'
+[2021.01.29-19.00.39:206][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_Landmark.BP_Landmark_C' ref from Metadata '/Game/Blueprint/BP_Landmark.PackageMetaData'
+[2021.01.29-19.00.39:206][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_Landmark.BP_Landmark:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprint/BP_Landmark.PackageMetaData'
+[2021.01.29-19.00.39:206][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_Landmark.BP_Landmark:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprint/BP_Landmark.PackageMetaData'
+[2021.01.29-19.00.39:206][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_Landmark.BP_Landmark:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprint/BP_Landmark.PackageMetaData'
+[2021.01.29-19.00.39:206][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_Landmark.BP_Landmark:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprint/BP_Landmark.PackageMetaData'
+[2021.01.29-19.00.39:206][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_Landmark.SKEL_BP_Landmark_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprint/BP_Landmark.PackageMetaData'
+[2021.01.29-19.00.39:206][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_Landmark.SKEL_BP_Landmark_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprint/BP_Landmark.PackageMetaData'
+[2021.01.29-19.00.39:206][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_Landmark.SKEL_BP_Landmark_C:ReceiveTick' ref from Metadata '/Game/Blueprint/BP_Landmark.PackageMetaData'
+[2021.01.29-19.00.39:206][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_Landmark.SKEL_BP_Landmark_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprint/BP_Landmark.PackageMetaData'
+[2021.01.29-19.00.39:206][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_Landmark.SKEL_BP_Landmark_C:Sphere' ref from Metadata '/Game/Blueprint/BP_Landmark.PackageMetaData'
+[2021.01.29-19.00.39:206][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_Landmark.SKEL_BP_Landmark_C:UserConstructionScript' ref from Metadata '/Game/Blueprint/BP_Landmark.PackageMetaData'
+[2021.01.29-19.00.39:206][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_Landmark.SKEL_BP_Landmark_C' ref from Metadata '/Game/Blueprint/BP_Landmark.PackageMetaData'
+[2021.01.29-19.00.39:206][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_Landmark.BP_Landmark_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprint/BP_Landmark.PackageMetaData'
+[2021.01.29-19.00.39:207][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_Landmark.BP_Landmark_C:Sphere' ref from Metadata '/Game/Blueprint/BP_Landmark.PackageMetaData'
+[2021.01.29-19.00.39:207][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_Landmark.BP_Landmark_C:UserConstructionScript' ref from Metadata '/Game/Blueprint/BP_Landmark.PackageMetaData'
+[2021.01.29-19.00.39:211][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_SlamMgr.BP_SlamMgr_C' ref from Metadata '/Game/Blueprint/BP_SlamMgr.PackageMetaData'
+[2021.01.29-19.00.39:211][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_SlamMgr.SKEL_BP_SlamMgr_C' ref from Metadata '/Game/Blueprint/BP_SlamMgr.PackageMetaData'
+[2021.01.29-19.00.39:211][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_SlamMgr.BP_SlamMgr:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprint/BP_SlamMgr.PackageMetaData'
+[2021.01.29-19.00.39:211][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_SlamMgr.BP_SlamMgr:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprint/BP_SlamMgr.PackageMetaData'
+[2021.01.29-19.00.39:211][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_SlamMgr.BP_SlamMgr:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprint/BP_SlamMgr.PackageMetaData'
+[2021.01.29-19.00.39:211][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_SlamMgr.BP_SlamMgr:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprint/BP_SlamMgr.PackageMetaData'
+[2021.01.29-19.00.39:211][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_SlamMgr.SKEL_BP_SlamMgr_C:UserConstructionScript' ref from Metadata '/Game/Blueprint/BP_SlamMgr.PackageMetaData'
+[2021.01.29-19.00.39:211][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_SlamMgr.SKEL_BP_SlamMgr_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprint/BP_SlamMgr.PackageMetaData'
+[2021.01.29-19.00.39:211][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_SlamMgr.SKEL_BP_SlamMgr_C:drawKeyframeCamera' ref from Metadata '/Game/Blueprint/BP_SlamMgr.PackageMetaData'
+[2021.01.29-19.00.39:211][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_SlamMgr.SKEL_BP_SlamMgr_C:drawFrameCamera' ref from Metadata '/Game/Blueprint/BP_SlamMgr.PackageMetaData'
+[2021.01.29-19.00.39:211][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_SlamMgr.SKEL_BP_SlamMgr_C:drawLandmark' ref from Metadata '/Game/Blueprint/BP_SlamMgr.PackageMetaData'
+[2021.01.29-19.00.39:211][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_SlamMgr.BP_SlamMgr_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprint/BP_SlamMgr.PackageMetaData'
+[2021.01.29-19.00.39:211][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_SlamMgr.BP_SlamMgr_C:drawKeyframeCamera' ref from Metadata '/Game/Blueprint/BP_SlamMgr.PackageMetaData'
+[2021.01.29-19.00.39:211][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_SlamMgr.BP_SlamMgr_C:drawFrameCamera' ref from Metadata '/Game/Blueprint/BP_SlamMgr.PackageMetaData'
+[2021.01.29-19.00.39:211][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_SlamMgr.BP_SlamMgr_C:drawLandmark' ref from Metadata '/Game/Blueprint/BP_SlamMgr.PackageMetaData'
+[2021.01.29-19.00.39:211][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_SlamMgr.BP_SlamMgr_C:UserConstructionScript' ref from Metadata '/Game/Blueprint/BP_SlamMgr.PackageMetaData'
+[2021.01.29-19.00.39:211][291]LogMetaData: Removing '/Game/Blueprint/SLAM/BP_SlamMgr.BP_SlamMgr_C:ExecuteUbergraph_BP_SlamMgr' ref from Metadata '/Game/Blueprint/BP_SlamMgr.PackageMetaData'
+[2021.01.29-19.00.39:256][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/SLAM/BP_FrameCamera" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_FrameCamera.uasset" SILENT=true
+[2021.01.29-19.00.39:273][291]LogSavePackage: Save=14.68ms
+[2021.01.29-19.00.39:273][291]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/BP_FrameCameraC2FAC1AD40EAC8546168FEB86CB733B9.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_FrameCamera.uasset'
+[2021.01.29-19.00.39:276][291]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_FrameCamera.uasset
+[2021.01.29-19.00.39:292][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/SLAM/BP_KeyframeCamera" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_KeyframeCamera.uasset" SILENT=true
+[2021.01.29-19.00.39:312][291]LogSavePackage: Save=17.35ms
+[2021.01.29-19.00.39:312][291]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/BP_KeyframeCamera939F19D8459C3C18CFF65CB9F4CC0422.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_KeyframeCamera.uasset'
+[2021.01.29-19.00.39:315][291]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_KeyframeCamera.uasset
+[2021.01.29-19.00.39:334][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/SLAM/BP_Landmark" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_Landmark.uasset" SILENT=true
+[2021.01.29-19.00.39:352][291]LogSavePackage: Save=15.74ms
+[2021.01.29-19.00.39:352][291]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/BP_Landmark624FAF9B429E64F8326387BD83BE9FDF.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_Landmark.uasset'
+[2021.01.29-19.00.39:355][291]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_Landmark.uasset
+[2021.01.29-19.00.39:361][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/SLAM/BP_SlamMgr" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_SlamMgr.uasset" SILENT=true
+[2021.01.29-19.00.39:377][291]LogSavePackage: Save=14.26ms
+[2021.01.29-19.00.39:377][291]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/BP_SlamMgrF63A30A649CD3F218459C1963E23144D.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_SlamMgr.uasset'
+[2021.01.29-19.00.39:381][291]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_SlamMgr.uasset
+[2021.01.29-19.00.39:390][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_SlamMgr" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/BP_SlamMgr.uasset" SILENT=true
+[2021.01.29-19.00.39:397][291]LogSavePackage: Save=2.03ms
+[2021.01.29-19.00.39:397][291]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/BP_SlamMgrD88D779E47BDCAD854211388682F03BB.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/BP_SlamMgr.uasset'
+[2021.01.29-19.00.39:401][291]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/BP_SlamMgr.uasset
+[2021.01.29-19.00.39:620][291]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002009f513700, Size=256
+[2021.01.29-19.00.40:511][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.29-19.00.40:556][379]LogSavePackage: Save=23.69ms
+[2021.01.29-19.00.40:556][379]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/StageF4536D18464BAFA0DF03408BC2EFA586.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage.umap'
+[2021.01.29-19.00.40:558][379]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage.umap
+[2021.01.29-19.00.40:576][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage_BuiltData" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage_BuiltData.uasset" SILENT=true
+[2021.01.29-19.00.40:592][379]LogSavePackage: Save=10.06ms
+[2021.01.29-19.00.40:592][379]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/Stage_BuiltDataD0F72F5846F31B70BD64B1A13489606C.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage_BuiltData.uasset'
+[2021.01.29-19.00.40:594][379]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage_BuiltData.uasset
+[2021.01.29-19.01.12:428][571]LetsGo: Warning: Input file not found.
+[2021.01.29-19.01.12:724][571]LetsGo: Warning: Input file not found.
+[2021.01.29-19.01.12:992][571]LogSlate: Window '블루프린트 클래스 추가' being destroyed
+[2021.01.29-19.01.13:271][571]LetsGo: Warning: Input file not found.
+[2021.01.29-19.01.16:354][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_CubemapMgr" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/BP_CubemapMgr.uasset" SILENT=true
+[2021.01.29-19.01.16:364][921]LogSavePackage: Save=7.46ms
+[2021.01.29-19.01.16:364][921]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/BP_CubemapMgr5DC1B0954A6D6DC725A7C791EAA12D67.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/BP_CubemapMgr.uasset'
+[2021.01.29-19.01.16:367][921]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/BP_CubemapMgr.uasset
+[2021.01.29-19.01.16:779][969]BlueprintLog: New page: BP_CubemapMgr 컴파일
+[2021.01.29-19.01.17:038][969]LetsGo: Warning: Input file not found.
+[2021.01.29-19.01.17:304][969]LetsGo: Warning: Input file not found.
+[2021.01.29-19.01.17:573][969]LetsGo: Warning: Input file not found.
+[2021.01.29-19.02.13:114][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/SLAM/FrameCameraMat" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/SLAM/FrameCameraMat.uasset" SILENT=true
+[2021.01.29-19.02.13:127][525]LogSavePackage: Save=11.24ms
+[2021.01.29-19.02.13:127][525]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/FrameCameraMat35655D4D49FC2E74554749B5E7AA7AB4.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/SLAM/FrameCameraMat.uasset'
+[2021.01.29-19.02.13:131][525]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/SLAM/FrameCameraMat.uasset
+[2021.01.29-19.02.13:148][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/SLAM/KeyframeCameraMat" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/SLAM/KeyframeCameraMat.uasset" SILENT=true
+[2021.01.29-19.02.13:161][525]LogSavePackage: Save=11.85ms
+[2021.01.29-19.02.13:162][525]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/KeyframeCameraMat775481434EE24CCFB77AC88D217FC44A.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/SLAM/KeyframeCameraMat.uasset'
+[2021.01.29-19.02.13:165][525]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/SLAM/KeyframeCameraMat.uasset
+[2021.01.29-19.02.13:179][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/SLAM/LandmarkMat" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/SLAM/LandmarkMat.uasset" SILENT=true
+[2021.01.29-19.02.13:193][525]LogSavePackage: Save=12.12ms
+[2021.01.29-19.02.13:193][525]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/LandmarkMat9AD269FF440F941A2FDA349D6BF63DB7.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/SLAM/LandmarkMat.uasset'
+[2021.01.29-19.02.13:197][525]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/SLAM/LandmarkMat.uasset
+[2021.01.29-19.02.13:532][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/SLAM/BP_FrameCamera" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_FrameCamera.uasset" SILENT=true
+[2021.01.29-19.02.13:554][525]LogSavePackage: Save=15.91ms
+[2021.01.29-19.02.13:554][525]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/BP_FrameCamera38BA5BEE42A3655D8878988BD7A38344.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_FrameCamera.uasset'
+[2021.01.29-19.02.13:558][525]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_FrameCamera.uasset
+[2021.01.29-19.02.13:572][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/SLAM/BP_KeyframeCamera" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_KeyframeCamera.uasset" SILENT=true
+[2021.01.29-19.02.13:593][525]LogSavePackage: Save=14.50ms
+[2021.01.29-19.02.13:593][525]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/BP_KeyframeCameraB970431E409FC0FDDEAECB99D57B4960.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_KeyframeCamera.uasset'
+[2021.01.29-19.02.13:597][525]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_KeyframeCamera.uasset
+[2021.01.29-19.02.13:610][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/SLAM/BP_Landmark" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_Landmark.uasset" SILENT=true
+[2021.01.29-19.02.13:637][525]LogSavePackage: Save=17.96ms
+[2021.01.29-19.02.13:637][525]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/BP_LandmarkB0C23E154799590EBA113389B42DE2FF.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_Landmark.uasset'
+[2021.01.29-19.02.13:640][525]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/SLAM/BP_Landmark.uasset
+[2021.01.29-19.02.29:430][961]LogMaterial: Missing cached shader map for material M_Bottom, compiling. 
+[2021.01.29-19.02.29:729][961]LogMaterial: Missing cached shader map for material M_Bottom, compiling. 
+[2021.01.29-19.02.29:740][961]LogMaterial: Missing cached shader map for material M_Bottom, compiling. 
+[2021.01.29-19.02.29:753][961]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.29-19.02.29:753][961]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.29-19.02.29:753][961]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.29-19.02.29:753][961]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.29-19.02.30:551][ 28]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.29-19.02.30:578][ 31]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.29-19.02.30:658][ 40]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.29-19.02.30:666][ 41]LogShaderCompilers: Display: Shaders left to compile 9
+[2021.01.29-19.02.30:832][ 60]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.01.29-19.02.30:840][ 61]LogShaderCompilers: Display: Shaders left to compile 7
+[2021.01.29-19.02.30:882][ 66]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.29-19.02.31:110][ 91]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.01.29-19.02.31:150][ 95]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.01.29-19.02.31:358][118]LogShaderCompilers: Display: Shaders left to compile 3
+[2021.01.29-19.02.31:418][125]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.29-19.02.31:426][126]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.29-19.02.31:837][166]MaterialEditorStats: Base pass shader: 99 instructions
+[2021.01.29-19.02.31:837][166]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2021.01.29-19.02.31:837][166]MaterialEditorStats: Vertex shader: 34 instructions
+[2021.01.29-19.02.31:837][166]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.29-19.02.45:381][768]LogMaterial: Missing cached shader map for material M_Bottom, compiling. 
+[2021.01.29-19.02.45:389][768]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.01.29-19.02.45:462][769]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.29-19.02.45:462][769]LogShaderCompilers: Display: Shaders left to compile 17
+[2021.01.29-19.02.45:462][769]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.29-19.02.45:462][769]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.29-19.02.45:655][780]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.29-19.02.45:664][781]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.29-19.02.45:672][782]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.29-19.02.45:699][785]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.29-19.02.45:894][801]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.29-19.02.45:905][802]LogShaderCompilers: Display: Shaders left to compile 9
+[2021.01.29-19.02.45:924][804]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.01.29-19.02.46:210][827]LogShaderCompilers: Display: Shaders left to compile 7
+[2021.01.29-19.02.46:224][828]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.29-19.02.46:415][841]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.01.29-19.02.46:464][846]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.01.29-19.02.46:510][851]LogShaderCompilers: Display: Shaders left to compile 3
+[2021.01.29-19.02.46:747][872]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.29-19.02.46:805][877]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.29-19.02.46:932][890]MaterialEditorStats: Base pass shader: 99 instructions
+[2021.01.29-19.02.46:932][890]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2021.01.29-19.02.46:932][890]MaterialEditorStats: Vertex shader: 34 instructions
+[2021.01.29-19.02.46:932][890]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.29-19.02.54:290][708]LogMaterial: Missing cached shader map for material M_Bottom, compiling. 
+[2021.01.29-19.02.54:346][709]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.29-19.02.54:346][709]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.29-19.02.54:346][709]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.29-19.02.54:346][709]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.29-19.02.54:521][728]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.29-19.02.54:546][731]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.29-19.02.54:562][733]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.29-19.02.54:572][734]LogShaderCompilers: Display: Shaders left to compile 9
+[2021.01.29-19.02.54:783][750]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.01.29-19.02.54:792][751]LogShaderCompilers: Display: Shaders left to compile 7
+[2021.01.29-19.02.54:792][751]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.29-19.02.55:033][773]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.01.29-19.02.55:043][774]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.01.29-19.02.55:218][791]LogShaderCompilers: Display: Shaders left to compile 3
+[2021.01.29-19.02.55:238][793]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.29-19.02.55:288][798]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.29-19.02.55:636][836]MaterialEditorStats: Base pass shader: 99 instructions
+[2021.01.29-19.02.55:636][836]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2021.01.29-19.02.55:636][836]MaterialEditorStats: Vertex shader: 34 instructions
+[2021.01.29-19.02.55:636][836]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.29-19.03.25:904][671]LogMaterial: Missing cached shader map for material M_Bottom, compiling. 
+[2021.01.29-19.03.25:913][671]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.01.29-19.03.25:915][671]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.29-19.03.25:915][671]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.29-19.03.25:915][671]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.29-19.03.25:915][671]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.29-19.03.26:575][730]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.29-19.03.26:618][734]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.29-19.03.26:619][734]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.29-19.03.26:627][735]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.29-19.03.26:766][749]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.29-19.03.26:828][756]LogShaderCompilers: Display: Shaders left to compile 9
+[2021.01.29-19.03.26:846][758]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.01.29-19.03.27:038][780]LogShaderCompilers: Display: Shaders left to compile 7
+[2021.01.29-19.03.27:073][784]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.29-19.03.27:175][796]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.01.29-19.03.27:272][807]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.01.29-19.03.27:317][812]LogShaderCompilers: Display: Shaders left to compile 3
+[2021.01.29-19.03.27:505][833]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.29-19.03.27:514][834]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.29-19.03.27:670][852]MaterialEditorStats: Base pass shader: 99 instructions
+[2021.01.29-19.03.27:670][852]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2021.01.29-19.03.27:670][852]MaterialEditorStats: Vertex shader: 34 instructions
+[2021.01.29-19.03.27:670][852]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.29-19.03.32:248][386]LogMaterial: Missing cached shader map for material M_Bottom, compiling. 
+[2021.01.29-19.03.32:259][386]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.01.29-19.03.32:273][386]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.29-19.03.32:273][386]LogShaderCompilers: Display: Shaders left to compile 17
+[2021.01.29-19.03.32:273][386]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.29-19.03.32:273][386]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.29-19.03.32:508][405]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.29-19.03.32:542][407]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.29-19.03.32:553][408]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.29-19.03.32:565][409]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.29-19.03.32:735][426]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.29-19.03.32:795][430]LogShaderCompilers: Display: Shaders left to compile 9
+[2021.01.29-19.03.32:795][430]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.01.29-19.03.33:023][451]LogShaderCompilers: Display: Shaders left to compile 7
+[2021.01.29-19.03.33:039][453]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.29-19.03.33:190][470]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.01.29-19.03.33:273][476]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.01.29-19.03.33:306][478]LogShaderCompilers: Display: Shaders left to compile 3
+[2021.01.29-19.03.33:520][498]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.29-19.03.33:571][504]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.29-19.03.33:659][514]MaterialEditorStats: Base pass shader: 101 instructions
+[2021.01.29-19.03.33:659][514]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2021.01.29-19.03.33:659][514]MaterialEditorStats: Vertex shader: 38 instructions
+[2021.01.29-19.03.33:660][514]MaterialEditorStats: Texture samplers: 3/16
+[2021.01.29-19.03.33:660][514]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.29-19.03.41:476][402]LogMaterial: Missing cached shader map for material M_Bottom, compiling. 
+[2021.01.29-19.03.41:485][402]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.29-19.03.41:485][402]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.29-19.03.41:485][402]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.29-19.03.41:485][402]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.29-19.03.41:487][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.01.29-19.03.41:515][402]LogMaterial: Missing cached shader map for material M_Bottom, compiling. 
+[2021.01.29-19.03.41:735][424]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.29-19.03.41:753][426]LogShaderCompilers: Display: Shaders left to compile 17
+[2021.01.29-19.03.41:770][427]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.29-19.03.41:770][427]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.29-19.03.42:034][450]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.29-19.03.42:051][452]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.29-19.03.42:069][454]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.29-19.03.42:079][455]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.29-19.03.42:288][476]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.29-19.03.42:312][478]LogShaderCompilers: Display: Shaders left to compile 9
+[2021.01.29-19.03.42:312][478]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.01.29-19.03.42:312][478]LogShaderCompilers: Display: Shaders left to compile 7
+[2021.01.29-19.03.42:491][495]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.29-19.03.42:571][501]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.01.29-19.03.42:755][518]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.01.29-19.03.42:755][518]LogShaderCompilers: Display: Shaders left to compile 3
+[2021.01.29-19.03.42:955][538]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.29-19.03.43:002][543]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.29-19.03.43:297][577]MaterialEditorStats: Base pass shader: 101 instructions
+[2021.01.29-19.03.43:297][577]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2021.01.29-19.03.43:297][577]MaterialEditorStats: Vertex shader: 38 instructions
+[2021.01.29-19.03.43:297][577]MaterialEditorStats: Texture samplers: 3/16
+[2021.01.29-19.03.43:297][577]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.29-19.03.45:505][837]LogMaterialEditor: Saving and Compiling material M_Bottom
+[2021.01.29-19.03.46:083][837]LogMaterial: Missing cached shader map for material M_Bottom, compiling. 
+[2021.01.29-19.03.46:119][837]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.29-19.03.46:119][837]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.29-19.03.46:119][837]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.29-19.03.46:119][837]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.29-19.03.46:143][837]LogMaterial: Missing cached shader map for material M_Bottom, compiling. 
+[2021.01.29-19.03.46:163][837]LogMaterial: Missing cached shader map for material M_Bottom, compiling. 
+[2021.01.29-19.03.46:201][837]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Bottom, compiling. 
+[2021.01.29-19.03.47:189][837]LogShaderCompilers: Display: Shaders left to compile 35
+[2021.01.29-19.03.47:189][837]LogShaderCompilers: Display: Shaders left to compile 34
+[2021.01.29-19.03.47:189][837]LogShaderCompilers: Display: Shaders left to compile 33
+[2021.01.29-19.03.47:189][837]LogShaderCompilers: Display: Shaders left to compile 32
+[2021.01.29-19.03.47:189][837]LogShaderCompilers: Display: Shaders left to compile 31
+[2021.01.29-19.03.47:189][837]LogShaderCompilers: Display: Shaders left to compile 30
+[2021.01.29-19.03.47:189][837]LogShaderCompilers: Display: Shaders left to compile 29
+[2021.01.29-19.03.47:189][837]LogShaderCompilers: Display: Shaders left to compile 28
+[2021.01.29-19.03.47:189][837]LogShaderCompilers: Display: Shaders left to compile 27
+[2021.01.29-19.03.47:189][837]LogShaderCompilers: Display: Shaders left to compile 26
+[2021.01.29-19.03.47:189][837]LogShaderCompilers: Display: Shaders left to compile 25
+[2021.01.29-19.03.47:189][837]LogShaderCompilers: Display: Shaders left to compile 24
+[2021.01.29-19.03.47:189][837]LogShaderCompilers: Display: Shaders left to compile 23
+[2021.01.29-19.03.47:189][837]LogShaderCompilers: Display: Shaders left to compile 22
+[2021.01.29-19.03.47:189][837]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.29-19.03.47:190][837]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.29-19.03.47:191][837]TextureStreamingBuild: Display: Compiling optional shaders took 0.996 seconds.
+[2021.01.29-19.03.49:245][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/Cubemap/M_Bottom" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Bottom.uasset" SILENT=true
+[2021.01.29-19.03.49:258][837]LogSavePackage: Save=11.81ms
+[2021.01.29-19.03.49:258][837]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/M_BottomD9E9F3E2458E09C3D9574FB222EB0D20.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Bottom.uasset'
+[2021.01.29-19.03.49:262][837]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Bottom.uasset
+[2021.01.29-19.03.49:273][837]MaterialEditorStats: Base pass shader: 101 instructions
+[2021.01.29-19.03.49:273][837]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2021.01.29-19.03.49:273][837]MaterialEditorStats: Vertex shader: 38 instructions
+[2021.01.29-19.03.49:273][837]MaterialEditorStats: Texture samplers: 4/16
+[2021.01.29-19.03.49:273][837]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.29-19.04.27:886][513]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.29-19.04.27:951][513]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.29-19.04.27:959][513]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.29-19.04.27:959][513]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.29-19.04.27:959][513]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.29-19.04.27:962][513]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.29-19.04.27:962][513]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.01.29-19.04.28:002][513]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.01.29-19.04.28:648][572]LogShaderCompilers: Display: Shaders left to compile 18
+[2021.01.29-19.04.28:710][579]LogShaderCompilers: Display: Shaders left to compile 17
+[2021.01.29-19.04.28:710][579]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.29-19.04.28:727][581]LogShaderCompilers: Display: Shaders left to compile 15
+[2021.01.29-19.04.28:930][602]LogShaderCompilers: Display: Shaders left to compile 14
+[2021.01.29-19.04.28:986][608]LogShaderCompilers: Display: Shaders left to compile 13
+[2021.01.29-19.04.29:027][612]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.29-19.04.29:036][613]LogShaderCompilers: Display: Shaders left to compile 11
+[2021.01.29-19.04.29:187][630]LogShaderCompilers: Display: Shaders left to compile 10
+[2021.01.29-19.04.29:247][637]LogShaderCompilers: Display: Shaders left to compile 9
+[2021.01.29-19.04.29:264][639]LogShaderCompilers: Display: Shaders left to compile 8
+[2021.01.29-19.04.29:524][665]LogShaderCompilers: Display: Shaders left to compile 7
+[2021.01.29-19.04.29:570][667]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.29-19.04.29:700][675]LogShaderCompilers: Display: Shaders left to compile 5
+[2021.01.29-19.04.29:794][683]LogShaderCompilers: Display: Shaders left to compile 4
+[2021.01.29-19.04.29:905][689]LogShaderCompilers: Display: Shaders left to compile 3
+[2021.01.29-19.04.30:115][706]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.29-19.04.30:115][706]LogShaderCompilers: Display: Shaders left to compile 1
+[2021.01.29-19.04.30:262][719]MaterialEditorStats: Base pass shader: 101 instructions
+[2021.01.29-19.04.30:262][719]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2021.01.29-19.04.30:262][719]MaterialEditorStats: Vertex shader: 38 instructions
+[2021.01.29-19.04.30:262][719]MaterialEditorStats: Texture samplers: 3/16
+[2021.01.29-19.04.30:264][719]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.01.29-19.05.40:586][ 54]LogMaterial: Missing cached shader map for material M_Bottom_2, compiling. 
+[2021.01.29-19.05.40:614][ 54]LogShaderCompilers: Display: Shaders left to compile 22
+[2021.01.29-19.05.40:614][ 54]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.29-19.05.40:614][ 54]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.29-19.05.41:348][105]LogMaterial: Missing cached shader map for material M_Bottom_3, compiling. 
+[2021.01.29-19.05.41:381][105]LogShaderCompilers: Display: Shaders left to compile 22
+[2021.01.29-19.05.41:381][105]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.29-19.05.41:705][122]LogMaterial: Missing cached shader map for material M_Bottom_4, compiling. 
+[2021.01.29-19.05.42:248][144]LogMaterial: Missing cached shader map for material M_Bottom_5, compiling. 
+[2021.01.29-19.05.43:328][203]LogShaderCompilers: Display: Shaders left to compile 46
+[2021.01.29-19.05.44:167][245]LogShaderCompilers: Display: Shaders left to compile 36
+[2021.01.29-19.05.44:648][273]LogShaderCompilers: Display: Shaders left to compile 26
+[2021.01.29-19.05.45:115][297]LogShaderCompilers: Display: Shaders left to compile 16
+[2021.01.29-19.05.45:429][315]LogShaderCompilers: Display: Shaders left to compile 6
+[2021.01.29-19.05.46:706][401]LogMaterial: Missing cached shader map for material M_Bottom_6, compiling. 
+[2021.01.29-19.05.47:157][420]LogShaderCompilers: Display: Shaders left to compile 22
+[2021.01.29-19.05.47:359][435]LogShaderCompilers: Display: Shaders left to compile 12
+[2021.01.29-19.05.47:722][459]LogShaderCompilers: Display: Shaders left to compile 2
+[2021.01.29-19.05.51:066][625]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.01.29-19.05.51:126][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/Cubemap/M_Bottom_2" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Bottom_2.uasset" SILENT=true
+[2021.01.29-19.05.51:140][625]LogSavePackage: Save=11.69ms
+[2021.01.29-19.05.51:140][625]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/M_Bottom_2524B141F44F904F6DE9F1887E8775B25.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Bottom_2.uasset'
+[2021.01.29-19.05.51:144][625]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Bottom_2.uasset
+[2021.01.29-19.05.51:160][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/Cubemap/M_Bottom_3" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Bottom_3.uasset" SILENT=true
+[2021.01.29-19.05.51:176][625]LogSavePackage: Save=11.21ms
+[2021.01.29-19.05.51:176][625]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/M_Bottom_3E6989D8948B3ABDCEB09EFA99F2FDE2A.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Bottom_3.uasset'
+[2021.01.29-19.05.51:180][625]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Bottom_3.uasset
+[2021.01.29-19.05.51:197][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/Cubemap/M_Bottom_4" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Bottom_4.uasset" SILENT=true
+[2021.01.29-19.05.51:211][625]LogSavePackage: Save=11.62ms
+[2021.01.29-19.05.51:211][625]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/M_Bottom_4C8791797400B0ABD5122889AAD3F10DD.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Bottom_4.uasset'
+[2021.01.29-19.05.51:214][625]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Bottom_4.uasset
+[2021.01.29-19.05.51:229][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/Cubemap/M_Bottom_5" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Bottom_5.uasset" SILENT=true
+[2021.01.29-19.05.51:243][625]LogSavePackage: Save=11.56ms
+[2021.01.29-19.05.51:243][625]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/M_Bottom_585DA90CD4F6799822EA6B5891AD0DD27.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Bottom_5.uasset'
+[2021.01.29-19.05.51:247][625]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Bottom_5.uasset
+[2021.01.29-19.05.51:265][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/Cubemap/M_Bottom_6" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Bottom_6.uasset" SILENT=true
+[2021.01.29-19.05.51:278][625]LogSavePackage: Save=11.72ms
+[2021.01.29-19.05.51:279][625]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/M_Bottom_67CBDD683467CF9AF3CDB90B7DB613E12.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Bottom_6.uasset'
+[2021.01.29-19.05.51:283][625]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Bottom_6.uasset
+[2021.01.29-19.05.58:425][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/Cubemap/M_Front" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Front.uasset" SILENT=true
+[2021.01.29-19.05.58:440][192]LogSavePackage: Save=11.82ms
+[2021.01.29-19.05.58:440][192]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/M_Front7B9C452C44EF86D82FEDF0B5AA155DB4.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Front.uasset'
+[2021.01.29-19.05.58:444][192]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Front.uasset
+[2021.01.29-19.06.02:261][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/Cubemap/M_Left" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Left.uasset" SILENT=true
+[2021.01.29-19.06.02:274][597]LogSavePackage: Save=11.61ms
+[2021.01.29-19.06.02:274][597]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/M_LeftB5493305480F0F28B1F6A68EA236240B.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Left.uasset'
+[2021.01.29-19.06.02:278][597]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Left.uasset
+[2021.01.29-19.06.04:510][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/Cubemap/M_Rear" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Rear.uasset" SILENT=true
+[2021.01.29-19.06.04:524][816]LogSavePackage: Save=11.55ms
+[2021.01.29-19.06.04:524][816]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/M_RearD7235B584D5F86636590E4A38F914DD8.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Rear.uasset'
+[2021.01.29-19.06.04:527][816]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Rear.uasset
+[2021.01.29-19.06.07:616][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/Cubemap/M_Top" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Top.uasset" SILENT=true
+[2021.01.29-19.06.07:630][128]LogSavePackage: Save=11.82ms
+[2021.01.29-19.06.07:630][128]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/M_Top63B8CEFC4DF7BEF9A7F670AC7FC2BC0C.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Top.uasset'
+[2021.01.29-19.06.07:633][128]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Top.uasset
+[2021.01.29-19.06.10:703][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/Cubemap/M_Right" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Right.uasset" SILENT=true
+[2021.01.29-19.06.10:716][437]LogSavePackage: Save=11.15ms
+[2021.01.29-19.06.10:716][437]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/M_RightC01D1D254F0722D7F0C4E7957FAD333A.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Right.uasset'
+[2021.01.29-19.06.10:720][437]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Material/Cubemap/M_Right.uasset
+[2021.01.29-19.06.36:367][116]LogMetaData: Removing '/Game/Blueprint/Cubemap/BP_CubemapMgr.BP_CubemapMgr:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_CubemapMgr.PackageMetaData'
+[2021.01.29-19.06.36:367][116]LogMetaData: Removing '/Game/Blueprint/Cubemap/BP_CubemapMgr.SKEL_BP_CubemapMgr_C' ref from Metadata '/Game/BP_CubemapMgr.PackageMetaData'
+[2021.01.29-19.06.36:367][116]LogMetaData: Removing '/Game/Blueprint/Cubemap/BP_CubemapMgr.BP_CubemapMgr_C' ref from Metadata '/Game/BP_CubemapMgr.PackageMetaData'
+[2021.01.29-19.06.36:367][116]LogMetaData: Removing '/Game/Blueprint/Cubemap/BP_CubemapMgr.BP_CubemapMgr:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_CubemapMgr.PackageMetaData'
+[2021.01.29-19.06.36:367][116]LogMetaData: Removing '/Game/Blueprint/Cubemap/BP_CubemapMgr.BP_CubemapMgr:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP_CubemapMgr.PackageMetaData'
+[2021.01.29-19.06.36:367][116]LogMetaData: Removing '/Game/Blueprint/Cubemap/BP_CubemapMgr.BP_CubemapMgr:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BP_CubemapMgr.PackageMetaData'
+[2021.01.29-19.06.36:367][116]LogMetaData: Removing '/Game/Blueprint/Cubemap/BP_CubemapMgr.SKEL_BP_CubemapMgr_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_CubemapMgr.PackageMetaData'
+[2021.01.29-19.06.36:367][116]LogMetaData: Removing '/Game/Blueprint/Cubemap/BP_CubemapMgr.SKEL_BP_CubemapMgr_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BP_CubemapMgr.PackageMetaData'
+[2021.01.29-19.06.36:367][116]LogMetaData: Removing '/Game/Blueprint/Cubemap/BP_CubemapMgr.SKEL_BP_CubemapMgr_C:ReceiveTick' ref from Metadata '/Game/BP_CubemapMgr.PackageMetaData'
+[2021.01.29-19.06.36:367][116]LogMetaData: Removing '/Game/Blueprint/Cubemap/BP_CubemapMgr.SKEL_BP_CubemapMgr_C:DefaultSceneRoot' ref from Metadata '/Game/BP_CubemapMgr.PackageMetaData'
+[2021.01.29-19.06.36:367][116]LogMetaData: Removing '/Game/Blueprint/Cubemap/BP_CubemapMgr.SKEL_BP_CubemapMgr_C:UserConstructionScript' ref from Metadata '/Game/BP_CubemapMgr.PackageMetaData'
+[2021.01.29-19.06.36:367][116]LogMetaData: Removing '/Game/Blueprint/Cubemap/BP_CubemapMgr.BP_CubemapMgr_C:DefaultSceneRoot' ref from Metadata '/Game/BP_CubemapMgr.PackageMetaData'
+[2021.01.29-19.06.36:401][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Cubemap/BP_CubemapMgr" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/Cubemap/BP_CubemapMgr.uasset" SILENT=true
+[2021.01.29-19.06.36:410][116]LogSavePackage: Save=6.75ms
+[2021.01.29-19.06.36:410][116]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/BP_CubemapMgr33B266484380FE24E6D3309805105B37.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/Cubemap/BP_CubemapMgr.uasset'
+[2021.01.29-19.06.36:414][116]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/Cubemap/BP_CubemapMgr.uasset
+[2021.01.29-19.06.51:968][286]LetsGo: Warning: Input file not found.
+[2021.01.29-19.06.52:283][286]LetsGo: Warning: Input file not found.
+[2021.01.29-19.06.55:512][617]LetsGo: Warning: Input file not found.
+[2021.01.29-19.07.20:483][209]LetsGo: Warning: Input file not found.
+[2021.01.29-19.07.23:959][579]LetsGo: Warning: Input file not found.
+[2021.01.29-19.07.28:285][ 21]LetsGo: Warning: Input file not found.
+[2021.01.29-19.07.31:068][313]LetsGo: Warning: Input file not found.
+[2021.01.29-19.07.32:099][396]LetsGo: Warning: Input file not found.
+[2021.01.29-19.07.33:911][573]LetsGo: Warning: Input file not found.
+[2021.01.29-19.07.34:534][608]LetsGo: Warning: Input file not found.
+[2021.01.29-19.07.36:377][789]LetsGo: Warning: Input file not found.
+[2021.01.29-19.07.36:920][815]LetsGo: Warning: Input file not found.
+[2021.01.29-19.07.39:449][ 79]LetsGo: Warning: Input file not found.
+[2021.01.29-19.07.57:389][553]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.01.29-19.09.59:086][344]BlueprintLog: New page: BP_CubemapMgr 컴파일
+[2021.01.29-19.09.59:404][344]LetsGo: Warning: Input file not found.
+[2021.01.29-19.09.59:693][344]LetsGo: Warning: Input file not found.
+[2021.01.29-19.09.59:957][344]LetsGo: Warning: Input file not found.
+[2021.01.29-19.10.00:223][344]LetsGo: Warning: Input file not found.
+[2021.01.29-19.10.00:765][344]LetsGo: Warning: Input file not found.
+[2021.01.29-19.10.00:835][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Cubemap/BP_CubemapMgr" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/Cubemap/BP_CubemapMgr.uasset" SILENT=true
+[2021.01.29-19.10.00:862][344]LogSavePackage: Save=20.15ms
+[2021.01.29-19.10.00:862][344]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/BP_CubemapMgrAC5E84114E47006AC6CF129A926A519C.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/Cubemap/BP_CubemapMgr.uasset'
+[2021.01.29-19.10.00:866][344]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/Cubemap/BP_CubemapMgr.uasset
+[2021.01.29-19.10.16:611][911]LetsGo: Warning: Input file not found.
+[2021.01.29-19.10.19:076][170]LetsGo: Warning: Input file not found.
+[2021.01.29-19.10.20:333][306]LogSlate: Took 0.004091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.01.29-19.10.34:209][881]LetsGo: Warning: Input file not found.
+[2021.01.29-19.10.47:295][ 44]LetsGo: Warning: Input file not found.
+[2021.01.29-19.10.48:205][114]LetsGo: Warning: Input file not found.
+[2021.01.29-19.10.48:536][115]LetsGo: Warning: Input file not found.
+[2021.01.29-19.10.48:831][115]LetsGo: Warning: Input file not found.
+[2021.01.29-19.10.49:099][115]LetsGo: Warning: Input file not found.
+[2021.01.29-19.10.49:479][115]LetsGo: Warning: Input file not found.
+[2021.01.29-19.11.01:116][460]LetsGo: Warning: Input file not found.
+[2021.01.29-19.11.04:732][852]LetsGo: Warning: Input file not found.
+[2021.01.29-19.11.10:069][454]LetsGo: Warning: Input file not found.
+[2021.01.29-19.11.13:867][871]LetsGo: Warning: Input file not found.
+[2021.01.29-19.11.17:793][303]LetsGo: Warning: Input file not found.
+[2021.01.29-19.11.20:920][633]LetsGo: Warning: Input file not found.
+[2021.01.29-19.11.22:549][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Cubemap/BP_CubemapMgr" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/Cubemap/BP_CubemapMgr.uasset" SILENT=true
+[2021.01.29-19.11.22:575][818]LogSavePackage: Save=20.35ms
+[2021.01.29-19.11.22:575][818]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/BP_CubemapMgrC5C8D14E4974A5EED0B60ABC94C7A5A2.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/Cubemap/BP_CubemapMgr.uasset'
+[2021.01.29-19.11.22:579][818]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/Cubemap/BP_CubemapMgr.uasset
+[2021.01.29-19.11.22:919][858]BlueprintLog: New page: BP_CubemapMgr 컴파일
+[2021.01.29-19.11.23:208][858]LetsGo: Warning: Input file not found.
+[2021.01.29-19.11.23:474][858]LetsGo: Warning: Input file not found.
+[2021.01.29-19.11.23:740][858]LetsGo: Warning: Input file not found.
+[2021.01.29-19.11.24:005][858]LetsGo: Warning: Input file not found.
+[2021.01.29-19.11.24:490][858]LetsGo: Warning: Input file not found.
+[2021.01.29-19.11.35:247][326]LetsGo: Warning: Input file not found.
+[2021.01.29-19.11.44:847][886]LogLinker: '/Game/Blueprints/BP_CubemapBillboard' 파일을 찾을 수 없습니다.
+[2021.01.29-19.11.44:848][886]LogLinker: '/Game/Blueprints/BP_CubemapBillboard' 파일을 찾을 수 없습니다.
+[2021.01.29-19.11.55:810][119]BlueprintLog: New page: BP_CubemapMgr 컴파일
+[2021.01.29-19.11.56:114][119]LetsGo: Warning: Input file not found.
+[2021.01.29-19.11.56:416][119]LetsGo: Warning: Input file not found.
+[2021.01.29-19.11.56:418][119]LogUObjectGlobals: Created PersistentFrame Addr=0x00000200ab6db6c8, Size=4, Default__BP_CubemapMgr_C Function /Game/Blueprint/Cubemap/BP_CubemapMgr.BP_CubemapMgr_C:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.11.56:694][119]LetsGo: Warning: Input file not found.
+[2021.01.29-19.11.56:957][119]LetsGo: Warning: Input file not found.
+[2021.01.29-19.11.57:454][119]LetsGo: Warning: Input file not found.
+[2021.01.29-19.11.58:565][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Cubemap/BP_CubemapMgr" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/Cubemap/BP_CubemapMgr.uasset" SILENT=true
+[2021.01.29-19.11.58:601][228]LogSavePackage: Save=32.15ms
+[2021.01.29-19.11.58:602][228]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/BP_CubemapMgr1A126FD84BE95A050F3CE1965D47F5C7.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/Cubemap/BP_CubemapMgr.uasset'
+[2021.01.29-19.11.58:605][228]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/Cubemap/BP_CubemapMgr.uasset
+[2021.01.29-19.12.35:216][593]BlueprintLog: New page: BP_CubemapMgr 컴파일
+[2021.01.29-19.12.35:521][593]LetsGo: Warning: Input file not found.
+[2021.01.29-19.12.35:531][593]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000200ab6db6c8, Size=4
+[2021.01.29-19.12.35:531][593]LogUObjectGlobals: Created PersistentFrame Addr=0x000002007f55cb40, Size=4, BP_CubemapMgr_C_1312 Function /Engine/Transient.REINST_BP_CubemapMgr_C_127:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.12.35:825][593]LetsGo: Warning: Input file not found.
+[2021.01.29-19.12.35:826][593]LogUObjectGlobals: Created PersistentFrame Addr=0x000002007f55ce48, Size=4, Default__BP_CubemapMgr_C Function /Game/Blueprint/Cubemap/BP_CubemapMgr.BP_CubemapMgr_C:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.12.36:098][593]LetsGo: Warning: Input file not found.
+[2021.01.29-19.12.36:358][593]LetsGo: Warning: Input file not found.
+[2021.01.29-19.12.36:821][593]LetsGo: Warning: Input file not found.
+[2021.01.29-19.12.37:628][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Cubemap/BP_CubemapMgr" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/Cubemap/BP_CubemapMgr.uasset" SILENT=true
+[2021.01.29-19.12.37:665][667]LogSavePackage: Save=32.51ms
+[2021.01.29-19.12.37:666][667]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/BP_CubemapMgrBF232626457C37171C4489AE273CF826.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/Cubemap/BP_CubemapMgr.uasset'
+[2021.01.29-19.12.37:670][667]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/Cubemap/BP_CubemapMgr.uasset
+[2021.01.29-19.12.47:543][710]LetsGo: Warning: Input file not found.
+[2021.01.29-19.12.47:545][710]LogUObjectGlobals: Created PersistentFrame Addr=0x000002000f252250, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Game/Blueprint/Cubemap/BP_CubemapMgr.SKEL_BP_CubemapMgr_C:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.12.47:555][710]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002000f252250, Size=4
+[2021.01.29-19.12.47:555][710]LogUObjectGlobals: Created PersistentFrame Addr=0x000002007f55fc70, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Engine/Transient.REINST_SKEL_BP_CubemapMgr_C_131:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.12.47:824][710]LetsGo: Warning: Input file not found.
+[2021.01.29-19.12.47:825][710]LogUObjectGlobals: Created PersistentFrame Addr=0x000002007f55ecb0, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Game/Blueprint/Cubemap/BP_CubemapMgr.SKEL_BP_CubemapMgr_C:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.12.48:243][754]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002007f55ecb0, Size=4
+[2021.01.29-19.12.48:243][754]LogUObjectGlobals: Created PersistentFrame Addr=0x000002007f55ecb0, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Engine/Transient.REINST_SKEL_BP_CubemapMgr_C_133:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.12.48:510][754]LetsGo: Warning: Input file not found.
+[2021.01.29-19.12.48:511][754]LogUObjectGlobals: Created PersistentFrame Addr=0x000002007f55e928, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Game/Blueprint/Cubemap/BP_CubemapMgr.SKEL_BP_CubemapMgr_C:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.02:505][172]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002007f55e928, Size=4
+[2021.01.29-19.13.02:505][172]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020092e62260, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Engine/Transient.REINST_SKEL_BP_CubemapMgr_C_135:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.02:800][172]LetsGo: Warning: Input file not found.
+[2021.01.29-19.13.02:802][172]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020092e62478, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Game/Blueprint/Cubemap/BP_CubemapMgr.SKEL_BP_CubemapMgr_C:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.02:809][172]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020092e62478, Size=4
+[2021.01.29-19.13.02:809][172]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020092e62478, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Engine/Transient.REINST_SKEL_BP_CubemapMgr_C_137:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.03:103][172]LetsGo: Warning: Input file not found.
+[2021.01.29-19.13.03:104][172]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020092e63fd8, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Game/Blueprint/Cubemap/BP_CubemapMgr.SKEL_BP_CubemapMgr_C:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.09:434][573]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020092e63fd8, Size=4
+[2021.01.29-19.13.09:435][573]LogUObjectGlobals: Created PersistentFrame Addr=0x000002009ce5dc60, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Engine/Transient.REINST_SKEL_BP_CubemapMgr_C_139:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.09:714][573]LetsGo: Warning: Input file not found.
+[2021.01.29-19.13.09:715][573]LogUObjectGlobals: Created PersistentFrame Addr=0x000002009ce5cc40, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Game/Blueprint/Cubemap/BP_CubemapMgr.SKEL_BP_CubemapMgr_C:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.16:323][923]LogLinker: '/Script/SphericalFPS' 파일을 찾을 수 없습니다.
+[2021.01.29-19.13.16:323][923]LogLinker: '/Script/SphericalFPS' 파일을 찾을 수 없습니다.
+[2021.01.29-19.13.40:246][389]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002009ce5cc40, Size=4
+[2021.01.29-19.13.40:247][389]LogUObjectGlobals: Created PersistentFrame Addr=0x000002009ce5cc40, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Engine/Transient.REINST_SKEL_BP_CubemapMgr_C_141:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.40:546][389]LetsGo: Warning: Input file not found.
+[2021.01.29-19.13.40:548][389]LogUObjectGlobals: Created PersistentFrame Addr=0x000002009ce5cf28, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Game/Blueprint/Cubemap/BP_CubemapMgr.SKEL_BP_CubemapMgr_C:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.40:559][389]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002009ce5cf28, Size=4
+[2021.01.29-19.13.40:559][389]LogUObjectGlobals: Created PersistentFrame Addr=0x000002009ce5cf28, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Engine/Transient.REINST_SKEL_BP_CubemapMgr_C_143:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.40:853][389]LetsGo: Warning: Input file not found.
+[2021.01.29-19.13.40:855][389]LogUObjectGlobals: Created PersistentFrame Addr=0x000002007f55e7a8, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Game/Blueprint/Cubemap/BP_CubemapMgr.SKEL_BP_CubemapMgr_C:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.42:345][561]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002007f55e7a8, Size=4
+[2021.01.29-19.13.42:346][561]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020092e60120, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Engine/Transient.REINST_SKEL_BP_CubemapMgr_C_145:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.42:617][561]LetsGo: Warning: Input file not found.
+[2021.01.29-19.13.42:619][561]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020092e60d00, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Game/Blueprint/Cubemap/BP_CubemapMgr.SKEL_BP_CubemapMgr_C:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.45:748][932]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020092e60d00, Size=4
+[2021.01.29-19.13.45:748][932]LogUObjectGlobals: Created PersistentFrame Addr=0x000002005f9978e8, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Engine/Transient.REINST_SKEL_BP_CubemapMgr_C_147:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.46:011][932]LetsGo: Warning: Input file not found.
+[2021.01.29-19.13.46:012][932]LogUObjectGlobals: Created PersistentFrame Addr=0x000002005f997d50, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Game/Blueprint/Cubemap/BP_CubemapMgr.SKEL_BP_CubemapMgr_C:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.46:018][932]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002005f997d50, Size=4
+[2021.01.29-19.13.46:019][932]LogUObjectGlobals: Created PersistentFrame Addr=0x000002005f997d50, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Engine/Transient.REINST_SKEL_BP_CubemapMgr_C_149:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.46:382][932]LetsGo: Warning: Input file not found.
+[2021.01.29-19.13.46:385][932]LogUObjectGlobals: Created PersistentFrame Addr=0x000002005f995b48, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Game/Blueprint/Cubemap/BP_CubemapMgr.SKEL_BP_CubemapMgr_C:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.50:554][383]BlueprintLog: New page: BP_CubemapMgr 컴파일
+[2021.01.29-19.13.50:566][383]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002005f995b48, Size=4
+[2021.01.29-19.13.50:566][383]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020092e61858, Size=4, Default__SKEL_BP_CubemapMgr_C Function /Engine/Transient.REINST_SKEL_BP_CubemapMgr_C_151:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.50:864][383]LetsGo: Warning: Input file not found.
+[2021.01.29-19.13.50:878][383]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002007f55ce48, Size=4
+[2021.01.29-19.13.50:878][383]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020092e61cd0, Size=4, Default__BP_CubemapMgr_C Function /Engine/Transient.REINST_BP_CubemapMgr_C_153:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.51:173][383]LetsGo: Warning: Input file not found.
+[2021.01.29-19.13.51:174][383]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020077799478, Size=56, Default__BP_CubemapMgr_C Function /Game/Blueprint/Cubemap/BP_CubemapMgr.BP_CubemapMgr_C:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.13.51:441][383]LetsGo: Warning: Input file not found.
+[2021.01.29-19.13.51:705][383]LetsGo: Warning: Input file not found.
+[2021.01.29-19.13.51:918][383]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020092e61858, Size=4
+[2021.01.29-19.13.51:919][383]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002005f997d50, Size=4
+[2021.01.29-19.13.51:919][383]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002007f55ecb0, Size=4
+[2021.01.29-19.13.51:920][383]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002005f9978e8, Size=4
+[2021.01.29-19.13.51:920][383]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020092e60120, Size=4
+[2021.01.29-19.13.51:921][383]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002009ce5cf28, Size=4
+[2021.01.29-19.13.51:921][383]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002009ce5cc40, Size=4
+[2021.01.29-19.13.51:922][383]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002009ce5dc60, Size=4
+[2021.01.29-19.13.51:922][383]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020092e62478, Size=4
+[2021.01.29-19.13.51:923][383]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020092e62260, Size=4
+[2021.01.29-19.13.51:923][383]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002007f55cb40, Size=4
+[2021.01.29-19.13.51:923][383]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002007f55fc70, Size=4
+[2021.01.29-19.13.52:191][383]LetsGo: Warning: Input file not found.
+[2021.01.29-19.13.52:840][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Cubemap/BP_CubemapMgr" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/Cubemap/BP_CubemapMgr.uasset" SILENT=true
+[2021.01.29-19.13.52:893][451]LogSavePackage: Save=49.30ms
+[2021.01.29-19.13.52:893][451]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/BP_CubemapMgrAAD1576F4B2C35178C1BC28CC77BD04F.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/Cubemap/BP_CubemapMgr.uasset'
+[2021.01.29-19.13.52:897][451]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Blueprint/Cubemap/BP_CubemapMgr.uasset
+[2021.01.29-19.13.55:763][729]LetsGo: Warning: Input file not found.
+[2021.01.29-19.13.56:567][783]LetsGo: Warning: Input file not found.
+[2021.01.29-19.13.57:560][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-19.13.57:649][900]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.01.29-19.13.57:663][900]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2021.01.29-19.13.57:679][900]LogPlayLevel: [PlayLevel] Compiling BP_FrameCamera before play...
+[2021.01.29-19.13.57:828][900]LogPlayLevel: [PlayLevel] Compiling BP_KeyframeCamera before play...
+[2021.01.29-19.13.57:975][900]LogPlayLevel: [PlayLevel] Compiling BP_Landmark before play...
+[2021.01.29-19.13.58:126][900]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020092e61cd0, Size=4
+[2021.01.29-19.13.58:129][900]LogPlayLevel: PlayLevel: Blueprint regeneration took 466 ms (3 blueprints)
+[2021.01.29-19.13.58:129][900]PIE: New page: PIE 세션: Stage (2021. 1. 30. 오후 1:13:58)
+[2021.01.29-19.13.58:129][900]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.01.29-19.13.58:400][900]LetsGo: Warning: Input file not found.
+[2021.01.29-19.13.58:404][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.273753s)
+[2021.01.29-19.13.58:404][900]LogAIModule: Creating AISystem for world Stage
+[2021.01.29-19.13.58:404][900]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2021.01.29-19.13.58:404][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.274940s)
+[2021.01.29-19.13.58:696][900]LogInit: XAudio2 using '헤드폰(4- BOUNCE Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.29-19.13.58:744][900]LogInit: FAudioDevice initialized.
+[2021.01.29-19.13.58:778][900]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.29-19.13.58:780][900]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.01.30-04.13.58
+[2021.01.29-19.13.58:780][900]LogWorld: Bringing up level for play took: 0.000898
+[2021.01.29-19.13.59:965][900]LogSpawn: Warning: SpawnActor failed because the given transform (-nan,-nan,-nan|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000) is invalid
+[2021.01.29-19.13.59:965][900]LogSpawn: Warning: SpawnActor failed because the given transform (-nan,-nan,-nan|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000) is invalid
+[2021.01.29-19.14.00:187][900]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 2.069
+[2021.01.29-19.14.03:516][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-19.14.03:520][155]LogSlate: Took 0.000603 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.29-19.14.03:560][155]LogSlate: Took 0.002226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2021.01.29-19.14.03:619][155]LogSlate: Took 0.002504 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.01.29-19.14.03:622][155]LogSlate: Took 0.003263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.01.29-19.14.03:627][155]LogSlate: Took 0.003437 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.01.29-19.14.16:855][201]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.01.29-19.14.16:868][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-19.14.16:868][201]PIE: New page: PIE 세션: Stage (2021. 1. 30. 오후 1:14:16)
+[2021.01.29-19.14.16:868][201]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.01.29-19.14.17:188][201]LetsGo: Warning: Input file not found.
+[2021.01.29-19.14.17:193][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.325204s)
+[2021.01.29-19.14.17:194][201]LogAIModule: Creating AISystem for world Stage
+[2021.01.29-19.14.17:194][201]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2021.01.29-19.14.17:195][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.326672s)
+[2021.01.29-19.14.17:490][201]LogInit: XAudio2 using '헤드폰(4- BOUNCE Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.29-19.14.17:537][201]LogInit: FAudioDevice initialized.
+[2021.01.29-19.14.17:571][201]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.29-19.14.17:572][201]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.01.30-04.14.17
+[2021.01.29-19.14.17:572][201]LogWorld: Bringing up level for play took: 0.000880
+[2021.01.29-19.14.18:731][201]LogSpawn: Warning: SpawnActor failed because the given transform (-nan,-nan,-nan|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000) is invalid
+[2021.01.29-19.14.18:731][201]LogSpawn: Warning: SpawnActor failed because the given transform (-nan,-nan,-nan|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000) is invalid
+[2021.01.29-19.14.18:918][201]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 2.8
+[2021.01.29-19.14.27:125][952]LogEditorViewport: Clicking on Actor (LMB): BP_CubemapMgr_C (BP_CubemapMgr)
+[2021.01.29-19.14.28:233][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.29-19.15.25:087][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/Autosaves/Game/Map/Stage_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.01.29-19.15.25:127][219]LogSavePackage: Save=33.11ms
+[2021.01.29-19.15.25:128][219]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/Stage_Auto1E96E2A0B4A51EA8C146C78ABEDB58569.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/Autosaves/Game/Map/Stage_Auto1.umap'
+[2021.01.29-19.15.25:130][219]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/Autosaves/Game/Map/Stage_Auto1.umap
+[2021.01.29-19.15.25:132][219]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Stage' took 0.069
+[2021.01.29-19.15.25:133][219]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.069
+[2021.01.29-19.15.28:354][229]LogHotReload: New module detected: UE4Editor-LetsGo-6496.dll
+[2021.01.29-19.15.29:377][233]LogHotReload: Starting Hot-Reload from IDE
+[2021.01.29-19.15.29:853][233]LogHotReload: Re-instancing CubemapMgr after hot-reload.
+[2021.01.29-19.15.29:905][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020077799478, Size=56
+[2021.01.29-19.15.29:905][233]LogUObjectGlobals: Created PersistentFrame Addr=0x000002001ee40100, Size=56, Default__BP_CubemapMgr_C Function /Engine/Transient.REINST_BP_CubemapMgr_C_175:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.15.29:928][233]LogUObjectGlobals: Created PersistentFrame Addr=0x000002001ee40b80, Size=56, Default__BP_CubemapMgr_C Function /Game/Blueprint/Cubemap/BP_CubemapMgr.BP_CubemapMgr_C:ExecuteUbergraph_BP_CubemapMgr
+[2021.01.29-19.15.30:378][233]LogContentBrowser: Native class hierarchy updated for 'LetsGo' in 0.0010 seconds. Added 3 classes and 2 folders.
+[2021.01.29-19.15.30:382][233]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.01.29-19.15.30:681][233]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2458 classes and 565 folders.
+[2021.01.29-19.15.30:701][233]Display: HotReload took  1.3s.
+[2021.01.29-19.15.36:576][784]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.01.29-19.15.36:591][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-19.15.36:591][784]PIE: New page: PIE 세션: Stage (2021. 1. 30. 오후 1:15:36)
+[2021.01.29-19.15.36:591][784]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.01.29-19.15.36:623][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032359s)
+[2021.01.29-19.15.36:624][784]LogAIModule: Creating AISystem for world Stage
+[2021.01.29-19.15.36:624][784]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2021.01.29-19.15.36:625][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.034080s)
+[2021.01.29-19.15.36:941][784]LogInit: XAudio2 using '헤드폰(4- BOUNCE Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.29-19.15.36:988][784]LogInit: FAudioDevice initialized.
+[2021.01.29-19.15.37:024][784]LogLoad: Game class is 'BP_GameMode_C'
+[2021.01.29-19.15.37:026][784]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.01.30-04.15.37
+[2021.01.29-19.15.37:026][784]LogWorld: Bringing up level for play took: 0.000977
+[2021.01.29-19.15.38:217][784]LogSpawn: Warning: SpawnActor failed because the given transform (-nan,-nan,-nan|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000) is invalid
+[2021.01.29-19.15.38:217][784]LogSpawn: Warning: SpawnActor failed because the given transform (-nan,-nan,-nan|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000) is invalid
+[2021.01.29-19.15.38:403][784]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 2.285

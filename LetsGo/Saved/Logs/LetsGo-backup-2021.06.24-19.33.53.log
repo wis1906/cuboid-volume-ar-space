@@ -1,0 +1,1603 @@
+﻿Log file open, 06/23/21 18:47:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: LetsGo
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1434781850) SRandInit(1434781851).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.273295
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleARCore
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ApproxMVBB
+LogPluginManager: Mounting plugin ObjectBuilder
+LogPluginManager: Mounting plugin OpenCV410
+LogStreaming: Display: Took  0.146s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Unreal_Project/4.19.2/LetsGo/Binaries/Win64/UE4Editor-LetsGo.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/GoogleARCore/Binaries/Win64/UE4Editor-GoogleARCoreBase.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/GoogleARCore/Binaries/Win64/UE4Editor-GoogleARCoreRendering.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Unreal_Project/4.19.2/LetsGo/Plugins/ApproxMVBB/Binaries/Win64/UE4Editor-ApproxMVBB.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Unreal_Project/4.19.2/LetsGo/Plugins/ObjectBuilder/Binaries/Win64/UE4Editor-ObjectBuilder.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Unreal_Project/4.19.2/LetsGo/Plugins/OpenCV410/Binaries/Win64/UE4Editor-OpenCV410.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-5SHH7PE (192.168.136.1:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: E:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.016s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2021.06.23-09.47.55:218][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.23-09.47.55:218][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.23-09.47.55:232][  0]LogInit: Computer: DESKTOP-5SHH7PE
+[2021.06.23-09.47.55:232][  0]LogInit: User: KISIK
+[2021.06.23-09.47.55:232][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.06.23-09.47.55:232][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.23-09.47.55:232][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.06.23-09.47.55:232][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.23-09.47.55:232][  0]LogMemory: Process Physical Memory: 276.75 MB used, 276.75 MB peak
+[2021.06.23-09.47.55:232][  0]LogMemory: Process Virtual Memory: 264.61 MB used, 264.61 MB peak
+[2021.06.23-09.47.55:232][  0]LogMemory: Physical Memory: 10254.48 MB used,  22449.89 MB free, 32704.37 MB total
+[2021.06.23-09.47.55:232][  0]LogMemory: Virtual Memory: 4779.15 MB used,  22449.89 MB free, 134217728.00 MB total
+[2021.06.23-09.47.55:661][  0]LogInit: Using OS detected language (ko-KR).
+[2021.06.23-09.47.55:661][  0]LogInit: Using OS detected locale (ko-KR).
+[2021.06.23-09.47.55:747][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2021.06.23-09.47.56:200][  0]LogStreaming: Display: Took  0.539s to EndInitTextLocalization.
+[2021.06.23-09.47.56:201][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.23-09.47.56:361][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.23-09.47.56:361][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.23-09.47.59:596][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.23-09.47.59:679][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2021.06.23-09.47.59:679][  0]LogD3D11RHI:       4043/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2021.06.23-09.47.59:683][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.23-09.47.59:683][  0]LogD3D11RHI:       0/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.23-09.47.59:683][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.23-09.47.59:693][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.23-09.47.59:693][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.23-09.47.59:693][  0]LogWindows: EnumDisplayDevices:
+[2021.06.23-09.47.59:693][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2021.06.23-09.47.59:694][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2021.06.23-09.47.59:694][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2021.06.23-09.47.59:695][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2021.06.23-09.47.59:695][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.06.23-09.47.59:695][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2021.06.23-09.47.59:695][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.06.23-09.47.59:695][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.06.23-09.47.59:695][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2021.06.23-09.47.59:744][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2021.06.23-09.47.59:744][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2021.06.23-09.47.59:745][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.23-09.47.59:771][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.06.23-09.47.59:800][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../../Unreal_Project/4.19.2/LetsGo/Intermediate/Shaders/WorkingDirectory/8984/).
+[2021.06.23-09.47.59:801][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/KISIK/AppData/Local/Temp/UnrealShaderWorkingDir/89BAA048458292F6492262A2E9BFF9B4/'.
+[2021.06.23-09.48.00:528][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2021.06.23-09.48.00:543][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2021.06.23-09.48.00:557][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2021.06.23-09.48.00:572][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2021.06.23-09.48.00:589][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2021.06.23-09.48.00:603][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2021.06.23-09.48.00:619][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2021.06.23-09.48.00:634][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2021.06.23-09.48.00:640][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2021.06.23-09.48.00:654][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2021.06.23-09.48.00:668][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2021.06.23-09.48.00:681][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2021.06.23-09.48.00:695][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2021.06.23-09.48.00:711][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2021.06.23-09.48.00:726][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2021.06.23-09.48.00:755][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2021.06.23-09.48.00:755][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2021.06.23-09.48.00:771][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.06.23-09.48.00:773][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2021.06.23-09.48.00:846][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.06.23-09.48.00:859][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.06.23-09.48.00:873][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2021.06.23-09.48.00:887][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2021.06.23-09.48.00:901][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2021.06.23-09.48.00:917][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2021.06.23-09.48.00:917][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.23-09.48.01:445][  0]LogXGEController: Cleaning working directory: C:/Users/KISIK/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.06.23-09.48.01:445][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.06.23-09.48.01:445][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.23-09.48.01:445][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.23-09.48.03:800][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.23-09.48.04:100][  0]LogDerivedDataCache: Loaded boot cache 0.30s 74MB C:/Users/KISIK/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2021.06.23-09.48.04:100][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/KISIK/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2021.06.23-09.48.04:100][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal_Project/4.19.2/LetsGo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.23-09.48.04:100][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.23-09.48.04:100][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal_Project/4.19.2/LetsGo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.23-09.48.04:100][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.23-09.48.04:130][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.23-09.48.04:144][  0]LogDerivedDataCache: Using Local data cache path C:/Users/KISIK/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.23-09.48.04:144][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.23-09.48.04:144][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.23-09.48.04:158][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.06.23-09.48.04:162][  0]LogSlate: Using Freetype 2.6.0
+[2021.06.23-09.48.04:183][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.23-09.48.04:183][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.23-09.48.08:440][  0]LogAssetRegistry: FAssetRegistry took 0.0306 seconds to start up
+[2021.06.23-09.48.08:911][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.23-09.48.09:337][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2021.06.23-09.48.09:342][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2021.06.23-09.48.09:343][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.23-09.48.09:344][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2021.06.23-09.48.09:344][  0]LogMeshReduction: No automatic mesh merging module available
+[2021.06.23-09.48.09:344][  0]LogMeshMerging: No automatic mesh merging module available
+[2021.06.23-09.48.09:456][  0]LogNetVersion: LetsGo , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1751961038)
+[2021.06.23-09.48.11:013][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 0.132220 seconds
+[2021.06.23-09.48.11:020][  0]LogUObjectArray: 36745 objects as part of root set at end of initial load.
+[2021.06.23-09.48.11:020][  0]LogUObjectAllocator: 7321952 out of 0 bytes used by permanent object pool.
+[2021.06.23-09.48.11:020][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.23-09.48.24:869][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.23-09.48.24:909][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.23-09.48.26:038][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2021.06.23-09.48.26:038][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2021.06.23-09.48.26:070][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2021.06.23-09.48.26:096][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2021.06.23-09.48.26:903][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.23-09.48.27:370][  0]LogOcInput: OculusInput pre-init called
+[2021.06.23-09.48.27:699][  0]LogEngine: Initializing Engine...
+[2021.06.23-09.48.27:710][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.23-09.48.27:714][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.06.23-09.48.27:715][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.06.23-09.48.28:259][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.23-09.48.28:416][  0]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-09.48.28:515][  0]LogInit: FAudioDevice initialized.
+[2021.06.23-09.48.28:599][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/KISIK/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2021.06.23-09.48.28:605][  0]LogInit: Texture streaming: Enabled
+[2021.06.23-09.48.28:629][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.23-09.48.28:657][  0]LogInit: Transaction tracking system initialized
+[2021.06.23-09.48.28:713][  0]BlueprintLog: New page: 에디터 로드
+[2021.06.23-09.48.28:876][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2021.06.23-09.48.29:084][  0]LogConsoleResponse: Display: 
+[2021.06.23-09.48.29:614][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.06.23-09.48.29:614][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.23-09.48.29:614][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2021.06.23-09.48.29:614][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.06.23-09.48.29:614][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.06.23-09.48.29:706][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/4.19.2/LetsGo/Content/' took 0.05s
+[2021.06.23-09.48.30:487][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2021.06.23-09.48.30:488][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.23-09.48.30:491][  0]LightingResults: New page: 라이팅 빌드
+[2021.06.23-09.48.30:500][  0]MapCheck: New page: 맵 체크
+[2021.06.23-09.48.30:500][  0]LightingResults: New page: 라이팅 빌드
+[2021.06.23-09.48.30:666][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f54e14d40, Size=448, Default__BP_BoundingBoxMgr_C Function /Game/Blueprint/BoundingBox/BP_BoundingBoxMgr.BP_BoundingBoxMgr_C:ExecuteUbergraph_BP_BoundingBoxMgr
+[2021.06.23-09.48.30:678][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f54e14d40, Size=448
+[2021.06.23-09.48.30:678][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f54e14d40, Size=448, Default__BP_BoundingBoxMgr_C Function /Engine/Transient.REINST_BP_BoundingBoxMgr_C_9:ExecuteUbergraph_BP_BoundingBoxMgr
+[2021.06.23-09.48.30:688][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f54d5ae80, Size=448, Default__BP_BoundingBoxMgr_C Function /Game/Blueprint/BoundingBox/BP_BoundingBoxMgr.BP_BoundingBoxMgr_C:ExecuteUbergraph_BP_BoundingBoxMgr
+[2021.06.23-09.48.30:918][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f4137ff90, Size=56, Default__BP_CubemapMgr_C Function /Game/Blueprint/Cubemap/BP_CubemapMgr.BP_CubemapMgr_C:ExecuteUbergraph_BP_CubemapMgr
+[2021.06.23-09.48.30:929][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f4137ff90, Size=56
+[2021.06.23-09.48.30:929][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f4137ff90, Size=56, Default__BP_CubemapMgr_C Function /Engine/Transient.REINST_BP_CubemapMgr_C_13:ExecuteUbergraph_BP_CubemapMgr
+[2021.06.23-09.48.30:936][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f4137f318, Size=56, Default__BP_CubemapMgr_C Function /Game/Blueprint/Cubemap/BP_CubemapMgr.BP_CubemapMgr_C:ExecuteUbergraph_BP_CubemapMgr
+[2021.06.23-09.48.30:983][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f54b62f88, Size=4, Default__AnimBP_DeerStag_C Function /Game/Meshes/AnimalVarietyPack/DeerStagAndDoe/Animations/AnimBp_DeerStag.AnimBP_DeerStag_C:ExecuteUbergraph_AnimBP_DeerStag
+[2021.06.23-09.48.30:990][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f54b62f88, Size=4
+[2021.06.23-09.48.30:991][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f54b62f88, Size=4, Default__AnimBP_DeerStag_C Function /Engine/Transient.REINST_AnimBP_DeerStag_C_0:ExecuteUbergraph_AnimBP_DeerStag
+[2021.06.23-09.48.30:993][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f54b63098, Size=4, Default__AnimBP_DeerStag_C Function /Game/Meshes/AnimalVarietyPack/DeerStagAndDoe/Animations/AnimBp_DeerStag.AnimBP_DeerStag_C:ExecuteUbergraph_AnimBP_DeerStag
+[2021.06.23-09.48.31:019][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f54b63108, Size=4, Default__AnimBP_Fox_C Function /Game/Meshes/AnimalVarietyPack/Fox/Animations/AnimBP_Fox.AnimBP_Fox_C:ExecuteUbergraph_AnimBP_Fox
+[2021.06.23-09.48.31:021][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f54b63108, Size=4
+[2021.06.23-09.48.31:021][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f54b63108, Size=4, Default__AnimBP_Fox_C Function /Engine/Transient.REINST_AnimBP_Fox_C_1:ExecuteUbergraph_AnimBP_Fox
+[2021.06.23-09.48.31:021][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f54b63290, Size=4, Default__AnimBP_Fox_C Function /Game/Meshes/AnimalVarietyPack/Fox/Animations/AnimBP_Fox.AnimBP_Fox_C:ExecuteUbergraph_AnimBP_Fox
+[2021.06.23-09.48.31:049][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f54b632f8, Size=4, Default__AnimBP_Pig_C Function /Game/Meshes/AnimalVarietyPack/Pig/Animations/AnimBP_Pig.AnimBP_Pig_C:ExecuteUbergraph_AnimBP_Pig
+[2021.06.23-09.48.31:050][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f54b632f8, Size=4
+[2021.06.23-09.48.31:050][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f54b632f8, Size=4, Default__AnimBP_Pig_C Function /Engine/Transient.REINST_AnimBP_Pig_C_2:ExecuteUbergraph_AnimBP_Pig
+[2021.06.23-09.48.31:051][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f54b63458, Size=4, Default__AnimBP_Pig_C Function /Game/Meshes/AnimalVarietyPack/Pig/Animations/AnimBP_Pig.AnimBP_Pig_C:ExecuteUbergraph_AnimBP_Pig
+[2021.06.23-09.48.31:078][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f54b634b8, Size=4, Default__AnimBP_Spider3_C Function /Game/Meshes/Spider/AnimBP_Spider3.AnimBP_Spider3_C:ExecuteUbergraph_AnimBP_Spider3
+[2021.06.23-09.48.31:080][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f54b634b8, Size=4
+[2021.06.23-09.48.31:080][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f54b634b8, Size=4, Default__AnimBP_Spider3_C Function /Engine/Transient.REINST_AnimBP_Spider3_C_3:ExecuteUbergraph_AnimBP_Spider3
+[2021.06.23-09.48.31:080][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f54b63630, Size=4, Default__AnimBP_Spider3_C Function /Game/Meshes/Spider/AnimBP_Spider3.AnimBP_Spider3_C:ExecuteUbergraph_AnimBP_Spider3
+[2021.06.23-09.48.31:187][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f37b8c400, Size=608, Default__Monster_C Function /Game/Blueprint/MonsterSpawn/Monster.Monster_C:ExecuteUbergraph_Monster
+[2021.06.23-09.48.31:192][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f37b8c400, Size=608
+[2021.06.23-09.48.31:192][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f37b17d80, Size=608, Default__Monster_C Function /Engine/Transient.REINST_Monster_C_19:ExecuteUbergraph_Monster
+[2021.06.23-09.48.31:196][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f37b15a80, Size=608, Default__Monster_C Function /Game/Blueprint/MonsterSpawn/Monster.Monster_C:ExecuteUbergraph_Monster
+[2021.06.23-09.48.31:481][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f5d2e7100, Size=304, Default__BP_MonsterSpawner_C Function /Game/Blueprint/MonsterSpawn/BP_MonsterSpawner.BP_MonsterSpawner_C:ExecuteUbergraph_BP_MonsterSpawner
+[2021.06.23-09.48.31:486][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f5d2e7100, Size=304
+[2021.06.23-09.48.31:486][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f5d2e7100, Size=304, Default__BP_MonsterSpawner_C Function /Engine/Transient.REINST_BP_MonsterSpawner_C_21:ExecuteUbergraph_BP_MonsterSpawner
+[2021.06.23-09.48.31:489][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f5d2e6c00, Size=304, Default__BP_MonsterSpawner_C Function /Game/Blueprint/MonsterSpawn/BP_MonsterSpawner.BP_MonsterSpawner_C:ExecuteUbergraph_BP_MonsterSpawner
+[2021.06.23-09.48.31:492][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f5d344640, Size=192, Default__BP_MonsterSpawnMgr_C Function /Game/Blueprint/MonsterSpawn/BP_MonsterSpawnMgr.BP_MonsterSpawnMgr_C:ExecuteUbergraph_BP_MonsterSpawnMgr
+[2021.06.23-09.48.31:494][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f5d344640, Size=192
+[2021.06.23-09.48.31:494][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f5d344640, Size=192, Default__BP_MonsterSpawnMgr_C Function /Engine/Transient.REINST_BP_MonsterSpawnMgr_C_23:ExecuteUbergraph_BP_MonsterSpawnMgr
+[2021.06.23-09.48.31:496][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f5d22f100, Size=192, Default__BP_MonsterSpawnMgr_C Function /Game/Blueprint/MonsterSpawn/BP_MonsterSpawnMgr.BP_MonsterSpawnMgr_C:ExecuteUbergraph_BP_MonsterSpawnMgr
+[2021.06.23-09.48.31:915][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f5d2bad20, Size=4, Default__Anim_ArmsBP_C Function /Game/Animations/FPP/Anim_ArmsBP.Anim_ArmsBP_C:ExecuteUbergraph_Anim_ArmsBP
+[2021.06.23-09.48.31:917][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f5d2bad20, Size=4
+[2021.06.23-09.48.31:917][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f5d2bad20, Size=4, Default__Anim_ArmsBP_C Function /Engine/Transient.REINST_Anim_ArmsBP_C_4:ExecuteUbergraph_Anim_ArmsBP
+[2021.06.23-09.48.31:919][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f5d2bacb0, Size=4, Default__Anim_ArmsBP_C Function /Game/Animations/FPP/Anim_ArmsBP.Anim_ArmsBP_C:ExecuteUbergraph_Anim_ArmsBP
+[2021.06.23-09.48.32:046][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f5d2ba898, Size=4, Default__BP_Effect_Explosion_C Function /Game/Blueprint/Play/BP_Effect_Explosion.BP_Effect_Explosion_C:ExecuteUbergraph_BP_Effect_Explosion
+[2021.06.23-09.48.32:047][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f5d2ba898, Size=4
+[2021.06.23-09.48.32:047][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f5d2ba898, Size=4, Default__BP_Effect_Explosion_C Function /Engine/Transient.REINST_BP_Effect_Explosion_C_34:ExecuteUbergraph_BP_Effect_Explosion
+[2021.06.23-09.48.32:048][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f5d2ba7d0, Size=4, Default__BP_Effect_Explosion_C Function /Game/Blueprint/Play/BP_Effect_Explosion.BP_Effect_Explosion_C:ExecuteUbergraph_BP_Effect_Explosion
+[2021.06.23-09.48.32:091][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f51ab4d00, Size=256, Default__BP_FPSProjectile_C Function /Game/Blueprint/Play/BP_FPSProjectile.BP_FPSProjectile_C:ExecuteUbergraph_BP_FPSProjectile
+[2021.06.23-09.48.32:093][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f51ab4d00, Size=256
+[2021.06.23-09.48.32:093][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f51ab4d00, Size=256, Default__BP_FPSProjectile_C Function /Engine/Transient.REINST_BP_FPSProjectile_C_36:ExecuteUbergraph_BP_FPSProjectile
+[2021.06.23-09.48.32:095][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f5f8c2400, Size=256, Default__BP_FPSProjectile_C Function /Game/Blueprint/Play/BP_FPSProjectile.BP_FPSProjectile_C:ExecuteUbergraph_BP_FPSProjectile
+[2021.06.23-09.48.32:382][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f413793f0, Size=44, Default__BP_SlamMgr_C Function /Game/Blueprint/SLAM/BP_SlamMgr.BP_SlamMgr_C:ExecuteUbergraph_BP_SlamMgr
+[2021.06.23-09.48.32:392][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f413793f0, Size=44
+[2021.06.23-09.48.32:392][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f413793f0, Size=44, Default__BP_SlamMgr_C Function /Engine/Transient.REINST_BP_SlamMgr_C_46:ExecuteUbergraph_BP_SlamMgr
+[2021.06.23-09.48.32:402][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f41378400, Size=44, Default__BP_SlamMgr_C Function /Game/Blueprint/SLAM/BP_SlamMgr.BP_SlamMgr_C:ExecuteUbergraph_BP_SlamMgr
+[2021.06.23-09.48.32:462][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f600d4b80, Size=2400, Default__Stage_C Function /Game/Map/Stage.Stage_C:ExecuteUbergraph_Stage
+[2021.06.23-09.48.32:490][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f600d4b80, Size=2400
+[2021.06.23-09.48.32:490][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f36f77580, Size=2400, Default__Stage_C Function /Engine/Transient.REINST_Stage_C_48:ExecuteUbergraph_Stage
+[2021.06.23-09.48.32:504][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f604ef580, Size=2400, Default__Stage_C Function /Game/Map/Stage.Stage_C:ExecuteUbergraph_Stage
+[2021.06.23-09.48.32:676][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [14.350900ms] /Game/Meshes/AnimalVarietyPack/Fox/Meshes/SK_Fox.SK_Fox
+[2021.06.23-09.48.32:750][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [8.972300ms] /Game/Meshes/Spider/Spider_3.Spider_3
+[2021.06.23-09.48.33:467][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [22.511801ms] /Game/Meshes/AnimalVarietyPack/Pig/Meshes/SK_Pig.SK_Pig
+[2021.06.23-09.48.33:563][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [25.397900ms] /Game/Meshes/AnimalVarietyPack/DeerStagAndDoe/Meshes/SK_DeerStag.SK_DeerStag
+[2021.06.23-09.48.33:589][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [9.778000ms] /Game/Meshes/HeroFPP/HeroFPP.HeroFPP
+[2021.06.23-09.48.33:624][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [14.321700ms] /Game/Meshes/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SK_KA47.SK_KA47
+[2021.06.23-09.48.33:701][  0]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-09.48.33:740][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.23-09.48.33:758][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f54e14d40, Size=448
+[2021.06.23-09.48.33:759][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f4137ff90, Size=56
+[2021.06.23-09.48.33:759][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f54b62f88, Size=4
+[2021.06.23-09.48.33:759][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f54b63108, Size=4
+[2021.06.23-09.48.33:759][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f54b632f8, Size=4
+[2021.06.23-09.48.33:759][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f54b634b8, Size=4
+[2021.06.23-09.48.33:759][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f37b17d80, Size=608
+[2021.06.23-09.48.33:759][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f5d2e7100, Size=304
+[2021.06.23-09.48.33:759][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f5d344640, Size=192
+[2021.06.23-09.48.33:759][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f5d2bad20, Size=4
+[2021.06.23-09.48.33:759][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f5d2ba898, Size=4
+[2021.06.23-09.48.33:759][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f51ab4d00, Size=256
+[2021.06.23-09.48.33:759][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f413793f0, Size=44
+[2021.06.23-09.48.33:759][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f36f77580, Size=2400
+[2021.06.23-09.48.33:765][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.23-09.48.33:865][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 99.6ms.
+[2021.06.23-09.48.33:866][  0]LogFileHelpers: Loading map 'Stage' took 3.378
+[2021.06.23-09.48.34:207][  0]LogCollectionManager: Loaded 0 collections in 0.001268 seconds
+[2021.06.23-09.48.34:285][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/4.19.2/LetsGo/Saved/Collections/' took 0.01s
+[2021.06.23-09.48.34:285][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/4.19.2/LetsGo/Content/Developers/KISIK/Collections/' took 0.01s
+[2021.06.23-09.48.34:285][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/4.19.2/LetsGo/Content/Collections/' took 0.01s
+[2021.06.23-09.48.34:285][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2021.06.23-09.48.34:298][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2471 classes and 566 folders.
+[2021.06.23-09.48.34:315][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2021.06.23-09.48.34:966][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2021.06.23-09.48.34:982][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2021.06.23-09.48.35:012][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0010 seconds. Added 2 classes and 3 folders.
+[2021.06.23-09.48.35:208][  0]LogSlate: Took 0.008390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.23-09.48.35:233][  0]LogSlate: Took 0.023307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.06.23-09.48.35:258][  0]LogSlate: Took 0.024183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.06.23-09.48.35:265][  0]LogSlate: Took 0.006652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.23-09.48.35:281][  0]LogSlate: Took 0.008028 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.23-09.48.35:530][  0]LogRenderer: Reallocating scene render targets to support 1144x600 Format 10 NumSamples 1 (Frame:1).
+[2021.06.23-09.48.35:740][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2021.06.23-09.48.35:740][  0]LogLoad: (Engine Initialization) Total time: 44.67 seconds
+[2021.06.23-09.48.35:740][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.23-09.48.36:121][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.23-09.48.36:206][  0]LogSlate: Took 0.009259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.23-09.48.36:762][  2]LogAssetRegistry: Asset discovery search completed in 28.3461 seconds
+[2021.06.23-09.48.36:767][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.06.23-09.48.36:767][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000076 seconds (updated 0 objects)
+[2021.06.23-09.48.42:100][ 19]LogUObjectGlobals: Warning: 'Object /Script/LetsGo.LetsGoGameMode' 오브젝트를 찾는 데 실패했습니다.
+[2021.06.23-09.48.42:126][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.06.23-09.48.42:615][ 67]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.23-09.48.43:193][101]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.06.23-09.48.43:562][101]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2021.06.23-09.48.43:890][101]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019faf814db8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2021.06.23-09.48.43:891][101]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019faf814d80, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2021.06.23-09.48.44:374][101]LogSlate: Took 0.007360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.23-09.48.44:845][102]LogSlate: Took 0.008352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.23-09.48.50:158][709]LogStreaming: Warning: Failed to open ANSI TEXT file E:/Unreal_Project/4.19.2/LetsGo/Saved/HardwareSurvey/dxdiag.txt
+[2021.06.23-09.48.50:175][710]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=5.00
+[2021.06.23-09.48.50:175][710]LogSynthBenchmark: Display: ===============
+[2021.06.23-09.48.50:175][710]LogSynthBenchmark: Display: Main Processor:
+[2021.06.23-09.48.50:378][710]LogSynthBenchmark: Display:          ... 0.021331 s/Run 'RayIntersect'
+[2021.06.23-09.48.50:378][710]LogSynthBenchmark: Display:          ... 0.019350 s/Run 'Fractal'
+[2021.06.23-09.48.50:378][710]LogSynthBenchmark: Display: 
+[2021.06.23-09.48.50:378][710]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2021.06.23-09.48.50:378][710]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2021.06.23-09.48.50:379][710]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2021.06.23-09.48.50:379][710]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2021.06.23-09.48.50:379][710]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 32
+[2021.06.23-09.48.50:379][710]LogSynthBenchmark: Display:   NumberOfCores (physical): 4
+[2021.06.23-09.48.50:379][710]LogSynthBenchmark: Display:   NumberOfCores (logical): 8
+[2021.06.23-09.48.50:379][710]LogSynthBenchmark: Display:   CPU Perf Index 0: 120.1 (weight 1.00)
+[2021.06.23-09.48.50:379][710]LogSynthBenchmark: Display:   CPU Perf Index 1: 147.8 (weight 1.50)
+[2021.06.23-09.48.50:379][710]LogSynthBenchmark: Display:  
+[2021.06.23-09.48.50:379][710]LogSynthBenchmark: Display: Graphics:
+[2021.06.23-09.48.50:379][710]LogSynthBenchmark: Display:   Adapter Name: 'NVIDIA GeForce GTX 970'
+[2021.06.23-09.48.50:379][710]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2021.06.23-09.48.50:379][710]LogSynthBenchmark: Display:   Vendor Id: 0x10DE
+[2021.06.23-09.48.50:379][710]LogSynthBenchmark: Display:   Device Id: 0x13C2
+[2021.06.23-09.48.50:379][710]LogSynthBenchmark: Display:   Device Revision: 0xA1
+[2021.06.23-09.48.50:379][710]LogSynthBenchmark: Display:   GPU Memory: 4044/0/16353 MB
+[2021.06.23-09.48.50:440][710]LogSynthBenchmark: Display:   GPU first test: 0.01s
+[2021.06.23-09.48.50:440][710]LogSynthBenchmark: Display:          ... 7.264 s/GigaPix, Confidence=89% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2021.06.23-09.48.50:440][710]LogSynthBenchmark: Display:          ... 6.009 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2021.06.23-09.48.50:440][710]LogSynthBenchmark: Display:          ... 4.774 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be very inaccurate)
+[2021.06.23-09.48.50:440][710]LogSynthBenchmark: Display:          ... 18.455 s/GigaPix, Confidence=89% 'FillOnly' (likely to be very inaccurate)
+[2021.06.23-09.48.50:440][710]LogSynthBenchmark: Display:          ... 0.791 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2021.06.23-09.48.50:440][710]LogSynthBenchmark: Display:          ... 7.697 s/GigaVert, Confidence=70% 'VertThroughPut1' (likely to be very inaccurate)
+[2021.06.23-09.48.50:440][710]LogSynthBenchmark: Display:          ... 5.858 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:   GPU second test: 0.11s
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:          ... 10.220 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be inaccurate)
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:          ... 8.159 s/GigaPix, Confidence=100% 'TexHeavy' (likely to be inaccurate)
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:          ... 7.339 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be inaccurate)
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:          ... 39.747 s/GigaPix, Confidence=100% 'FillOnly' (likely to be inaccurate)
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:          ... 0.886 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be inaccurate)
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:          ... 3.382 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be inaccurate)
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:          ... 5.069 s/GigaVert, Confidence=89% 'VertThroughPut2' (likely to be inaccurate)
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:   GPU Final Results:
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:          ... 10.220 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:          ... 8.159 s/GigaPix, Confidence=100% 'TexHeavy'
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:          ... 7.339 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:          ... 39.747 s/GigaPix, Confidence=100% 'FillOnly'
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:          ... 0.886 s/GigaPix, Confidence=100% 'Bandwidth'
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:          ... 3.382 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:          ... 5.069 s/GigaVert, Confidence=89% 'VertThroughPut2'
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display: 
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:   GPU Perf Index 0: 222.1 (weight 1.00)
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:   GPU Perf Index 1: 109.6 (weight 0.10)
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:   GPU Perf Index 2: 190.8 (weight 0.10)
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:   GPU Perf Index 3: 156.1 (weight 3.00)
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:   GPU Perf Index 4: 82.7 (weight 1.00)
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:   GPU Perf Index 5: 220.1 (weight 0.00)
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:   GPU Perf Index 6: 286.9 (weight 0.00)
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:   CPUIndex: 136.7
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:   GPUIndex: 154.4
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display: 
+[2021.06.23-09.48.50:590][710]LogSynthBenchmark: Display:          ... Total Time: 0.414741 sec
+[2021.06.23-09.48.54:795][204]BlueprintLog: New page: Stage 컴파일
+[2021.06.23-09.48.54:864][204]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f604ef580, Size=2400
+[2021.06.23-09.48.54:864][204]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f69c80b80, Size=2400, Default__Stage_C Function /Engine/Transient.REINST_Stage_C_64:ExecuteUbergraph_Stage
+[2021.06.23-09.48.54:874][204]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f6a7ac100, Size=2400, Default__Stage_C Function /Game/Map/Stage.Stage_C:ExecuteUbergraph_Stage
+[2021.06.23-09.48.55:707][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.23-09.48.55:865][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f6a7ac100, Size=2400
+[2021.06.23-09.48.55:865][237]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f60847580, Size=2400, Stage_C_0 Function /Engine/Transient.REINST_Stage_C_68:ExecuteUbergraph_Stage
+[2021.06.23-09.48.55:878][237]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019f6a7ae080, Size=2400, Default__Stage_C Function /Game/Map/Stage.Stage_C:ExecuteUbergraph_Stage
+[2021.06.23-09.48.56:138][237]LogSavePackage: Save=340.20ms
+[2021.06.23-09.48.56:138][237]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/StageB131AB804BC94E234035BEBB7323025C.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage.umap'
+[2021.06.23-09.48.56:144][237]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage.umap
+[2021.06.23-09.48.56:172][237]LogFileHelpers: Saving map 'Stage' took 0.577
+[2021.06.23-09.48.57:282][333]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.23-09.48.57:302][333]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-09.48.57:304][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-09.48.57:310][333]PIE: New page: PIE 세션: Stage (2021. 6. 24. 오전 3:48:57)
+[2021.06.23-09.48.57:310][333]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.06.23-09.48.57:329][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018503s)
+[2021.06.23-09.48.57:330][333]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-09.48.57:330][333]LogPlayLevel: PIE: World Init took: (0.001108s)
+[2021.06.23-09.48.57:330][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.019853s)
+[2021.06.23-09.48.57:346][333]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f69c80b80, Size=2400
+[2021.06.23-09.48.57:346][333]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f60847580, Size=2400
+[2021.06.23-09.48.57:479][333]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-09.48.57:520][333]LogInit: FAudioDevice initialized.
+[2021.06.23-09.48.57:566][333]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.23-09.48.57:576][333]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.06.23-18.48.57
+[2021.06.23-09.48.57:580][333]LogWorld: Bringing up level for play took: 0.004773
+[2021.06.23-09.48.57:596][333]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0017 seconds. Added 11 classes and 0 folders.
+[2021.06.23-09.48.57:681][333]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 151 points as outliers.
+[2021.06.23-09.48.57:696][333]LetsGo: Warning: SlamMgr::OutliderCnt = 151
+[2021.06.23-09.48.58:366][333]LetsGo: Warning: inlierCnt : 84, stableScore : 15.772317, beststatescore : 1324.874616, bestStateIdx : 9, iter : 35
+[2021.06.23-09.48.58:366][333]LetsGo: Warning: --
+[2021.06.23-09.48.58:366][333]LetsGo: Warning: inlierCnt : 43, stableScore : 20.214974, beststatescore : 869.243869, bestStateIdx : 7, iter : 35
+[2021.06.23-09.48.58:367][333]LetsGo: Warning: --
+[2021.06.23-09.48.58:367][333]LetsGo: Warning: inlierCnt : 43, stableScore : 8.953895, beststatescore : 385.017468, bestStateIdx : 16, iter : 35
+[2021.06.23-09.48.58:367][333]LetsGo: Warning: --
+[2021.06.23-09.48.58:367][333]LetsGo: Warning: inlierCnt : 66, stableScore : 15.037363, beststatescore : 992.465976, bestStateIdx : 17, iter : 35
+[2021.06.23-09.48.58:367][333]LetsGo: Warning: --
+[2021.06.23-09.48.58:367][333]LetsGo: Warning: inlierCnt : 52, stableScore : 34.209548, beststatescore : 1778.896475, bestStateIdx : 12, iter : 35
+[2021.06.23-09.48.58:367][333]LetsGo: Warning: --
+[2021.06.23-09.48.58:367][333]LetsGo: Warning: inlierCnt : 21, stableScore : 34.437124, beststatescore : 723.179595, bestStateIdx : 16, iter : 35
+[2021.06.23-09.48.58:367][333]LetsGo: Warning: --
+[2021.06.23-09.48.58:367][333]LetsGo: Warning: curBoxScore : 6073.677998, bestBoxScore : 0.000000
+[2021.06.23-09.48.58:367][333]LetsGo: Warning: --------------------------------------
+[2021.06.23-09.48.58:374][333]LetsGo: Warning: Best Box Datafile is saved.
+[2021.06.23-09.48.58:374][333]LetsGo: Warning: Character On.
+[2021.06.23-09.48.58:375][333]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 0.326
+[2021.06.23-09.48.58:375][333]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-09.49.03:409][893]LogEditorViewport: Clicking on Actor (LMB): BoundingBoxPlane_C (BoundingBoxPlane3)
+[2021.06.23-09.49.10:156][650]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-09.49.10:224][650]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-09.49.11:500][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.23-10.06.04:295][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.23-10.06.04:377][937]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.23-10.06.04:399][937]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.06.04:399][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-10.06.04:399][937]PIE: New page: PIE 세션: Stage (2021. 6. 24. 오전 4:06:04)
+[2021.06.23-10.06.04:399][937]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.06.23-10.06.04:422][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022816s)
+[2021.06.23-10.06.04:423][937]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-10.06.04:423][937]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2021.06.23-10.06.04:423][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.024129s)
+[2021.06.23-10.06.04:574][937]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-10.06.04:617][937]LogInit: FAudioDevice initialized.
+[2021.06.23-10.06.04:656][937]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.23-10.06.04:658][937]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.06.23-19.06.04
+[2021.06.23-10.06.04:658][937]LogWorld: Bringing up level for play took: 0.000847
+[2021.06.23-10.06.04:728][937]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 151 points as outliers.
+[2021.06.23-10.06.04:743][937]LetsGo: Warning: SlamMgr::OutliderCnt = 151
+[2021.06.23-10.06.05:339][937]LetsGo: Warning: inlierCnt : 65, stableScore : 16.401494, beststatescore : 1066.097084, bestStateIdx : 9, iter : 35
+[2021.06.23-10.06.05:339][937]LetsGo: Warning: --
+[2021.06.23-10.06.05:339][937]LetsGo: Warning: inlierCnt : 39, stableScore : 20.325778, beststatescore : 792.705331, bestStateIdx : 6, iter : 35
+[2021.06.23-10.06.05:339][937]LetsGo: Warning: --
+[2021.06.23-10.06.05:339][937]LetsGo: Warning: inlierCnt : 40, stableScore : 13.108127, beststatescore : 524.325095, bestStateIdx : 16, iter : 35
+[2021.06.23-10.06.05:339][937]LetsGo: Warning: --
+[2021.06.23-10.06.05:339][937]LetsGo: Warning: inlierCnt : 71, stableScore : 16.880764, beststatescore : 1198.534245, bestStateIdx : 18, iter : 35
+[2021.06.23-10.06.05:339][937]LetsGo: Warning: --
+[2021.06.23-10.06.05:340][937]LetsGo: Warning: inlierCnt : 41, stableScore : 30.554150, beststatescore : 1252.720153, bestStateIdx : 12, iter : 35
+[2021.06.23-10.06.05:340][937]LetsGo: Warning: --
+[2021.06.23-10.06.05:340][937]LetsGo: Warning: inlierCnt : 17, stableScore : 26.645678, beststatescore : 452.976521, bestStateIdx : 13, iter : 35
+[2021.06.23-10.06.05:340][937]LetsGo: Warning: --
+[2021.06.23-10.06.05:340][937]LetsGo: Warning: curBoxScore : 5287.358428, bestBoxScore : 0.000000
+[2021.06.23-10.06.05:340][937]LetsGo: Warning: --------------------------------------
+[2021.06.23-10.06.05:342][937]LetsGo: Warning: Best Box Datafile is saved.
+[2021.06.23-10.06.05:342][937]LetsGo: Warning: Character On.
+[2021.06.23-10.06.05:342][937]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 1.294
+[2021.06.23-10.06.05:343][937]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.06.11:238][619]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.06.11:275][619]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.06.11:922][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.23-10.06.12:005][702]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.23-10.06.12:023][702]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.06.12:023][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-10.06.12:023][702]PIE: New page: PIE 세션: Stage (2021. 6. 24. 오전 4:06:12)
+[2021.06.23-10.06.12:023][702]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.06.23-10.06.12:041][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018040s)
+[2021.06.23-10.06.12:042][702]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-10.06.12:042][702]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2021.06.23-10.06.12:042][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.019293s)
+[2021.06.23-10.06.12:188][702]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-10.06.12:230][702]LogInit: FAudioDevice initialized.
+[2021.06.23-10.06.12:263][702]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.23-10.06.12:264][702]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.06.23-19.06.12
+[2021.06.23-10.06.12:265][702]LogWorld: Bringing up level for play took: 0.000817
+[2021.06.23-10.06.12:321][702]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 151 points as outliers.
+[2021.06.23-10.06.12:334][702]LetsGo: Warning: SlamMgr::OutliderCnt = 151
+[2021.06.23-10.06.12:911][702]LetsGo: Warning: inlierCnt : 77, stableScore : 17.311141, beststatescore : 1332.957879, bestStateIdx : 9, iter : 35
+[2021.06.23-10.06.12:911][702]LetsGo: Warning: --
+[2021.06.23-10.06.12:911][702]LetsGo: Warning: inlierCnt : 34, stableScore : 27.587126, beststatescore : 937.962270, bestStateIdx : 11, iter : 35
+[2021.06.23-10.06.12:911][702]LetsGo: Warning: --
+[2021.06.23-10.06.12:912][702]LetsGo: Warning: inlierCnt : 35, stableScore : 12.813246, beststatescore : 448.463608, bestStateIdx : 16, iter : 35
+[2021.06.23-10.06.12:912][702]LetsGo: Warning: --
+[2021.06.23-10.06.12:912][702]LetsGo: Warning: inlierCnt : 68, stableScore : 13.089124, beststatescore : 890.060420, bestStateIdx : 19, iter : 35
+[2021.06.23-10.06.12:912][702]LetsGo: Warning: --
+[2021.06.23-10.06.12:912][702]LetsGo: Warning: inlierCnt : 67, stableScore : 38.564975, beststatescore : 2583.853299, bestStateIdx : 13, iter : 35
+[2021.06.23-10.06.12:912][702]LetsGo: Warning: --
+[2021.06.23-10.06.12:912][702]LetsGo: Warning: inlierCnt : 30, stableScore : 40.077803, beststatescore : 1202.334090, bestStateIdx : 15, iter : 35
+[2021.06.23-10.06.12:912][702]LetsGo: Warning: --
+[2021.06.23-10.06.12:912][702]LetsGo: Warning: curBoxScore : 7395.631566, bestBoxScore : 0.000000
+[2021.06.23-10.06.12:912][702]LetsGo: Warning: --------------------------------------
+[2021.06.23-10.06.12:914][702]LetsGo: Warning: Best Box Datafile is saved.
+[2021.06.23-10.06.12:914][702]LetsGo: Warning: Character On.
+[2021.06.23-10.06.12:914][702]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 0.866
+[2021.06.23-10.06.12:915][702]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.06.14:741][905]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.06.14:775][905]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.06.15:345][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.23-10.06.15:420][965]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.23-10.06.15:439][965]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.06.15:439][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-10.06.15:439][965]PIE: New page: PIE 세션: Stage (2021. 6. 24. 오전 4:06:15)
+[2021.06.23-10.06.15:439][965]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.06.23-10.06.15:455][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015640s)
+[2021.06.23-10.06.15:456][965]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-10.06.15:456][965]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2021.06.23-10.06.15:456][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.016615s)
+[2021.06.23-10.06.15:602][965]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-10.06.15:644][965]LogInit: FAudioDevice initialized.
+[2021.06.23-10.06.15:677][965]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.23-10.06.15:678][965]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.06.23-19.06.15
+[2021.06.23-10.06.15:679][965]LogWorld: Bringing up level for play took: 0.000838
+[2021.06.23-10.06.15:735][965]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 151 points as outliers.
+[2021.06.23-10.06.15:748][965]LetsGo: Warning: SlamMgr::OutliderCnt = 151
+[2021.06.23-10.06.16:326][965]LetsGo: Warning: inlierCnt : 92, stableScore : 14.094998, beststatescore : 1296.739834, bestStateIdx : 9, iter : 35
+[2021.06.23-10.06.16:326][965]LetsGo: Warning: --
+[2021.06.23-10.06.16:327][965]LetsGo: Warning: inlierCnt : 28, stableScore : 23.503218, beststatescore : 658.090105, bestStateIdx : 6, iter : 35
+[2021.06.23-10.06.16:327][965]LetsGo: Warning: --
+[2021.06.23-10.06.16:327][965]LetsGo: Warning: inlierCnt : 37, stableScore : 11.581949, beststatescore : 428.532099, bestStateIdx : 15, iter : 35
+[2021.06.23-10.06.16:327][965]LetsGo: Warning: --
+[2021.06.23-10.06.16:327][965]LetsGo: Warning: inlierCnt : 86, stableScore : 14.555076, beststatescore : 1251.736574, bestStateIdx : 18, iter : 35
+[2021.06.23-10.06.16:327][965]LetsGo: Warning: --
+[2021.06.23-10.06.16:327][965]LetsGo: Warning: inlierCnt : 63, stableScore : 38.231252, beststatescore : 2408.568906, bestStateIdx : 13, iter : 35
+[2021.06.23-10.06.16:327][965]LetsGo: Warning: --
+[2021.06.23-10.06.16:327][965]LetsGo: Warning: inlierCnt : 23, stableScore : 33.426534, beststatescore : 768.810273, bestStateIdx : 15, iter : 35
+[2021.06.23-10.06.16:327][965]LetsGo: Warning: --
+[2021.06.23-10.06.16:327][965]LetsGo: Warning: curBoxScore : 6812.477792, bestBoxScore : 0.000000
+[2021.06.23-10.06.16:327][965]LetsGo: Warning: --------------------------------------
+[2021.06.23-10.06.16:330][965]LetsGo: Warning: Best Box Datafile is saved.
+[2021.06.23-10.06.16:330][965]LetsGo: Warning: Character On.
+[2021.06.23-10.06.16:330][965]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 0.281
+[2021.06.23-10.06.16:330][965]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.06.34:100][ 83]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.06.34:136][ 83]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.07.04:877][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.23-10.07.04:952][482]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.23-10.07.04:972][482]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.07.04:972][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-10.07.04:973][482]PIE: New page: PIE 세션: Stage (2021. 6. 24. 오전 4:07:04)
+[2021.06.23-10.07.04:973][482]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.06.23-10.07.04:989][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016192s)
+[2021.06.23-10.07.04:990][482]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-10.07.04:990][482]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2021.06.23-10.07.04:990][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.017342s)
+[2021.06.23-10.07.05:134][482]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-10.07.05:174][482]LogInit: FAudioDevice initialized.
+[2021.06.23-10.07.05:210][482]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.23-10.07.05:211][482]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.06.23-19.07.05
+[2021.06.23-10.07.05:212][482]LogWorld: Bringing up level for play took: 0.000684
+[2021.06.23-10.07.05:268][482]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 151 points as outliers.
+[2021.06.23-10.07.05:282][482]LetsGo: Warning: SlamMgr::OutliderCnt = 151
+[2021.06.23-10.07.05:863][482]LetsGo: Warning: inlierCnt : 64, stableScore : 15.680369, beststatescore : 1003.543586, bestStateIdx : 9, iter : 35
+[2021.06.23-10.07.05:863][482]LetsGo: Warning: --
+[2021.06.23-10.07.05:863][482]LetsGo: Warning: inlierCnt : 41, stableScore : 20.282146, beststatescore : 831.567980, bestStateIdx : 7, iter : 35
+[2021.06.23-10.07.05:864][482]LetsGo: Warning: --
+[2021.06.23-10.07.05:864][482]LetsGo: Warning: inlierCnt : 43, stableScore : 11.165310, beststatescore : 480.108344, bestStateIdx : 16, iter : 35
+[2021.06.23-10.07.05:864][482]LetsGo: Warning: --
+[2021.06.23-10.07.05:864][482]LetsGo: Warning: inlierCnt : 65, stableScore : 13.588486, beststatescore : 883.251612, bestStateIdx : 18, iter : 35
+[2021.06.23-10.07.05:864][482]LetsGo: Warning: --
+[2021.06.23-10.07.05:864][482]LetsGo: Warning: inlierCnt : 42, stableScore : 27.920694, beststatescore : 1172.669152, bestStateIdx : 12, iter : 35
+[2021.06.23-10.07.05:864][482]LetsGo: Warning: --
+[2021.06.23-10.07.05:864][482]LetsGo: Warning: inlierCnt : 23, stableScore : 23.042834, beststatescore : 529.985185, bestStateIdx : 14, iter : 35
+[2021.06.23-10.07.05:864][482]LetsGo: Warning: --
+[2021.06.23-10.07.05:864][482]LetsGo: Warning: curBoxScore : 4901.125859, bestBoxScore : 0.000000
+[2021.06.23-10.07.05:864][482]LetsGo: Warning: --------------------------------------
+[2021.06.23-10.07.05:866][482]LetsGo: Warning: Best Box Datafile is saved.
+[2021.06.23-10.07.05:867][482]LetsGo: Warning: Character On.
+[2021.06.23-10.07.05:867][482]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 1.819
+[2021.06.23-10.07.05:867][482]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.07.10:110][974]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.07.10:149][974]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.07.10:572][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.23-10.07.10:663][ 26]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.23-10.07.10:682][ 26]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.07.10:682][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-10.07.10:682][ 26]PIE: New page: PIE 세션: Stage (2021. 6. 24. 오전 4:07:10)
+[2021.06.23-10.07.10:682][ 26]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.06.23-10.07.10:698][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015853s)
+[2021.06.23-10.07.10:699][ 26]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-10.07.10:699][ 26]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2021.06.23-10.07.10:699][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.017047s)
+[2021.06.23-10.07.10:846][ 26]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-10.07.10:889][ 26]LogInit: FAudioDevice initialized.
+[2021.06.23-10.07.10:919][ 26]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.23-10.07.10:920][ 26]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.06.23-19.07.10
+[2021.06.23-10.07.10:922][ 26]LogWorld: Bringing up level for play took: 0.000680
+[2021.06.23-10.07.10:977][ 26]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 151 points as outliers.
+[2021.06.23-10.07.10:991][ 26]LetsGo: Warning: SlamMgr::OutliderCnt = 151
+[2021.06.23-10.07.11:565][ 26]LetsGo: Warning: inlierCnt : 76, stableScore : 14.235923, beststatescore : 1081.930168, bestStateIdx : 9, iter : 35
+[2021.06.23-10.07.11:566][ 26]LetsGo: Warning: --
+[2021.06.23-10.07.11:566][ 26]LetsGo: Warning: inlierCnt : 36, stableScore : 20.407760, beststatescore : 734.679372, bestStateIdx : 6, iter : 35
+[2021.06.23-10.07.11:566][ 26]LetsGo: Warning: --
+[2021.06.23-10.07.11:566][ 26]LetsGo: Warning: inlierCnt : 39, stableScore : 9.690884, beststatescore : 377.944484, bestStateIdx : 16, iter : 35
+[2021.06.23-10.07.11:566][ 26]LetsGo: Warning: --
+[2021.06.23-10.07.11:566][ 26]LetsGo: Warning: inlierCnt : 87, stableScore : 23.216065, beststatescore : 2019.797694, bestStateIdx : 19, iter : 35
+[2021.06.23-10.07.11:566][ 26]LetsGo: Warning: --
+[2021.06.23-10.07.11:566][ 26]LetsGo: Warning: inlierCnt : 69, stableScore : 40.641457, beststatescore : 2804.260526, bestStateIdx : 13, iter : 35
+[2021.06.23-10.07.11:566][ 26]LetsGo: Warning: --
+[2021.06.23-10.07.11:566][ 26]LetsGo: Warning: inlierCnt : 19, stableScore : 34.496817, beststatescore : 655.439529, bestStateIdx : 15, iter : 35
+[2021.06.23-10.07.11:566][ 26]LetsGo: Warning: --
+[2021.06.23-10.07.11:566][ 26]LetsGo: Warning: curBoxScore : 7674.051773, bestBoxScore : 0.000000
+[2021.06.23-10.07.11:566][ 26]LetsGo: Warning: --------------------------------------
+[2021.06.23-10.07.11:569][ 26]LetsGo: Warning: Best Box Datafile is saved.
+[2021.06.23-10.07.11:569][ 26]LetsGo: Warning: Character On.
+[2021.06.23-10.07.11:569][ 26]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 1.521
+[2021.06.23-10.07.11:569][ 26]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.07.18:044][778]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.07.18:078][778]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.08.54:444][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.23-10.08.54:444][329]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.23-10.08.54:465][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.08.54:465][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-10.08.54:465][329]PIE: New page: PIE 세션: Stage (2021. 6. 24. 오전 4:08:54)
+[2021.06.23-10.08.54:465][329]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.06.23-10.08.54:483][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017351s)
+[2021.06.23-10.08.54:483][329]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-10.08.54:484][329]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2021.06.23-10.08.54:484][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.018345s)
+[2021.06.23-10.08.54:634][329]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-10.08.54:677][329]LogInit: FAudioDevice initialized.
+[2021.06.23-10.08.54:714][329]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.23-10.08.54:715][329]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.06.23-19.08.54
+[2021.06.23-10.08.54:715][329]LogWorld: Bringing up level for play took: 0.000632
+[2021.06.23-10.08.54:772][329]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 151 points as outliers.
+[2021.06.23-10.08.54:786][329]LetsGo: Warning: SlamMgr::OutliderCnt = 151
+[2021.06.23-10.08.55:371][329]LetsGo: Warning: inlierCnt : 73, stableScore : 15.934670, beststatescore : 1163.230891, bestStateIdx : 9, iter : 35
+[2021.06.23-10.08.55:371][329]LetsGo: Warning: --
+[2021.06.23-10.08.55:372][329]LetsGo: Warning: inlierCnt : 30, stableScore : 25.656099, beststatescore : 769.682967, bestStateIdx : 10, iter : 35
+[2021.06.23-10.08.55:372][329]LetsGo: Warning: --
+[2021.06.23-10.08.55:372][329]LetsGo: Warning: inlierCnt : 38, stableScore : 12.361203, beststatescore : 469.725711, bestStateIdx : 16, iter : 35
+[2021.06.23-10.08.55:372][329]LetsGo: Warning: --
+[2021.06.23-10.08.55:372][329]LetsGo: Warning: inlierCnt : 80, stableScore : 16.937666, beststatescore : 1355.013264, bestStateIdx : 19, iter : 35
+[2021.06.23-10.08.55:372][329]LetsGo: Warning: --
+[2021.06.23-10.08.55:372][329]LetsGo: Warning: inlierCnt : 36, stableScore : 29.638290, beststatescore : 1066.978444, bestStateIdx : 12, iter : 35
+[2021.06.23-10.08.55:372][329]LetsGo: Warning: --
+[2021.06.23-10.08.55:372][329]LetsGo: Warning: inlierCnt : 20, stableScore : 34.514877, beststatescore : 690.297537, bestStateIdx : 15, iter : 35
+[2021.06.23-10.08.55:372][329]LetsGo: Warning: --
+[2021.06.23-10.08.55:372][329]LetsGo: Warning: curBoxScore : 5514.928814, bestBoxScore : 0.000000
+[2021.06.23-10.08.55:372][329]LetsGo: Warning: --------------------------------------
+[2021.06.23-10.08.55:375][329]LetsGo: Warning: Best Box Datafile is saved.
+[2021.06.23-10.08.55:375][329]LetsGo: Warning: Character On.
+[2021.06.23-10.08.55:375][329]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 1.327
+[2021.06.23-10.08.55:375][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.08.58:441][684]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.08.58:476][684]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.08.58:876][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.23-10.08.58:967][731]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.23-10.08.58:985][731]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.08.58:985][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-10.08.58:986][731]PIE: New page: PIE 세션: Stage (2021. 6. 24. 오전 4:08:58)
+[2021.06.23-10.08.58:986][731]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.06.23-10.08.59:001][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015457s)
+[2021.06.23-10.08.59:002][731]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-10.08.59:002][731]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2021.06.23-10.08.59:003][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.016748s)
+[2021.06.23-10.08.59:146][731]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-10.08.59:186][731]LogInit: FAudioDevice initialized.
+[2021.06.23-10.08.59:218][731]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.23-10.08.59:220][731]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.06.23-19.08.59
+[2021.06.23-10.08.59:220][731]LogWorld: Bringing up level for play took: 0.000976
+[2021.06.23-10.08.59:277][731]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 151 points as outliers.
+[2021.06.23-10.08.59:291][731]LetsGo: Warning: SlamMgr::OutliderCnt = 151
+[2021.06.23-10.08.59:867][731]LetsGo: Warning: inlierCnt : 75, stableScore : 15.451783, beststatescore : 1158.883751, bestStateIdx : 9, iter : 35
+[2021.06.23-10.08.59:867][731]LetsGo: Warning: --
+[2021.06.23-10.08.59:867][731]LetsGo: Warning: inlierCnt : 44, stableScore : 20.494290, beststatescore : 901.748777, bestStateIdx : 7, iter : 35
+[2021.06.23-10.08.59:867][731]LetsGo: Warning: --
+[2021.06.23-10.08.59:868][731]LetsGo: Warning: inlierCnt : 33, stableScore : 9.119094, beststatescore : 300.930104, bestStateIdx : 16, iter : 35
+[2021.06.23-10.08.59:868][731]LetsGo: Warning: --
+[2021.06.23-10.08.59:868][731]LetsGo: Warning: inlierCnt : 52, stableScore : 9.035529, beststatescore : 469.847502, bestStateIdx : 17, iter : 35
+[2021.06.23-10.08.59:868][731]LetsGo: Warning: --
+[2021.06.23-10.08.59:868][731]LetsGo: Warning: inlierCnt : 80, stableScore : 33.634541, beststatescore : 2690.763297, bestStateIdx : 13, iter : 35
+[2021.06.23-10.08.59:868][731]LetsGo: Warning: --
+[2021.06.23-10.08.59:868][731]LetsGo: Warning: inlierCnt : 28, stableScore : 41.074375, beststatescore : 1150.082493, bestStateIdx : 16, iter : 35
+[2021.06.23-10.08.59:868][731]LetsGo: Warning: --
+[2021.06.23-10.08.59:868][731]LetsGo: Warning: curBoxScore : 6672.255923, bestBoxScore : 0.000000
+[2021.06.23-10.08.59:868][731]LetsGo: Warning: --------------------------------------
+[2021.06.23-10.08.59:870][731]LetsGo: Warning: Best Box Datafile is saved.
+[2021.06.23-10.08.59:871][731]LetsGo: Warning: Character On.
+[2021.06.23-10.08.59:871][731]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 1.822
+[2021.06.23-10.08.59:871][731]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.00:518][806]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.00:553][806]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.00:931][849]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.23-10.09.00:950][849]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.00:950][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-10.09.00:950][849]PIE: New page: PIE 세션: Stage (2021. 6. 24. 오전 4:09:00)
+[2021.06.23-10.09.00:950][849]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.06.23-10.09.00:967][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016376s)
+[2021.06.23-10.09.00:968][849]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-10.09.00:968][849]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2021.06.23-10.09.00:968][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.017620s)
+[2021.06.23-10.09.01:112][849]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-10.09.01:156][849]LogInit: FAudioDevice initialized.
+[2021.06.23-10.09.01:190][849]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.23-10.09.01:192][849]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.06.23-19.09.01
+[2021.06.23-10.09.01:192][849]LogWorld: Bringing up level for play took: 0.000883
+[2021.06.23-10.09.01:253][849]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 151 points as outliers.
+[2021.06.23-10.09.01:270][849]LetsGo: Warning: SlamMgr::OutliderCnt = 151
+[2021.06.23-10.09.01:850][849]LetsGo: Warning: inlierCnt : 81, stableScore : 14.058303, beststatescore : 1138.722523, bestStateIdx : 9, iter : 35
+[2021.06.23-10.09.01:850][849]LetsGo: Warning: --
+[2021.06.23-10.09.01:851][849]LetsGo: Warning: inlierCnt : 42, stableScore : 19.550678, beststatescore : 821.128473, bestStateIdx : 7, iter : 35
+[2021.06.23-10.09.01:851][849]LetsGo: Warning: --
+[2021.06.23-10.09.01:851][849]LetsGo: Warning: inlierCnt : 28, stableScore : 12.809776, beststatescore : 358.673721, bestStateIdx : 16, iter : 35
+[2021.06.23-10.09.01:851][849]LetsGo: Warning: --
+[2021.06.23-10.09.01:851][849]LetsGo: Warning: inlierCnt : 82, stableScore : 20.031622, beststatescore : 1642.593045, bestStateIdx : 19, iter : 35
+[2021.06.23-10.09.01:851][849]LetsGo: Warning: --
+[2021.06.23-10.09.01:851][849]LetsGo: Warning: inlierCnt : 103, stableScore : 38.760582, beststatescore : 3992.339990, bestStateIdx : 13, iter : 35
+[2021.06.23-10.09.01:851][849]LetsGo: Warning: --
+[2021.06.23-10.09.01:851][849]LetsGo: Warning: inlierCnt : 26, stableScore : 37.443358, beststatescore : 973.527302, bestStateIdx : 15, iter : 35
+[2021.06.23-10.09.01:851][849]LetsGo: Warning: --
+[2021.06.23-10.09.01:851][849]LetsGo: Warning: curBoxScore : 8926.985053, bestBoxScore : 0.000000
+[2021.06.23-10.09.01:851][849]LetsGo: Warning: --------------------------------------
+[2021.06.23-10.09.01:854][849]LetsGo: Warning: Best Box Datafile is saved.
+[2021.06.23-10.09.01:854][849]LetsGo: Warning: Character On.
+[2021.06.23-10.09.01:854][849]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 1.805
+[2021.06.23-10.09.01:854][849]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.02:427][916]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.02:465][916]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.02:717][944]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.23-10.09.02:737][944]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.02:737][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-10.09.02:737][944]PIE: New page: PIE 세션: Stage (2021. 6. 24. 오전 4:09:02)
+[2021.06.23-10.09.02:737][944]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.06.23-10.09.02:753][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015574s)
+[2021.06.23-10.09.02:753][944]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-10.09.02:754][944]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2021.06.23-10.09.02:754][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.016650s)
+[2021.06.23-10.09.02:900][944]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-10.09.02:940][944]LogInit: FAudioDevice initialized.
+[2021.06.23-10.09.02:975][944]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.23-10.09.02:977][944]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.06.23-19.09.02
+[2021.06.23-10.09.02:977][944]LogWorld: Bringing up level for play took: 0.000628
+[2021.06.23-10.09.03:034][944]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 151 points as outliers.
+[2021.06.23-10.09.03:048][944]LetsGo: Warning: SlamMgr::OutliderCnt = 151
+[2021.06.23-10.09.03:627][944]LetsGo: Warning: inlierCnt : 82, stableScore : 16.440233, beststatescore : 1348.099091, bestStateIdx : 9, iter : 35
+[2021.06.23-10.09.03:627][944]LetsGo: Warning: --
+[2021.06.23-10.09.03:627][944]LetsGo: Warning: inlierCnt : 39, stableScore : 17.079137, beststatescore : 666.086331, bestStateIdx : 7, iter : 35
+[2021.06.23-10.09.03:627][944]LetsGo: Warning: --
+[2021.06.23-10.09.03:627][944]LetsGo: Warning: inlierCnt : 26, stableScore : 12.705548, beststatescore : 330.344238, bestStateIdx : 15, iter : 35
+[2021.06.23-10.09.03:627][944]LetsGo: Warning: --
+[2021.06.23-10.09.03:627][944]LetsGo: Warning: inlierCnt : 83, stableScore : 13.960881, beststatescore : 1158.753121, bestStateIdx : 17, iter : 35
+[2021.06.23-10.09.03:627][944]LetsGo: Warning: --
+[2021.06.23-10.09.03:627][944]LetsGo: Warning: inlierCnt : 72, stableScore : 36.070996, beststatescore : 2597.111748, bestStateIdx : 13, iter : 35
+[2021.06.23-10.09.03:628][944]LetsGo: Warning: --
+[2021.06.23-10.09.03:628][944]LetsGo: Warning: inlierCnt : 26, stableScore : 34.034971, beststatescore : 884.909243, bestStateIdx : 15, iter : 35
+[2021.06.23-10.09.03:628][944]LetsGo: Warning: --
+[2021.06.23-10.09.03:628][944]LetsGo: Warning: curBoxScore : 6985.303772, bestBoxScore : 0.000000
+[2021.06.23-10.09.03:628][944]LetsGo: Warning: --------------------------------------
+[2021.06.23-10.09.03:630][944]LetsGo: Warning: Best Box Datafile is saved.
+[2021.06.23-10.09.03:630][944]LetsGo: Warning: Character On.
+[2021.06.23-10.09.03:630][944]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 1.582
+[2021.06.23-10.09.03:630][944]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.11:670][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.11:709][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.46:957][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.23-10.09.47:040][134]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.23-10.09.47:058][134]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.47:058][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-10.09.47:058][134]PIE: New page: PIE 세션: Stage (2021. 6. 24. 오전 4:09:47)
+[2021.06.23-10.09.47:058][134]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.06.23-10.09.47:074][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015895s)
+[2021.06.23-10.09.47:075][134]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-10.09.47:075][134]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2021.06.23-10.09.47:075][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.017015s)
+[2021.06.23-10.09.47:216][134]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-10.09.47:262][134]LogInit: FAudioDevice initialized.
+[2021.06.23-10.09.47:299][134]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.23-10.09.47:300][134]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.06.23-19.09.47
+[2021.06.23-10.09.47:301][134]LogWorld: Bringing up level for play took: 0.000755
+[2021.06.23-10.09.47:359][134]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 151 points as outliers.
+[2021.06.23-10.09.47:378][134]LetsGo: Warning: SlamMgr::OutliderCnt = 151
+[2021.06.23-10.09.47:993][134]LetsGo: Warning: inlierCnt : 50, stableScore : 14.166884, beststatescore : 708.344181, bestStateIdx : 9, iter : 35
+[2021.06.23-10.09.47:993][134]LetsGo: Warning: --
+[2021.06.23-10.09.47:993][134]LetsGo: Warning: inlierCnt : 46, stableScore : 21.169261, beststatescore : 973.785987, bestStateIdx : 7, iter : 35
+[2021.06.23-10.09.47:993][134]LetsGo: Warning: --
+[2021.06.23-10.09.47:994][134]LetsGo: Warning: inlierCnt : 50, stableScore : 10.558135, beststatescore : 527.906754, bestStateIdx : 16, iter : 35
+[2021.06.23-10.09.47:994][134]LetsGo: Warning: --
+[2021.06.23-10.09.47:994][134]LetsGo: Warning: inlierCnt : 75, stableScore : 21.629794, beststatescore : 1622.234542, bestStateIdx : 20, iter : 35
+[2021.06.23-10.09.47:994][134]LetsGo: Warning: --
+[2021.06.23-10.09.47:994][134]LetsGo: Warning: inlierCnt : 45, stableScore : 33.496061, beststatescore : 1507.322767, bestStateIdx : 13, iter : 35
+[2021.06.23-10.09.47:994][134]LetsGo: Warning: --
+[2021.06.23-10.09.47:994][134]LetsGo: Warning: inlierCnt : 24, stableScore : 28.066371, beststatescore : 673.592899, bestStateIdx : 14, iter : 35
+[2021.06.23-10.09.47:994][134]LetsGo: Warning: --
+[2021.06.23-10.09.47:994][134]LetsGo: Warning: curBoxScore : 6013.187129, bestBoxScore : 0.000000
+[2021.06.23-10.09.47:994][134]LetsGo: Warning: --------------------------------------
+[2021.06.23-10.09.47:997][134]LetsGo: Warning: Best Box Datafile is saved.
+[2021.06.23-10.09.47:997][134]LetsGo: Warning: Character On.
+[2021.06.23-10.09.47:997][134]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: -0.052
+[2021.06.23-10.09.47:997][134]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.51:390][521]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.51:425][521]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.51:905][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.23-10.09.52:004][573]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.23-10.09.52:022][573]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.52:022][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-10.09.52:022][573]PIE: New page: PIE 세션: Stage (2021. 6. 24. 오전 4:09:52)
+[2021.06.23-10.09.52:022][573]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.06.23-10.09.52:038][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016045s)
+[2021.06.23-10.09.52:039][573]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-10.09.52:039][573]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2021.06.23-10.09.52:039][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.017072s)
+[2021.06.23-10.09.52:183][573]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-10.09.52:224][573]LogInit: FAudioDevice initialized.
+[2021.06.23-10.09.52:259][573]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.23-10.09.52:260][573]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.06.23-19.09.52
+[2021.06.23-10.09.52:261][573]LogWorld: Bringing up level for play took: 0.000709
+[2021.06.23-10.09.52:316][573]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 151 points as outliers.
+[2021.06.23-10.09.52:330][573]LetsGo: Warning: SlamMgr::OutliderCnt = 151
+[2021.06.23-10.09.52:906][573]LetsGo: Warning: inlierCnt : 76, stableScore : 15.303781, beststatescore : 1163.087382, bestStateIdx : 9, iter : 35
+[2021.06.23-10.09.52:906][573]LetsGo: Warning: --
+[2021.06.23-10.09.52:906][573]LetsGo: Warning: inlierCnt : 42, stableScore : 21.719698, beststatescore : 912.227325, bestStateIdx : 6, iter : 35
+[2021.06.23-10.09.52:906][573]LetsGo: Warning: --
+[2021.06.23-10.09.52:906][573]LetsGo: Warning: inlierCnt : 31, stableScore : 10.785838, beststatescore : 334.360980, bestStateIdx : 16, iter : 35
+[2021.06.23-10.09.52:906][573]LetsGo: Warning: --
+[2021.06.23-10.09.52:906][573]LetsGo: Warning: inlierCnt : 75, stableScore : 17.474990, beststatescore : 1310.624287, bestStateIdx : 18, iter : 35
+[2021.06.23-10.09.52:906][573]LetsGo: Warning: --
+[2021.06.23-10.09.52:906][573]LetsGo: Warning: inlierCnt : 55, stableScore : 36.718972, beststatescore : 2019.543458, bestStateIdx : 13, iter : 35
+[2021.06.23-10.09.52:907][573]LetsGo: Warning: --
+[2021.06.23-10.09.52:907][573]LetsGo: Warning: inlierCnt : 25, stableScore : 34.860510, beststatescore : 871.512751, bestStateIdx : 15, iter : 35
+[2021.06.23-10.09.52:907][573]LetsGo: Warning: --
+[2021.06.23-10.09.52:907][573]LetsGo: Warning: curBoxScore : 6611.356182, bestBoxScore : 0.000000
+[2021.06.23-10.09.52:907][573]LetsGo: Warning: --------------------------------------
+[2021.06.23-10.09.52:909][573]LetsGo: Warning: Best Box Datafile is saved.
+[2021.06.23-10.09.52:909][573]LetsGo: Warning: Character On.
+[2021.06.23-10.09.52:909][573]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 0.861
+[2021.06.23-10.09.52:909][573]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.58:034][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.23-10.09.58:102][168]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.58:135][168]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.58:528][211]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.23-10.09.58:546][211]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.09.58:546][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-10.09.58:546][211]PIE: New page: PIE 세션: Stage (2021. 6. 24. 오전 4:09:58)
+[2021.06.23-10.09.58:546][211]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.06.23-10.09.58:562][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015759s)
+[2021.06.23-10.09.58:563][211]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-10.09.58:563][211]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2021.06.23-10.09.58:563][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.016799s)
+[2021.06.23-10.09.58:708][211]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-10.09.58:752][211]LogInit: FAudioDevice initialized.
+[2021.06.23-10.09.58:786][211]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.23-10.09.58:788][211]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.06.23-19.09.58
+[2021.06.23-10.09.58:788][211]LogWorld: Bringing up level for play took: 0.000629
+[2021.06.23-10.09.58:845][211]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 151 points as outliers.
+[2021.06.23-10.09.58:859][211]LetsGo: Warning: SlamMgr::OutliderCnt = 151
+[2021.06.23-10.09.59:432][211]LetsGo: Warning: inlierCnt : 74, stableScore : 15.262388, beststatescore : 1129.416708, bestStateIdx : 9, iter : 35
+[2021.06.23-10.09.59:432][211]LetsGo: Warning: --
+[2021.06.23-10.09.59:432][211]LetsGo: Warning: inlierCnt : 47, stableScore : 18.052189, beststatescore : 848.452866, bestStateIdx : 7, iter : 35
+[2021.06.23-10.09.59:433][211]LetsGo: Warning: --
+[2021.06.23-10.09.59:433][211]LetsGo: Warning: inlierCnt : 40, stableScore : 12.697856, beststatescore : 507.914260, bestStateIdx : 16, iter : 35
+[2021.06.23-10.09.59:433][211]LetsGo: Warning: --
+[2021.06.23-10.09.59:433][211]LetsGo: Warning: inlierCnt : 52, stableScore : 13.992205, beststatescore : 727.594665, bestStateIdx : 18, iter : 35
+[2021.06.23-10.09.59:433][211]LetsGo: Warning: --
+[2021.06.23-10.09.59:433][211]LetsGo: Warning: inlierCnt : 70, stableScore : 30.595545, beststatescore : 2141.688118, bestStateIdx : 13, iter : 35
+[2021.06.23-10.09.59:433][211]LetsGo: Warning: --
+[2021.06.23-10.09.59:433][211]LetsGo: Warning: inlierCnt : 22, stableScore : 37.616644, beststatescore : 827.566179, bestStateIdx : 16, iter : 35
+[2021.06.23-10.09.59:433][211]LetsGo: Warning: --
+[2021.06.23-10.09.59:434][211]LetsGo: Warning: curBoxScore : 6182.632795, bestBoxScore : 0.000000
+[2021.06.23-10.09.59:434][211]LetsGo: Warning: --------------------------------------
+[2021.06.23-10.09.59:436][211]LetsGo: Warning: Best Box Datafile is saved.
+[2021.06.23-10.09.59:436][211]LetsGo: Warning: Character On.
+[2021.06.23-10.09.59:437][211]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 1.388
+[2021.06.23-10.09.59:437][211]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.10.01:763][481]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.10.01:798][481]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.10.34:835][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.23-10.10.35:117][760]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.23-10.10.35:138][760]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.10.35:138][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-10.10.35:139][760]PIE: New page: PIE 세션: Stage (2021. 6. 24. 오전 4:10:35)
+[2021.06.23-10.10.35:139][760]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.06.23-10.10.35:162][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023011s)
+[2021.06.23-10.10.35:162][760]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-10.10.35:163][760]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2021.06.23-10.10.35:163][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.024253s)
+[2021.06.23-10.10.35:314][760]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-10.10.35:356][760]LogInit: FAudioDevice initialized.
+[2021.06.23-10.10.35:388][760]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.23-10.10.35:390][760]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.06.23-19.10.35
+[2021.06.23-10.10.35:390][760]LogWorld: Bringing up level for play took: 0.000865
+[2021.06.23-10.10.35:451][760]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 151 points as outliers.
+[2021.06.23-10.10.35:465][760]LetsGo: Warning: SlamMgr::OutliderCnt = 151
+[2021.06.23-10.10.36:042][760]LetsGo: Warning: inlierCnt : 68, stableScore : 12.946342, beststatescore : 880.351248, bestStateIdx : 9, iter : 35
+[2021.06.23-10.10.36:042][760]LetsGo: Warning: --
+[2021.06.23-10.10.36:042][760]LetsGo: Warning: inlierCnt : 42, stableScore : 20.339510, beststatescore : 854.259431, bestStateIdx : 7, iter : 35
+[2021.06.23-10.10.36:042][760]LetsGo: Warning: --
+[2021.06.23-10.10.36:042][760]LetsGo: Warning: inlierCnt : 48, stableScore : 11.116475, beststatescore : 533.590801, bestStateIdx : 16, iter : 35
+[2021.06.23-10.10.36:042][760]LetsGo: Warning: --
+[2021.06.23-10.10.36:042][760]LetsGo: Warning: inlierCnt : 87, stableScore : 18.885581, beststatescore : 1643.045537, bestStateIdx : 19, iter : 35
+[2021.06.23-10.10.36:043][760]LetsGo: Warning: --
+[2021.06.23-10.10.36:043][760]LetsGo: Warning: inlierCnt : 68, stableScore : 33.711339, beststatescore : 2292.371055, bestStateIdx : 13, iter : 35
+[2021.06.23-10.10.36:043][760]LetsGo: Warning: --
+[2021.06.23-10.10.36:043][760]LetsGo: Warning: inlierCnt : 22, stableScore : 27.424555, beststatescore : 603.340210, bestStateIdx : 14, iter : 35
+[2021.06.23-10.10.36:043][760]LetsGo: Warning: --
+[2021.06.23-10.10.36:043][760]LetsGo: Warning: curBoxScore : 6806.958282, bestBoxScore : 0.000000
+[2021.06.23-10.10.36:043][760]LetsGo: Warning: --------------------------------------
+[2021.06.23-10.10.36:045][760]LetsGo: Warning: Best Box Datafile is saved.
+[2021.06.23-10.10.36:045][760]LetsGo: Warning: Character On.
+[2021.06.23-10.10.36:045][760]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: -0.003
+[2021.06.23-10.10.36:046][760]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.10.38:646][ 58]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.10.38:682][ 58]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.10.39:120][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.23-10.10.39:203][111]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.23-10.10.39:221][111]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.10.39:222][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-10.10.39:222][111]PIE: New page: PIE 세션: Stage (2021. 6. 24. 오전 4:10:39)
+[2021.06.23-10.10.39:222][111]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.06.23-10.10.39:238][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015947s)
+[2021.06.23-10.10.39:238][111]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-10.10.39:239][111]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2021.06.23-10.10.39:239][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.017097s)
+[2021.06.23-10.10.39:381][111]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-10.10.39:421][111]LogInit: FAudioDevice initialized.
+[2021.06.23-10.10.39:454][111]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.23-10.10.39:457][111]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.06.23-19.10.39
+[2021.06.23-10.10.39:457][111]LogWorld: Bringing up level for play took: 0.001284
+[2021.06.23-10.10.39:530][111]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 151 points as outliers.
+[2021.06.23-10.10.39:544][111]LetsGo: Warning: SlamMgr::OutliderCnt = 151
+[2021.06.23-10.10.40:126][111]LetsGo: Warning: inlierCnt : 69, stableScore : 17.214268, beststatescore : 1187.784509, bestStateIdx : 9, iter : 35
+[2021.06.23-10.10.40:126][111]LetsGo: Warning: --
+[2021.06.23-10.10.40:126][111]LetsGo: Warning: inlierCnt : 35, stableScore : 23.237870, beststatescore : 813.325455, bestStateIdx : 7, iter : 35
+[2021.06.23-10.10.40:126][111]LetsGo: Warning: --
+[2021.06.23-10.10.40:127][111]LetsGo: Warning: inlierCnt : 44, stableScore : 16.109034, beststatescore : 708.797512, bestStateIdx : 16, iter : 35
+[2021.06.23-10.10.40:127][111]LetsGo: Warning: --
+[2021.06.23-10.10.40:127][111]LetsGo: Warning: inlierCnt : 93, stableScore : 22.734458, beststatescore : 2114.304590, bestStateIdx : 19, iter : 35
+[2021.06.23-10.10.40:127][111]LetsGo: Warning: --
+[2021.06.23-10.10.40:127][111]LetsGo: Warning: inlierCnt : 86, stableScore : 37.569733, beststatescore : 3230.997050, bestStateIdx : 13, iter : 35
+[2021.06.23-10.10.40:127][111]LetsGo: Warning: --
+[2021.06.23-10.10.40:127][111]LetsGo: Warning: inlierCnt : 22, stableScore : 38.843368, beststatescore : 854.554104, bestStateIdx : 15, iter : 35
+[2021.06.23-10.10.40:127][111]LetsGo: Warning: --
+[2021.06.23-10.10.40:127][111]LetsGo: Warning: curBoxScore : 8909.763220, bestBoxScore : 0.000000
+[2021.06.23-10.10.40:127][111]LetsGo: Warning: --------------------------------------
+[2021.06.23-10.10.40:130][111]LetsGo: Warning: Best Box Datafile is saved.
+[2021.06.23-10.10.40:130][111]LetsGo: Warning: Character On.
+[2021.06.23-10.10.40:130][111]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 0.082
+[2021.06.23-10.10.40:131][111]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.10.46:290][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.10.46:329][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.10.57:691][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.23-10.10.57:774][  5]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.23-10.10.57:793][  5]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.10.57:793][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-10.10.57:793][  5]PIE: New page: PIE 세션: Stage (2021. 6. 24. 오전 4:10:57)
+[2021.06.23-10.10.57:793][  5]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.06.23-10.10.57:809][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016158s)
+[2021.06.23-10.10.57:810][  5]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-10.10.57:811][  5]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2021.06.23-10.10.57:811][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.017578s)
+[2021.06.23-10.10.57:954][  5]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-10.10.57:994][  5]LogInit: FAudioDevice initialized.
+[2021.06.23-10.10.58:026][  5]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.23-10.10.58:029][  5]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.06.23-19.10.58
+[2021.06.23-10.10.58:029][  5]LogWorld: Bringing up level for play took: 0.000962
+[2021.06.23-10.10.58:102][  5]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 151 points as outliers.
+[2021.06.23-10.10.58:117][  5]LetsGo: Warning: SlamMgr::OutliderCnt = 151
+[2021.06.23-10.10.58:704][  5]LetsGo: Warning: inlierCnt : 83, stableScore : 16.485754, beststatescore : 1368.317609, bestStateIdx : 9, iter : 35
+[2021.06.23-10.10.58:704][  5]LetsGo: Warning: --
+[2021.06.23-10.10.58:704][  5]LetsGo: Warning: inlierCnt : 48, stableScore : 20.744769, beststatescore : 995.748898, bestStateIdx : 7, iter : 35
+[2021.06.23-10.10.58:704][  5]LetsGo: Warning: --
+[2021.06.23-10.10.58:704][  5]LetsGo: Warning: inlierCnt : 42, stableScore : 10.812319, beststatescore : 454.117395, bestStateIdx : 16, iter : 35
+[2021.06.23-10.10.58:704][  5]LetsGo: Warning: --
+[2021.06.23-10.10.58:705][  5]LetsGo: Warning: inlierCnt : 82, stableScore : 23.535348, beststatescore : 1929.898522, bestStateIdx : 19, iter : 35
+[2021.06.23-10.10.58:705][  5]LetsGo: Warning: --
+[2021.06.23-10.10.58:705][  5]LetsGo: Warning: inlierCnt : 41, stableScore : 33.977484, beststatescore : 1393.076830, bestStateIdx : 12, iter : 35
+[2021.06.23-10.10.58:705][  5]LetsGo: Warning: --
+[2021.06.23-10.10.58:705][  5]LetsGo: Warning: inlierCnt : 14, stableScore : 40.265063, beststatescore : 563.710879, bestStateIdx : 15, iter : 35
+[2021.06.23-10.10.58:705][  5]LetsGo: Warning: --
+[2021.06.23-10.10.58:705][  5]LetsGo: Warning: curBoxScore : 6704.870134, bestBoxScore : 0.000000
+[2021.06.23-10.10.58:705][  5]LetsGo: Warning: --------------------------------------
+[2021.06.23-10.10.58:707][  5]LetsGo: Warning: Best Box Datafile is saved.
+[2021.06.23-10.10.58:708][  5]LetsGo: Warning: Character On.
+[2021.06.23-10.10.58:708][  5]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 0.66
+[2021.06.23-10.10.58:708][  5]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.11.00:585][206]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.11.00:622][206]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.11.01:021][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.23-10.11.01:304][281]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.23-10.11.01:324][281]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.11.01:324][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-10.11.01:324][281]PIE: New page: PIE 세션: Stage (2021. 6. 24. 오전 4:11:01)
+[2021.06.23-10.11.01:325][281]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.06.23-10.11.01:340][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015796s)
+[2021.06.23-10.11.01:342][281]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-10.11.01:342][281]LogPlayLevel: PIE: World Init took: (0.001292s)
+[2021.06.23-10.11.01:342][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.017479s)
+[2021.06.23-10.11.01:488][281]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-10.11.01:528][281]LogInit: FAudioDevice initialized.
+[2021.06.23-10.11.01:560][281]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.23-10.11.01:562][281]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.06.23-19.11.01
+[2021.06.23-10.11.01:562][281]LogWorld: Bringing up level for play took: 0.000690
+[2021.06.23-10.11.01:622][281]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 151 points as outliers.
+[2021.06.23-10.11.01:636][281]LetsGo: Warning: SlamMgr::OutliderCnt = 151
+[2021.06.23-10.11.02:210][281]LetsGo: Warning: inlierCnt : 61, stableScore : 14.933370, beststatescore : 910.935583, bestStateIdx : 9, iter : 35
+[2021.06.23-10.11.02:210][281]LetsGo: Warning: --
+[2021.06.23-10.11.02:211][281]LetsGo: Warning: inlierCnt : 48, stableScore : 18.949215, beststatescore : 909.562336, bestStateIdx : 7, iter : 35
+[2021.06.23-10.11.02:211][281]LetsGo: Warning: --
+[2021.06.23-10.11.02:211][281]LetsGo: Warning: inlierCnt : 39, stableScore : 14.894886, beststatescore : 580.900539, bestStateIdx : 16, iter : 35
+[2021.06.23-10.11.02:211][281]LetsGo: Warning: --
+[2021.06.23-10.11.02:211][281]LetsGo: Warning: inlierCnt : 81, stableScore : 19.991743, beststatescore : 1619.331203, bestStateIdx : 19, iter : 35
+[2021.06.23-10.11.02:211][281]LetsGo: Warning: --
+[2021.06.23-10.11.02:211][281]LetsGo: Warning: inlierCnt : 42, stableScore : 29.666499, beststatescore : 1245.992962, bestStateIdx : 12, iter : 35
+[2021.06.23-10.11.02:211][281]LetsGo: Warning: --
+[2021.06.23-10.11.02:211][281]LetsGo: Warning: inlierCnt : 18, stableScore : 31.178339, beststatescore : 561.210095, bestStateIdx : 16, iter : 35
+[2021.06.23-10.11.02:211][281]LetsGo: Warning: --
+[2021.06.23-10.11.02:211][281]LetsGo: Warning: curBoxScore : 5827.932718, bestBoxScore : 0.000000
+[2021.06.23-10.11.02:211][281]LetsGo: Warning: --------------------------------------
+[2021.06.23-10.11.02:213][281]LetsGo: Warning: Best Box Datafile is saved.
+[2021.06.23-10.11.02:214][281]LetsGo: Warning: Character On.
+[2021.06.23-10.11.02:214][281]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 0.165
+[2021.06.23-10.11.02:214][281]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.11.03:904][480]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.11.03:942][480]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.11.04:267][516]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.23-10.11.04:285][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.11.04:286][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-10.11.04:286][516]PIE: New page: PIE 세션: Stage (2021. 6. 24. 오전 4:11:04)
+[2021.06.23-10.11.04:286][516]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.06.23-10.11.04:304][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017737s)
+[2021.06.23-10.11.04:304][516]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-10.11.04:305][516]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2021.06.23-10.11.04:305][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.018749s)
+[2021.06.23-10.11.04:450][516]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-10.11.04:490][516]LogInit: FAudioDevice initialized.
+[2021.06.23-10.11.04:522][516]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.23-10.11.04:524][516]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.06.23-19.11.04
+[2021.06.23-10.11.04:524][516]LogWorld: Bringing up level for play took: 0.000692
+[2021.06.23-10.11.04:583][516]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 151 points as outliers.
+[2021.06.23-10.11.04:597][516]LetsGo: Warning: SlamMgr::OutliderCnt = 151
+[2021.06.23-10.11.05:177][516]LetsGo: Warning: inlierCnt : 62, stableScore : 16.232285, beststatescore : 1006.401696, bestStateIdx : 9, iter : 35
+[2021.06.23-10.11.05:177][516]LetsGo: Warning: --
+[2021.06.23-10.11.05:177][516]LetsGo: Warning: inlierCnt : 39, stableScore : 18.818043, beststatescore : 733.903667, bestStateIdx : 7, iter : 35
+[2021.06.23-10.11.05:177][516]LetsGo: Warning: --
+[2021.06.23-10.11.05:177][516]LetsGo: Warning: inlierCnt : 31, stableScore : 12.859138, beststatescore : 398.633266, bestStateIdx : 16, iter : 35
+[2021.06.23-10.11.05:177][516]LetsGo: Warning: --
+[2021.06.23-10.11.05:177][516]LetsGo: Warning: inlierCnt : 64, stableScore : 25.438639, beststatescore : 1628.072896, bestStateIdx : 19, iter : 35
+[2021.06.23-10.11.05:177][516]LetsGo: Warning: --
+[2021.06.23-10.11.05:177][516]LetsGo: Warning: inlierCnt : 89, stableScore : 37.179752, beststatescore : 3308.997904, bestStateIdx : 13, iter : 35
+[2021.06.23-10.11.05:177][516]LetsGo: Warning: --
+[2021.06.23-10.11.05:178][516]LetsGo: Warning: inlierCnt : 25, stableScore : 35.353198, beststatescore : 883.829942, bestStateIdx : 15, iter : 35
+[2021.06.23-10.11.05:178][516]LetsGo: Warning: --
+[2021.06.23-10.11.05:178][516]LetsGo: Warning: curBoxScore : 7959.839371, bestBoxScore : 0.000000
+[2021.06.23-10.11.05:178][516]LetsGo: Warning: --------------------------------------
+[2021.06.23-10.11.05:180][516]LetsGo: Warning: Best Box Datafile is saved.
+[2021.06.23-10.11.05:180][516]LetsGo: Warning: Character On.
+[2021.06.23-10.11.05:180][516]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 1.132
+[2021.06.23-10.11.05:181][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.11.09:882][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.11.09:919][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.11.10:520][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.23-10.11.10:602][125]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.06.23-10.11.10:620][125]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.11.10:621][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-10.11.10:621][125]PIE: New page: PIE 세션: Stage (2021. 6. 24. 오전 4:11:10)
+[2021.06.23-10.11.10:621][125]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.06.23-10.11.10:637][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016320s)
+[2021.06.23-10.11.10:638][125]LogAIModule: Creating AISystem for world Stage
+[2021.06.23-10.11.10:638][125]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2021.06.23-10.11.10:638][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.017440s)
+[2021.06.23-10.11.10:783][125]LogInit: XAudio2 using 'Digital Audio (S/PDIF)(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.06.23-10.11.10:823][125]LogInit: FAudioDevice initialized.
+[2021.06.23-10.11.10:857][125]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.23-10.11.10:858][125]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.06.23-19.11.10
+[2021.06.23-10.11.10:859][125]LogWorld: Bringing up level for play took: 0.000782
+[2021.06.23-10.11.10:918][125]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 151 points as outliers.
+[2021.06.23-10.11.10:931][125]LetsGo: Warning: SlamMgr::OutliderCnt = 151
+[2021.06.23-10.11.11:509][125]LetsGo: Warning: inlierCnt : 78, stableScore : 15.269339, beststatescore : 1191.008461, bestStateIdx : 9, iter : 35
+[2021.06.23-10.11.11:509][125]LetsGo: Warning: --
+[2021.06.23-10.11.11:509][125]LetsGo: Warning: inlierCnt : 26, stableScore : 28.966299, beststatescore : 753.123779, bestStateIdx : 10, iter : 35
+[2021.06.23-10.11.11:509][125]LetsGo: Warning: --
+[2021.06.23-10.11.11:510][125]LetsGo: Warning: inlierCnt : 52, stableScore : 9.906752, beststatescore : 515.151085, bestStateIdx : 15, iter : 35
+[2021.06.23-10.11.11:510][125]LetsGo: Warning: --
+[2021.06.23-10.11.11:510][125]LetsGo: Warning: inlierCnt : 94, stableScore : 16.541785, beststatescore : 1554.927769, bestStateIdx : 19, iter : 35
+[2021.06.23-10.11.11:510][125]LetsGo: Warning: --
+[2021.06.23-10.11.11:510][125]LetsGo: Warning: inlierCnt : 69, stableScore : 34.708614, beststatescore : 2394.894341, bestStateIdx : 13, iter : 35
+[2021.06.23-10.11.11:510][125]LetsGo: Warning: --
+[2021.06.23-10.11.11:510][125]LetsGo: Warning: inlierCnt : 25, stableScore : 37.681203, beststatescore : 942.030076, bestStateIdx : 16, iter : 35
+[2021.06.23-10.11.11:510][125]LetsGo: Warning: --
+[2021.06.23-10.11.11:510][125]LetsGo: Warning: curBoxScore : 7351.135512, bestBoxScore : 0.000000
+[2021.06.23-10.11.11:510][125]LetsGo: Warning: --------------------------------------
+[2021.06.23-10.11.11:512][125]LetsGo: Warning: Best Box Datafile is saved.
+[2021.06.23-10.11.11:512][125]LetsGo: Warning: Character On.
+[2021.06.23-10.11.11:512][125]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 1.464
+[2021.06.23-10.11.11:512][125]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.11.16:308][686]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-10.11.16:345][686]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.06.23-12.44.47:249][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.06.23-12.44.49:053][398]LogSlate: Window 'LetsGo - 언리얼 에디터' being destroyed
+[2021.06.23-12.44.49:059][398]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2021.06.23-12.44.49:273][399]Cmd: QUIT_EDITOR
+[2021.06.23-12.44.49:606][399]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.06.23-12.44.49:606][399]LogExit: Preparing to exit.
+[2021.06.23-12.44.50:108][399]LogDirectoryWatcher: A directory notification for 'E:/Unreal_Project/4.19.2/LetsGo/Content/' was aborted.
+[2021.06.23-12.44.50:154][399]LogExit: Editor shut down
+[2021.06.23-12.44.50:158][399]LogExit: Transaction tracking system shut down
+[2021.06.23-12.44.50:159][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f54d5ae80, Size=448
+[2021.06.23-12.44.50:159][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f4137f318, Size=56
+[2021.06.23-12.44.50:159][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f54b63098, Size=4
+[2021.06.23-12.44.50:159][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f54b63290, Size=4
+[2021.06.23-12.44.50:159][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f54b63458, Size=4
+[2021.06.23-12.44.50:160][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f54b63630, Size=4
+[2021.06.23-12.44.50:160][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f37b15a80, Size=608
+[2021.06.23-12.44.50:160][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f5d2e6c00, Size=304
+[2021.06.23-12.44.50:160][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f5d22f100, Size=192
+[2021.06.23-12.44.50:161][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f5d2bacb0, Size=4
+[2021.06.23-12.44.50:161][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f5d2ba7d0, Size=4
+[2021.06.23-12.44.50:161][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f5f8c2400, Size=256
+[2021.06.23-12.44.50:161][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f6a7ae080, Size=2400
+[2021.06.23-12.44.50:161][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019f41378400, Size=44
+[2021.06.23-12.44.50:164][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019faf814db8, Size=4
+[2021.06.23-12.44.50:165][399]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019faf814d80, Size=4
+[2021.06.23-12.44.50:308][399]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2021.06.23-12.44.50:309][399]LogDirectoryWatcher: A directory notification for '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/' was aborted.
+[2021.06.23-12.44.50:309][399]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2021.06.23-12.44.50:309][399]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2021.06.23-12.44.50:309][399]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2021.06.23-12.44.50:309][399]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2021.06.23-12.44.50:309][399]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/GoogleARCore/Content/' was aborted.
+[2021.06.23-12.44.50:309][399]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2021.06.23-12.44.50:309][399]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2021.06.23-12.44.50:443][399]LogExit: Object subsystem successfully closed.
+[2021.06.23-12.44.50:468][399]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.06.23-12.44.50:472][399]LogD3D11RHI: Shutdown
+[2021.06.23-12.44.50:472][399]LogD3D11RHI: CleanupD3DDevice
+[2021.06.23-12.44.50:475][399]LogD3D11RHI: ~FD3D11DynamicRHI
+[2021.06.23-12.44.50:510][399]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (594)
+[2021.06.23-12.44.50:510][399]LogModuleManager: Shutting down and abandoning module SynthBenchmark (592)
+[2021.06.23-12.44.50:510][399]LogModuleManager: Shutting down and abandoning module BlueprintGraph (590)
+[2021.06.23-12.44.50:510][399]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (588)
+[2021.06.23-12.44.50:510][399]LogModuleManager: Shutting down and abandoning module DesktopPlatform (586)
+[2021.06.23-12.44.50:510][399]LogModuleManager: Shutting down and abandoning module WorldBrowser (584)
+[2021.06.23-12.44.50:511][399]LogModuleManager: Shutting down and abandoning module SceneOutliner (582)
+[2021.06.23-12.44.50:511][399]LogModuleManager: Shutting down and abandoning module AddContentDialog (580)
+[2021.06.23-12.44.50:511][399]LogDirectoryWatcher: A directory notification for 'E:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2021.06.23-12.44.50:512][399]LogModuleManager: Shutting down and abandoning module WidgetCarousel (579)
+[2021.06.23-12.44.50:512][399]LogModuleManager: Shutting down and abandoning module EditorWidgets (576)
+[2021.06.23-12.44.50:512][399]LogModuleManager: Shutting down and abandoning module CollectionManager (574)
+[2021.06.23-12.44.50:513][399]LogDirectoryWatcher: A directory notification for 'E:/Unreal_Project/4.19.2/LetsGo/Content/Collections/' was aborted.
+[2021.06.23-12.44.50:513][399]LogDirectoryWatcher: A directory notification for 'E:/Unreal_Project/4.19.2/LetsGo/Content/Developers/KISIK/Collections/' was aborted.
+[2021.06.23-12.44.50:513][399]LogDirectoryWatcher: A directory notification for 'E:/Unreal_Project/4.19.2/LetsGo/Saved/Collections/' was aborted.
+[2021.06.23-12.44.50:513][399]LogModuleManager: Shutting down and abandoning module StatsViewer (572)
+[2021.06.23-12.44.50:513][399]LogModuleManager: Shutting down and abandoning module FoliageEdit (570)
+[2021.06.23-12.44.50:513][399]LogModuleManager: Shutting down and abandoning module LandscapeEditor (568)
+[2021.06.23-12.44.50:514][399]LogModuleManager: Shutting down and abandoning module MeshPaintMode (566)
+[2021.06.23-12.44.50:514][399]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (564)
+[2021.06.23-12.44.50:514][399]LogModuleManager: Shutting down and abandoning module ActorPickerMode (562)
+[2021.06.23-12.44.50:514][399]LogModuleManager: Shutting down and abandoning module GeometryMode (560)
+[2021.06.23-12.44.50:514][399]LogModuleManager: Shutting down and abandoning module TextureAlignMode (558)
+[2021.06.23-12.44.50:514][399]LogModuleManager: Shutting down and abandoning module BspMode (556)
+[2021.06.23-12.44.50:514][399]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (554)
+[2021.06.23-12.44.50:514][399]LogModuleManager: Shutting down and abandoning module HardwareSurvey (552)
+[2021.06.23-12.44.50:514][399]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (550)
+[2021.06.23-12.44.50:514][399]LogModuleManager: Shutting down and abandoning module AutomationWorker (548)
+[2021.06.23-12.44.50:514][399]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (546)
+[2021.06.23-12.44.50:514][399]LogModuleManager: Shutting down and abandoning module SequenceRecorder (545)
+[2021.06.23-12.44.50:514][399]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (542)
+[2021.06.23-12.44.50:514][399]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (540)
+[2021.06.23-12.44.50:516][399]LogModuleManager: Shutting down and abandoning module PlacementMode (539)
+[2021.06.23-12.44.50:516][399]LogModuleManager: Shutting down and abandoning module MaterialEditor (538)
+[2021.06.23-12.44.50:518][399]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (534)
+[2021.06.23-12.44.50:518][399]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (532)
+[2021.06.23-12.44.50:518][399]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (530)
+[2021.06.23-12.44.50:519][399]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (528)
+[2021.06.23-12.44.50:519][399]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (526)
+[2021.06.23-12.44.50:519][399]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (524)
+[2021.06.23-12.44.50:519][399]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (522)
+[2021.06.23-12.44.50:519][399]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (520)
+[2021.06.23-12.44.50:519][399]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (518)
+[2021.06.23-12.44.50:519][399]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (516)
+[2021.06.23-12.44.50:519][399]LogModuleManager: Shutting down and abandoning module CharacterAI (514)
+[2021.06.23-12.44.50:519][399]LogModuleManager: Shutting down and abandoning module SmartSnapping (512)
+[2021.06.23-12.44.50:519][399]LogModuleManager: Shutting down and abandoning module SessionServices (510)
+[2021.06.23-12.44.50:519][399]LogModuleManager: Shutting down and abandoning module ViewportSnapping (508)
+[2021.06.23-12.44.50:519][399]LogModuleManager: Shutting down and abandoning module ViewportInteraction (506)
+[2021.06.23-12.44.50:519][399]LogModuleManager: Shutting down and abandoning module ClothPainter (504)
+[2021.06.23-12.44.50:520][399]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (503)
+[2021.06.23-12.44.50:520][399]LogModuleManager: Shutting down and abandoning module LogVisualizer (500)
+[2021.06.23-12.44.50:521][399]LogModuleManager: Shutting down and abandoning module IntroTutorials (498)
+[2021.06.23-12.44.50:522][399]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (497)
+[2021.06.23-12.44.50:523][399]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (494)
+[2021.06.23-12.44.50:523][399]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (492)
+[2021.06.23-12.44.50:523][399]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (490)
+[2021.06.23-12.44.50:523][399]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (489)
+[2021.06.23-12.44.50:743][399]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (486)
+[2021.06.23-12.44.50:743][399]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (484)
+[2021.06.23-12.44.50:743][399]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (482)
+[2021.06.23-12.44.50:743][399]LogModuleManager: Shutting down and abandoning module InputBindingEditor (480)
+[2021.06.23-12.44.50:744][399]LogModuleManager: Shutting down and abandoning module MergeActors (478)
+[2021.06.23-12.44.50:744][399]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (476)
+[2021.06.23-12.44.50:745][399]LogModuleManager: Shutting down and abandoning module LocalizationService (475)
+[2021.06.23-12.44.50:745][399]LogModuleManager: Shutting down and abandoning module HardwareTargeting (472)
+[2021.06.23-12.44.50:745][399]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (470)
+[2021.06.23-12.44.50:746][399]LogModuleManager: Shutting down and abandoning module UndoHistory (468)
+[2021.06.23-12.44.50:746][399]LogModuleManager: Shutting down and abandoning module XmlParser (466)
+[2021.06.23-12.44.50:746][399]LogModuleManager: Shutting down and abandoning module Blutility (464)
+[2021.06.23-12.44.50:746][399]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (462)
+[2021.06.23-12.44.50:746][399]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (461)
+[2021.06.23-12.44.50:746][399]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (458)
+[2021.06.23-12.44.50:746][399]LogModuleManager: Shutting down and abandoning module SettingsEditor (456)
+[2021.06.23-12.44.50:747][399]LogModuleManager: Shutting down and abandoning module ProjectLauncher (454)
+[2021.06.23-12.44.50:747][399]LogModuleManager: Shutting down and abandoning module SessionFrontend (452)
+[2021.06.23-12.44.50:747][399]LogModuleManager: Shutting down and abandoning module ProfilerClient (450)
+[2021.06.23-12.44.50:748][399]LogModuleManager: Shutting down and abandoning module DeviceManager (448)
+[2021.06.23-12.44.50:748][399]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (447)
+[2021.06.23-12.44.50:802][399]LogModuleManager: Shutting down and abandoning module AutomationController (444)
+[2021.06.23-12.44.50:803][399]LogModuleManager: Shutting down and abandoning module AutomationWindow (442)
+[2021.06.23-12.44.50:804][399]LogModuleManager: Shutting down and abandoning module Layers (440)
+[2021.06.23-12.44.50:805][399]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (438)
+[2021.06.23-12.44.50:806][399]LogModuleManager: Shutting down and abandoning module DetailCustomizations (436)
+[2021.06.23-12.44.50:806][399]LogModuleManager: Shutting down and abandoning module PackagesDialog (434)
+[2021.06.23-12.44.50:807][399]LogModuleManager: Shutting down and abandoning module Persona (432)
+[2021.06.23-12.44.50:808][399]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (431)
+[2021.06.23-12.44.50:808][399]LogModuleManager: Shutting down and abandoning module AnimGraph (429)
+[2021.06.23-12.44.50:808][399]LogModuleManager: Shutting down and abandoning module Kismet (426)
+[2021.06.23-12.44.50:814][399]LogModuleManager: Shutting down and abandoning module GraphEditor (424)
+[2021.06.23-12.44.50:814][399]LogModuleManager: Shutting down and abandoning module ClassViewer (422)
+[2021.06.23-12.44.50:814][399]LogModuleManager: Shutting down and abandoning module Toolbox (420)
+[2021.06.23-12.44.50:814][399]LogModuleManager: Shutting down and abandoning module ModuleUI (418)
+[2021.06.23-12.44.50:815][399]LogModuleManager: Shutting down and abandoning module MovieSceneTools (416)
+[2021.06.23-12.44.50:815][399]LogModuleManager: Shutting down and abandoning module OutputLog (414)
+[2021.06.23-12.44.50:815][399]LogModuleManager: Shutting down and abandoning module GammaUI (412)
+[2021.06.23-12.44.50:816][399]LogModuleManager: Shutting down and abandoning module Documentation (410)
+[2021.06.23-12.44.50:816][399]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (408)
+[2021.06.23-12.44.50:816][399]LogModuleManager: Shutting down and abandoning module MovieScene (406)
+[2021.06.23-12.44.50:816][399]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (404)
+[2021.06.23-12.44.50:816][399]LogModuleManager: Shutting down and abandoning module LauncherPlatform (402)
+[2021.06.23-12.44.50:816][399]LogModuleManager: Shutting down and abandoning module AnalyticsET (400)
+[2021.06.23-12.44.50:816][399]LogModuleManager: Shutting down and abandoning module PortalServices (398)
+[2021.06.23-12.44.50:816][399]LogModuleManager: Shutting down and abandoning module PortalRpc (396)
+[2021.06.23-12.44.50:816][399]LogModuleManager: Shutting down and abandoning module MessagingRpc (394)
+[2021.06.23-12.44.50:816][399]LogModuleManager: Shutting down and abandoning module AIModule (392)
+[2021.06.23-12.44.50:816][399]LogModuleManager: Shutting down and abandoning module GameplayDebugger (391)
+[2021.06.23-12.44.50:816][399]LogModuleManager: Shutting down and abandoning module AITestSuite (389)
+[2021.06.23-12.44.50:816][399]LogModuleManager: Shutting down and abandoning module ProfilerService (386)
+[2021.06.23-12.44.50:942][399]LogModuleManager: Shutting down and abandoning module TaskGraph (384)
+[2021.06.23-12.44.50:943][399]LogModuleManager: Shutting down and abandoning module OpenCV410 (382)
+[2021.06.23-12.44.50:943][399]LogModuleManager: Shutting down and abandoning module ObjectBuilder (380)
+[2021.06.23-12.44.50:943][399]LogModuleManager: Shutting down and abandoning module ApproxMVBB (378)
+[2021.06.23-12.44.50:943][399]LogModuleManager: Shutting down and abandoning module SteamVRController (376)
+[2021.06.23-12.44.50:943][399]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (374)
+[2021.06.23-12.44.50:943][399]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (372)
+[2021.06.23-12.44.50:944][399]LogModuleManager: Shutting down and abandoning module OculusInput (370)
+[2021.06.23-12.44.50:944][399]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (368)
+[2021.06.23-12.44.50:944][399]LogModuleManager: Shutting down and abandoning module GoogleARCoreBase (366)
+[2021.06.23-12.44.50:944][399]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (364)
+[2021.06.23-12.44.50:944][399]LogModuleManager: Shutting down and abandoning module CableComponent (362)
+[2021.06.23-12.44.50:944][399]LogModuleManager: Shutting down and abandoning module AudioCapture (360)
+[2021.06.23-12.44.50:944][399]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (358)
+[2021.06.23-12.44.50:944][399]LogModuleManager: Shutting down and abandoning module AndroidPermission (356)
+[2021.06.23-12.44.50:944][399]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (352)
+[2021.06.23-12.44.50:944][399]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (350)
+[2021.06.23-12.44.50:946][399]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (348)
+[2021.06.23-12.44.50:946][399]LogModuleManager: Shutting down and abandoning module MediaCompositing (346)
+[2021.06.23-12.44.50:946][399]LogModuleManager: Shutting down and abandoning module LinearTimecode (344)
+[2021.06.23-12.44.50:946][399]LogModuleManager: Shutting down and abandoning module ImgMedia (342)
+[2021.06.23-12.44.50:950][399]LogModuleManager: Shutting down and abandoning module HTML5Networking (340)
+[2021.06.23-12.44.50:950][399]LogModuleManager: Shutting down and abandoning module AlembicImporter (338)
+[2021.06.23-12.44.50:950][399]LogModuleManager: Shutting down and abandoning module AlembicLibrary (337)
+[2021.06.23-12.44.50:950][399]LogModuleManager: Shutting down and abandoning module GeometryCache (336)
+[2021.06.23-12.44.50:950][399]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (335)
+[2021.06.23-12.44.50:950][399]LogModuleManager: Shutting down and abandoning module DatasmithContent (330)
+[2021.06.23-12.44.50:950][399]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (328)
+[2021.06.23-12.44.50:950][399]LogModuleManager: Shutting down and abandoning module PluginBrowser (326)
+[2021.06.23-12.44.50:952][399]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (324)
+[2021.06.23-12.44.50:952][399]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (322)
+[2021.06.23-12.44.50:952][399]LogModuleManager: Shutting down and abandoning module CryptoKeys (320)
+[2021.06.23-12.44.50:952][399]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (318)
+[2021.06.23-12.44.50:952][399]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (316)
+[2021.06.23-12.44.50:952][399]LogModuleManager: Shutting down and abandoning module UObjectPlugin (314)
+[2021.06.23-12.44.50:952][399]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (312)
+[2021.06.23-12.44.50:952][399]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (310)
+[2021.06.23-12.44.50:953][399]LogModuleManager: Shutting down and abandoning module GitSourceControl (308)
+[2021.06.23-12.44.50:954][399]LogModuleManager: Shutting down and abandoning module SourceControl (307)
+[2021.06.23-12.44.50:955][399]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (304)
+[2021.06.23-12.44.50:955][399]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2021.06.23-12.44.50:955][399]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2021.06.23-12.44.50:955][399]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2021.06.23-12.44.50:955][399]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2021.06.23-12.44.50:955][399]LogModuleManager: Shutting down and abandoning module MeshPaint (295)
+[2021.06.23-12.44.50:955][399]LogModuleManager: Shutting down and abandoning module LetsGo (292)
+[2021.06.23-12.44.50:955][399]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (290)
+[2021.06.23-12.44.50:955][399]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (288)
+[2021.06.23-12.44.50:955][399]LogModuleManager: Shutting down and abandoning module PhysXVehicles (286)
+[2021.06.23-12.44.50:956][399]LogModuleManager: Shutting down and abandoning module OculusEditor (284)
+[2021.06.23-12.44.50:956][399]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (282)
+[2021.06.23-12.44.50:956][399]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (280)
+[2021.06.23-12.44.50:956][399]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (278)
+[2021.06.23-12.44.50:956][399]LogModuleManager: Shutting down and abandoning module ActorSequence (276)
+[2021.06.23-12.44.50:956][399]LogModuleManager: Shutting down and abandoning module UdpMessaging (274)
+[2021.06.23-12.44.51:057][399]LogModuleManager: Shutting down and abandoning module TcpMessaging (272)
+[2021.06.23-12.44.51:158][399]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (270)
+[2021.06.23-12.44.51:158][399]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (268)
+[2021.06.23-12.44.51:158][399]LogModuleManager: Shutting down and abandoning module FacialAnimation (266)
+[2021.06.23-12.44.51:158][399]LogModuleManager: Shutting down and abandoning module DataValidation (264)
+[2021.06.23-12.44.51:158][399]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (262)
+[2021.06.23-12.44.51:159][399]LogModuleManager: Shutting down and abandoning module LevelEditor (261)
+[2021.06.23-12.44.51:160][399]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (260)
+[2021.06.23-12.44.51:160][399]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (258)
+[2021.06.23-12.44.51:160][399]LogModuleManager: Shutting down and abandoning module MainFrame (256)
+[2021.06.23-12.44.51:160][399]LogModuleManager: Shutting down and abandoning module HotReload (255)
+[2021.06.23-12.44.51:161][399]LogDirectoryWatcher: A directory notification for 'E:/Unreal_Project/4.19.2/LetsGo/Binaries/Win64' was aborted.
+[2021.06.23-12.44.51:161][399]LogDirectoryWatcher: A directory notification for 'E:/Unreal_Project/4.19.2/LetsGo/Plugins/ApproxMVBB/Binaries/Win64' was aborted.
+[2021.06.23-12.44.51:161][399]LogDirectoryWatcher: A directory notification for 'E:/Unreal_Project/4.19.2/LetsGo/Plugins/ObjectBuilder/Binaries/Win64' was aborted.
+[2021.06.23-12.44.51:161][399]LogDirectoryWatcher: A directory notification for 'E:/Unreal_Project/4.19.2/LetsGo/Plugins/OpenCV410/Binaries/Win64' was aborted.
+[2021.06.23-12.44.51:161][399]LogModuleManager: Shutting down and abandoning module ContentBrowser (251)
+[2021.06.23-12.44.51:162][399]LogModuleManager: Shutting down and abandoning module TreeMap (249)
+[2021.06.23-12.44.51:163][399]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (246)
+[2021.06.23-12.44.51:163][399]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (244)
+[2021.06.23-12.44.51:163][399]LogModuleManager: Shutting down and abandoning module LiveLink (242)
+[2021.06.23-12.44.51:875][399]LogModuleManager: Shutting down and abandoning module Paper2D (240)
+[2021.06.23-12.44.51:877][399]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (238)
+[2021.06.23-12.44.51:878][399]LogModuleManager: Shutting down and abandoning module WmfMedia (236)
+[2021.06.23-12.44.51:882][399]LogModuleManager: Shutting down and abandoning module Media (235)
+[2021.06.23-12.44.51:889][399]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2021.06.23-12.44.51:889][399]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2021.06.23-12.44.51:889][399]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2021.06.23-12.44.51:890][399]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2021.06.23-12.44.51:890][399]LogModuleManager: Shutting down and abandoning module Overlay (224)
+[2021.06.23-12.44.51:890][399]LogModuleManager: Shutting down and abandoning module OverlayEditor (223)
+[2021.06.23-12.44.51:890][399]LogModuleManager: Shutting down and abandoning module VREditor (220)
+[2021.06.23-12.44.51:892][399]LogModuleManager: Shutting down and abandoning module StringTableEditor (218)
+[2021.06.23-12.44.51:892][399]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (216)
+[2021.06.23-12.44.51:892][399]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (214)
+[2021.06.23-12.44.51:895][399]LogModuleManager: Shutting down and abandoning module FunctionalTesting (212)
+[2021.06.23-12.44.51:896][399]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (210)
+[2021.06.23-12.44.51:897][399]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (209)
+[2021.06.23-12.44.51:897][399]LogModuleManager: Shutting down and abandoning module UMG (206)
+[2021.06.23-12.44.51:898][399]LogModuleManager: Shutting down and abandoning module UMGEditor (205)
+[2021.06.23-12.44.51:900][399]LogModuleManager: Shutting down and abandoning module Sequencer (204)
+[2021.06.23-12.44.51:902][399]LogModuleManager: Shutting down and abandoning module MessageLog (201)
+[2021.06.23-12.44.51:902][399]LogModuleManager: Shutting down and abandoning module SlateReflector (196)
+[2021.06.23-12.44.51:904][399]LogModuleManager: Shutting down and abandoning module Slate (194)
+[2021.06.23-12.44.51:904][399]LogModuleManager: Shutting down and abandoning module EditorStyle (192)
+[2021.06.23-12.44.51:910][399]LogModuleManager: Shutting down and abandoning module MRMesh (190)
+[2021.06.23-12.44.51:910][399]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (188)
+[2021.06.23-12.44.51:912][399]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (186)
+[2021.06.23-12.44.51:912][399]LogModuleManager: Shutting down and abandoning module XAudio2 (184)
+[2021.06.23-12.44.51:912][399]LogModuleManager: Shutting down and abandoning module Networking (182)
+[2021.06.23-12.44.51:912][399]LogModuleManager: Shutting down and abandoning module Core (180)
+[2021.06.23-12.44.51:912][399]LogModuleManager: Shutting down and abandoning module LevelSequence (178)
+[2021.06.23-12.44.51:912][399]LogModuleManager: Shutting down and abandoning module KismetCompiler (176)
+[2021.06.23-12.44.51:912][399]LogModuleManager: Shutting down and abandoning module MeshUtilities (174)
+[2021.06.23-12.44.51:913][399]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (173)
+[2021.06.23-12.44.51:913][399]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (172)
+[2021.06.23-12.44.51:913][399]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (171)
+[2021.06.23-12.44.51:914][399]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (169)
+[2021.06.23-12.44.51:914][399]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (167)
+[2021.06.23-12.44.51:914][399]LogModuleManager: Shutting down and abandoning module MaterialBaking (163)
+[2021.06.23-12.44.51:914][399]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (159)
+[2021.06.23-12.44.51:918][399]LogModuleManager: Shutting down and abandoning module DerivedDataCache (156)
+[2021.06.23-12.44.51:944][399]LogDerivedDataCache: Shutdown
+[2021.06.23-12.44.51:944][399]LogModuleManager: Shutting down and abandoning module XGEController (154)
+[2021.06.23-12.44.51:944][399]LogXGEController: Cleaning working directory: C:/Users/KISIK/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.06.23-12.44.51:945][399]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2021.06.23-12.44.51:945][399]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2021.06.23-12.44.51:946][399]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2021.06.23-12.44.51:946][399]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2021.06.23-12.44.51:947][399]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2021.06.23-12.44.51:947][399]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2021.06.23-12.44.51:948][399]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2021.06.23-12.44.51:948][399]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2021.06.23-12.44.51:948][399]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (137)
+[2021.06.23-12.44.51:948][399]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (135)
+[2021.06.23-12.44.51:949][399]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (133)
+[2021.06.23-12.44.51:949][399]LogModuleManager: Shutting down and abandoning module ImageWrapper (132)
+[2021.06.23-12.44.51:949][399]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (129)
+[2021.06.23-12.44.51:949][399]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2021.06.23-12.44.51:949][399]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2021.06.23-12.44.51:949][399]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2021.06.23-12.44.51:949][399]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (121)
+[2021.06.23-12.44.51:949][399]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (119)
+[2021.06.23-12.44.51:949][399]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2021.06.23-12.44.51:949][399]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (115)
+[2021.06.23-12.44.51:949][399]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2021.06.23-12.44.51:950][399]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2021.06.23-12.44.51:950][399]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2021.06.23-12.44.51:950][399]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2021.06.23-12.44.51:950][399]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2021.06.23-12.44.51:950][399]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (103)
+[2021.06.23-12.44.51:950][399]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (101)
+[2021.06.23-12.44.51:950][399]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (99)
+[2021.06.23-12.44.51:950][399]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (97)
+[2021.06.23-12.44.51:950][399]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (95)
+[2021.06.23-12.44.51:950][399]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (93)
+[2021.06.23-12.44.51:951][399]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (91)
+[2021.06.23-12.44.51:951][399]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (89)
+[2021.06.23-12.44.51:951][399]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (87)
+[2021.06.23-12.44.51:951][399]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (85)
+[2021.06.23-12.44.51:951][399]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (83)
+[2021.06.23-12.44.51:951][399]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (81)
+[2021.06.23-12.44.51:951][399]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (79)
+[2021.06.23-12.44.51:951][399]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (77)
+[2021.06.23-12.44.51:951][399]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (75)
+[2021.06.23-12.44.51:951][399]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (73)
+[2021.06.23-12.44.51:952][399]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (71)
+[2021.06.23-12.44.51:952][399]LogModuleManager: Shutting down and abandoning module InputCore (68)
+[2021.06.23-12.44.51:952][399]LogModuleManager: Shutting down and abandoning module Settings (66)
+[2021.06.23-12.44.51:952][399]LogModuleManager: Shutting down and abandoning module PhysXCooking (64)
+[2021.06.23-12.44.51:952][399]LogModuleManager: Shutting down and abandoning module SteamVR (62)
+[2021.06.23-12.44.51:952][399]LogModuleManager: Shutting down and abandoning module OculusHMD (60)
+[2021.06.23-12.44.51:953][399]LogModuleManager: Shutting down and abandoning module GoogleARCoreRendering (58)
+[2021.06.23-12.44.51:953][399]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2021.06.23-12.44.51:953][399]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2021.06.23-12.44.51:953][399]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2021.06.23-12.44.51:953][399]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2021.06.23-12.44.51:953][399]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2021.06.23-12.44.51:955][399]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2021.06.23-12.44.51:956][399]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2021.06.23-12.44.51:957][399]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.06.23-12.44.51:957][399]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3DE07771-4154-87B5-B808-0888B077574F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=c72a09224594b590e058d8a94ef89727%7C5fa01440f017427ab75ceda424954b9e%7C08981424-8426-45a0-b95c-a80282d9bc9c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2021.06.23-12.44.51:994][399]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2021.06.23-12.44.51:998][399]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2021.06.23-12.44.51:999][399]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.06.23-12.44.51:999][399]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2021.06.23-12.44.51:999][399]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2021.06.23-12.44.52:000][399]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2021.06.23-12.44.52:000][399]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2021.06.23-12.44.52:000][399]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2021.06.23-12.44.52:010][399]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2021.06.23-12.44.52:010][399]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2021.06.23-12.44.52:010][399]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2021.06.23-12.44.52:011][399]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2021.06.23-12.44.52:011][399]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2021.06.23-12.44.52:011][399]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2021.06.23-12.44.52:011][399]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2021.06.23-12.44.52:011][399]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2021.06.23-12.44.52:011][399]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2021.06.23-12.44.52:011][399]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2021.06.23-12.44.52:011][399]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2021.06.23-12.44.52:037][399]LogExit: Exiting.
+[2021.06.23-12.44.52:078][399]Log file closed, 06/23/21 21:44:52

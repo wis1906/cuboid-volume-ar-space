@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OpenCV410-5401.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Unreal_Project\4.19.2\LetsGo\Plugins\OpenCV410\Intermediate\Build\Win64\UE4Editor\Development\OpenCV410\Module.OpenCV410.cpp.obj"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\OpenCV410\PCLaunch.rc.res"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\Unreal_Project\4.19.2\LetsGo\Plugins\OpenCV410\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OpenCV410-5401.lib"
